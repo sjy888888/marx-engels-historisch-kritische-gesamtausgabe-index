@@ -1,0 +1,3537 @@
+[
+ {
+  "pdf_page": 1,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 2,
+  "printed": null,
+  "zone": null,
+  "chars": 340,
+  "first": "M A R X / E N G E L S"
+ },
+ {
+  "pdf_page": 3,
+  "printed": null,
+  "zone": null,
+  "chars": 92,
+  "first": "M A R X / E N G E L S"
+ },
+ {
+  "pdf_page": 4,
+  "printed": null,
+  "zone": null,
+  "chars": 227,
+  "first": "KARL MARX"
+ },
+ {
+  "pdf_page": 5,
+  "printed": null,
+  "zone": null,
+  "chars": 290,
+  "first": "KARL MARX"
+ },
+ {
+  "pdf_page": 6,
+  "printed": null,
+  "zone": null,
+  "chars": 108,
+  "first": "Unveränderter Neudruck der Ausgabe Berlin 1930"
+ },
+ {
+  "pdf_page": 7,
+  "printed": null,
+  "zone": null,
+  "chars": 130,
+  "first": "E I N L E I T U N G"
+ },
+ {
+  "pdf_page": 8,
+  "printed": null,
+  "zone": null,
+  "chars": 95,
+  "first": "D E R"
+ },
+ {
+  "pdf_page": 9,
+  "printed": 1,
+  "zone": "foot",
+  "chars": 1722,
+  "first": "1861"
+ },
+ {
+  "pdf_page": 10,
+  "printed": 1,
+  "zone": "head",
+  "chars": 2375,
+  "first": "2"
+ },
+ {
+  "pdf_page": 11,
+  "printed": 3,
+  "zone": "head",
+  "chars": 2390,
+  "first": "(726) 1861 Jan.8"
+ },
+ {
+  "pdf_page": 12,
+  "printed": 4,
+  "zone": "head",
+  "chars": 2617,
+  "first": "4"
+ },
+ {
+  "pdf_page": 13,
+  "printed": 1,
+  "zone": "head",
+  "chars": 2387,
+  "first": "(727) 1861 Jan. 11"
+ },
+ {
+  "pdf_page": 14,
+  "printed": 6,
+  "zone": "head",
+  "chars": 2781,
+  "first": "6"
+ },
+ {
+  "pdf_page": 15,
+  "printed": 7,
+  "zone": "head",
+  "chars": 2555,
+  "first": "(729) 1861 Jan.22"
+ },
+ {
+  "pdf_page": 16,
+  "printed": 8,
+  "zone": "head",
+  "chars": 2516,
+  "first": "8"
+ },
+ {
+  "pdf_page": 17,
+  "printed": 9,
+  "zone": "head",
+  "chars": 2369,
+  "first": "(730) 1861 Jan. 29"
+ },
+ {
+  "pdf_page": 18,
+  "printed": 10,
+  "zone": "head",
+  "chars": 1763,
+  "first": "10"
+ },
+ {
+  "pdf_page": 19,
+  "printed": 11,
+  "zone": "head",
+  "chars": 2068,
+  "first": "(733) 1861 Febr. 2"
+ },
+ {
+  "pdf_page": 20,
+  "printed": 12,
+  "zone": "head",
+  "chars": 2536,
+  "first": "12"
+ },
+ {
+  "pdf_page": 21,
+  "printed": 13,
+  "zone": "head",
+  "chars": 2619,
+  "first": "(736) 1861 Febr. 14"
+ },
+ {
+  "pdf_page": 22,
+  "printed": 14,
+  "zone": "head",
+  "chars": 2539,
+  "first": "14"
+ },
+ {
+  "pdf_page": 23,
+  "printed": 15,
+  "zone": "head",
+  "chars": 2822,
+  "first": "(737) 1861 Febr. 27"
+ },
+ {
+  "pdf_page": 24,
+  "printed": 16,
+  "zone": "head",
+  "chars": 2573,
+  "first": "16"
+ },
+ {
+  "pdf_page": 25,
+  "printed": 2,
+  "zone": "foot",
+  "chars": 2919,
+  "first": "(738) 1861 Mai 7"
+ },
+ {
+  "pdf_page": 26,
+  "printed": 18,
+  "zone": "head",
+  "chars": 2981,
+  "first": "18"
+ },
+ {
+  "pdf_page": 27,
+  "printed": null,
+  "zone": null,
+  "chars": 49,
+  "first": "Tafel I"
+ },
+ {
+  "pdf_page": 28,
+  "printed": 19,
+  "zone": "head",
+  "chars": 2424,
+  "first": "(738) 1861 Mai 7"
+ },
+ {
+  "pdf_page": 29,
+  "printed": 20,
+  "zone": "head",
+  "chars": 2843,
+  "first": "20"
+ },
+ {
+  "pdf_page": 30,
+  "printed": 21,
+  "zone": "head",
+  "chars": 2865,
+  "first": "(739) 1861 Mai 10"
+ },
+ {
+  "pdf_page": 31,
+  "printed": 22,
+  "zone": "head",
+  "chars": 2766,
+  "first": "22"
+ },
+ {
+  "pdf_page": 32,
+  "printed": 23,
+  "zone": "head",
+  "chars": 2037,
+  "first": "(739) 1861 Mai 10"
+ },
+ {
+  "pdf_page": 33,
+  "printed": 24,
+  "zone": "head",
+  "chars": 3006,
+  "first": "24"
+ },
+ {
+  "pdf_page": 34,
+  "printed": 25,
+  "zone": "head",
+  "chars": 2809,
+  "first": "(741) 1861 Juni 9"
+ },
+ {
+  "pdf_page": 35,
+  "printed": 26,
+  "zone": "head",
+  "chars": 2526,
+  "first": "26"
+ },
+ {
+  "pdf_page": 36,
+  "printed": 27,
+  "zone": "head",
+  "chars": 2614,
+  "first": "(743) 1861 Juni 12"
+ },
+ {
+  "pdf_page": 37,
+  "printed": 28,
+  "zone": "head",
+  "chars": 2787,
+  "first": "28"
+ },
+ {
+  "pdf_page": 38,
+  "printed": 29,
+  "zone": "head",
+  "chars": 2621,
+  "first": "(743) 1861 Juni 12"
+ },
+ {
+  "pdf_page": 39,
+  "printed": 30,
+  "zone": "head",
+  "chars": 2891,
+  "first": "30"
+ },
+ {
+  "pdf_page": 40,
+  "printed": 31,
+  "zone": "head",
+  "chars": 2277,
+  "first": "(744) 1861 Juli 1"
+ },
+ {
+  "pdf_page": 41,
+  "printed": 32,
+  "zone": "head",
+  "chars": 2244,
+  "first": "32"
+ },
+ {
+  "pdf_page": 42,
+  "printed": 33,
+  "zone": "head",
+  "chars": 2604,
+  "first": "(746) 1861 Juli 5"
+ },
+ {
+  "pdf_page": 43,
+  "printed": 34,
+  "zone": "head",
+  "chars": 2769,
+  "first": "34"
+ },
+ {
+  "pdf_page": 44,
+  "printed": 35,
+  "zone": "head",
+  "chars": 2992,
+  "first": "(746) 1861 Juli 5"
+ },
+ {
+  "pdf_page": 45,
+  "printed": 36,
+  "zone": "head",
+  "chars": 2490,
+  "first": "36"
+ },
+ {
+  "pdf_page": 46,
+  "printed": 37,
+  "zone": "head",
+  "chars": 2789,
+  "first": "(747) 1861 Juli 12"
+ },
+ {
+  "pdf_page": 47,
+  "printed": 38,
+  "zone": "head",
+  "chars": 2384,
+  "first": "38"
+ },
+ {
+  "pdf_page": 48,
+  "printed": 39,
+  "zone": "head",
+  "chars": 2620,
+  "first": "(748) 1861 Juli 20"
+ },
+ {
+  "pdf_page": 49,
+  "printed": 40,
+  "zone": "head",
+  "chars": 2093,
+  "first": "40"
+ },
+ {
+  "pdf_page": 50,
+  "printed": 40,
+  "zone": "foot",
+  "chars": 2725,
+  "first": "(750) 1861 Sept. 28"
+ },
+ {
+  "pdf_page": 51,
+  "printed": 42,
+  "zone": "head",
+  "chars": 2666,
+  "first": "42"
+ },
+ {
+  "pdf_page": 52,
+  "printed": 30,
+  "zone": "head",
+  "chars": 2241,
+  "first": "(751) 3861 Okt. 30"
+ },
+ {
+  "pdf_page": 53,
+  "printed": 44,
+  "zone": "head",
+  "chars": 2280,
+  "first": "44"
+ },
+ {
+  "pdf_page": 54,
+  "printed": 45,
+  "zone": "head",
+  "chars": 2023,
+  "first": "(753) 1861 Nov. 18"
+ },
+ {
+  "pdf_page": 55,
+  "printed": null,
+  "zone": null,
+  "chars": 2315,
+  "first": "46"
+ },
+ {
+  "pdf_page": 56,
+  "printed": 35,
+  "zone": "foot",
+  "chars": 2255,
+  "first": "(756) 1861 Dez. 2"
+ },
+ {
+  "pdf_page": 57,
+  "printed": 40,
+  "zone": "foot",
+  "chars": 2587,
+  "first": "48"
+ },
+ {
+  "pdf_page": 58,
+  "printed": 49,
+  "zone": "head",
+  "chars": 2117,
+  "first": "(753) 1861 Dez. 9"
+ },
+ {
+  "pdf_page": 59,
+  "printed": 50,
+  "zone": "head",
+  "chars": 2732,
+  "first": "50"
+ },
+ {
+  "pdf_page": 60,
+  "printed": 51,
+  "zone": "head",
+  "chars": 2887,
+  "first": "(760) 1861 Dez. 19"
+ },
+ {
+  "pdf_page": 61,
+  "printed": 52,
+  "zone": "head",
+  "chars": 2347,
+  "first": "52"
+ },
+ {
+  "pdf_page": 62,
+  "printed": 53,
+  "zone": "head",
+  "chars": 540,
+  "first": "(761) 1861 Dez. 27"
+ },
+ {
+  "pdf_page": 63,
+  "printed": null,
+  "zone": null,
+  "chars": 2133,
+  "first": "1S6Z"
+ },
+ {
+  "pdf_page": 64,
+  "printed": 55,
+  "zone": "head",
+  "chars": 2074,
+  "first": "(762) 1862 Febr. 25"
+ },
+ {
+  "pdf_page": 65,
+  "printed": 56,
+  "zone": "head",
+  "chars": 2120,
+  "first": "56"
+ },
+ {
+  "pdf_page": 66,
+  "printed": 57,
+  "zone": "head",
+  "chars": 2417,
+  "first": "(764) 1862 Marz 3"
+ },
+ {
+  "pdf_page": 67,
+  "printed": 58,
+  "zone": "head",
+  "chars": 2357,
+  "first": "58"
+ },
+ {
+  "pdf_page": 68,
+  "printed": 59,
+  "zone": "head",
+  "chars": 2867,
+  "first": "(766) 1862 März 6"
+ },
+ {
+  "pdf_page": 69,
+  "printed": 60,
+  "zone": "head",
+  "chars": 3127,
+  "first": "60"
+ },
+ {
+  "pdf_page": 70,
+  "printed": 61,
+  "zone": "head",
+  "chars": 2307,
+  "first": "(766) 1862 März 6"
+ },
+ {
+  "pdf_page": 71,
+  "printed": 62,
+  "zone": "head",
+  "chars": 2156,
+  "first": "62"
+ },
+ {
+  "pdf_page": 72,
+  "printed": 63,
+  "zone": "head",
+  "chars": 2926,
+  "first": "(769) 1862 April 28"
+ },
+ {
+  "pdf_page": 73,
+  "printed": 64,
+  "zone": "head",
+  "chars": 2357,
+  "first": "64"
+ },
+ {
+  "pdf_page": 74,
+  "printed": 65,
+  "zone": "head",
+  "chars": 2786,
+  "first": "(770) 1862 Mai 5"
+ },
+ {
+  "pdf_page": 75,
+  "printed": 66,
+  "zone": "head",
+  "chars": 2844,
+  "first": "66"
+ },
+ {
+  "pdf_page": 76,
+  "printed": 67,
+  "zone": "head",
+  "chars": 2429,
+  "first": "(770) 1862 MaiS"
+ },
+ {
+  "pdf_page": 77,
+  "printed": 68,
+  "zone": "head",
+  "chars": 2435,
+  "first": "68"
+ },
+ {
+  "pdf_page": 78,
+  "printed": 69,
+  "zone": "head",
+  "chars": 1589,
+  "first": "(772) 1862 Mai 12"
+ },
+ {
+  "pdf_page": 79,
+  "printed": 70,
+  "zone": "head",
+  "chars": 2667,
+  "first": "70"
+ },
+ {
+  "pdf_page": 80,
+  "printed": 71,
+  "zone": "head",
+  "chars": 2841,
+  "first": "(775) 1862 Mai 23"
+ },
+ {
+  "pdf_page": 81,
+  "printed": 72,
+  "zone": "head",
+  "chars": 2316,
+  "first": "72"
+ },
+ {
+  "pdf_page": 82,
+  "printed": 73,
+  "zone": "head",
+  "chars": 2918,
+  "first": "(776) 1862 Mai 27"
+ },
+ {
+  "pdf_page": 83,
+  "printed": 74,
+  "zone": "head",
+  "chars": 1825,
+  "first": "74"
+ },
+ {
+  "pdf_page": 84,
+  "printed": 75,
+  "zone": "head",
+  "chars": 2627,
+  "first": "(778) 1862 Juni 4"
+ },
+ {
+  "pdf_page": 85,
+  "printed": 76,
+  "zone": "head",
+  "chars": 2151,
+  "first": "76"
+ },
+ {
+  "pdf_page": 86,
+  "printed": 77,
+  "zone": "head",
+  "chars": 2673,
+  "first": "(780) 1862 Juni 18"
+ },
+ {
+  "pdf_page": 87,
+  "printed": null,
+  "zone": null,
+  "chars": 54,
+  "first": "Marx an Engels, 18. Juni 1862"
+ },
+ {
+  "pdf_page": 88,
+  "printed": 78,
+  "zone": "head",
+  "chars": 2123,
+  "first": "78"
+ },
+ {
+  "pdf_page": 89,
+  "printed": 79,
+  "zone": "head",
+  "chars": 2040,
+  "first": "r"
+ },
+ {
+  "pdf_page": 90,
+  "printed": 80,
+  "zone": "head",
+  "chars": 2239,
+  "first": "80"
+ },
+ {
+  "pdf_page": 91,
+  "printed": null,
+  "zone": null,
+  "chars": 3011,
+  "first": "<7.\",5> l!!f)2 Juli.îO"
+ },
+ {
+  "pdf_page": 92,
+  "printed": 82,
+  "zone": "head",
+  "chars": 2560,
+  "first": "82"
+ },
+ {
+  "pdf_page": 93,
+  "printed": 83,
+  "zone": "head",
+  "chars": 2703,
+  "first": "(786) 1862 Juli 30"
+ },
+ {
+  "pdf_page": 94,
+  "printed": null,
+  "zone": null,
+  "chars": 2296,
+  "first": "(786)"
+ },
+ {
+  "pdf_page": 95,
+  "printed": 85,
+  "zone": "head",
+  "chars": 2436,
+  "first": "(787) 1862 Juli 31"
+ },
+ {
+  "pdf_page": 96,
+  "printed": 86,
+  "zone": "head",
+  "chars": 2416,
+  "first": "86"
+ },
+ {
+  "pdf_page": 97,
+  "printed": 87,
+  "zone": "head",
+  "chars": 2990,
+  "first": "(739) 1362 Aug. 2"
+ },
+ {
+  "pdf_page": 98,
+  "printed": null,
+  "zone": null,
+  "chars": 2697,
+  "first": "(789) 1862 Aug. 2"
+ },
+ {
+  "pdf_page": 99,
+  "printed": 89,
+  "zone": "head",
+  "chars": 2963,
+  "first": "Î7ÎÎ9) 1862 Aup.2"
+ },
+ {
+  "pdf_page": 100,
+  "printed": 90,
+  "zone": "head",
+  "chars": 2683,
+  "first": "90"
+ },
+ {
+  "pdf_page": 101,
+  "printed": 91,
+  "zone": "head",
+  "chars": 2558,
+  "first": "(789) 1862 Aug. 2"
+ },
+ {
+  "pdf_page": 102,
+  "printed": 92,
+  "zone": "head",
+  "chars": 2549,
+  "first": "92"
+ },
+ {
+  "pdf_page": 103,
+  "printed": null,
+  "zone": null,
+  "chars": 2766,
+  "first": "(7<)Π"
+ },
+ {
+  "pdf_page": 104,
+  "printed": 94,
+  "zone": "head",
+  "chars": 2381,
+  "first": "94"
+ },
+ {
+  "pdf_page": 105,
+  "printed": 95,
+  "zone": "head",
+  "chars": 2616,
+  "first": "(792) 1862 Aug. 9"
+ },
+ {
+  "pdf_page": 106,
+  "printed": 96,
+  "zone": "head",
+  "chars": 1855,
+  "first": "96"
+ },
+ {
+  "pdf_page": 107,
+  "printed": 97,
+  "zone": "head",
+  "chars": 2010,
+  "first": "(794) 1862 Aug. 13"
+ },
+ {
+  "pdf_page": 108,
+  "printed": 98,
+  "zone": "head",
+  "chars": 2841,
+  "first": "98"
+ },
+ {
+  "pdf_page": 109,
+  "printed": 99,
+  "zone": "head",
+  "chars": 2200,
+  "first": "(796) 1862 Aug. 20"
+ },
+ {
+  "pdf_page": 110,
+  "printed": 100,
+  "zone": "head",
+  "chars": 2519,
+  "first": "100"
+ },
+ {
+  "pdf_page": 111,
+  "printed": 101,
+  "zone": "head",
+  "chars": 2469,
+  "first": "14 i k"
+ },
+ {
+  "pdf_page": 112,
+  "printed": null,
+  "zone": null,
+  "chars": 2141,
+  "first": "(800) 1862 Sept. 10"
+ },
+ {
+  "pdf_page": 113,
+  "printed": 103,
+  "zone": "head",
+  "chars": 2794,
+  "first": "(ROD 1862 Okt. 16"
+ },
+ {
+  "pdf_page": 114,
+  "printed": 104,
+  "zone": "head",
+  "chars": 2334,
+  "first": "104"
+ },
+ {
+  "pdf_page": 115,
+  "printed": 105,
+  "zone": "head",
+  "chars": 2782,
+  "first": "(802) 1862 Okt. 29"
+ },
+ {
+  "pdf_page": 116,
+  "printed": 106,
+  "zone": "head",
+  "chars": 1896,
+  "first": "106"
+ },
+ {
+  "pdf_page": 117,
+  "printed": 107,
+  "zone": "head",
+  "chars": 2389,
+  "first": "(804) 1862 Nov. 5"
+ },
+ {
+  "pdf_page": 118,
+  "printed": null,
+  "zone": null,
+  "chars": 48,
+  "first": "Engels an Marx, 15. November 1862"
+ },
+ {
+  "pdf_page": 119,
+  "printed": 108,
+  "zone": "head",
+  "chars": 1890,
+  "first": "108"
+ },
+ {
+  "pdf_page": 120,
+  "printed": 109,
+  "zone": "head",
+  "chars": 2801,
+  "first": "(807) 1862 Nov. 15"
+ },
+ {
+  "pdf_page": 121,
+  "printed": 110,
+  "zone": "head",
+  "chars": 2453,
+  "first": "110"
+ },
+ {
+  "pdf_page": 122,
+  "printed": null,
+  "zone": null,
+  "chars": 2236,
+  "first": "I F - '"
+ },
+ {
+  "pdf_page": 123,
+  "printed": null,
+  "zone": null,
+  "chars": 2287,
+  "first": "1L2"
+ },
+ {
+  "pdf_page": 124,
+  "printed": null,
+  "zone": null,
+  "chars": 2444,
+  "first": "(8.11) 1862 Dez. 26"
+ },
+ {
+  "pdf_page": 125,
+  "printed": null,
+  "zone": null,
+  "chars": 646,
+  "first": "]]4"
+ },
+ {
+  "pdf_page": 126,
+  "printed": null,
+  "zone": null,
+  "chars": 1940,
+  "first": "is<5?"
+ },
+ {
+  "pdf_page": 127,
+  "printed": 116,
+  "zone": "head",
+  "chars": 2610,
+  "first": "116"
+ },
+ {
+  "pdf_page": 128,
+  "printed": null,
+  "zone": null,
+  "chars": 2330,
+  "first": "(814) 1863 Jan.7"
+ },
+ {
+  "pdf_page": 129,
+  "printed": 118,
+  "zone": "head",
+  "chars": 2335,
+  "first": "118"
+ },
+ {
+  "pdf_page": 130,
+  "printed": 119,
+  "zone": "head",
+  "chars": 2549,
+  "first": "(316) 1863 J a n . 1 3"
+ },
+ {
+  "pdf_page": 131,
+  "printed": 120,
+  "zone": "head",
+  "chars": 2579,
+  "first": "120"
+ },
+ {
+  "pdf_page": 132,
+  "printed": 121,
+  "zone": "head",
+  "chars": 2801,
+  "first": "(3]8) 1863 Jan. 26"
+ },
+ {
+  "pdf_page": 133,
+  "printed": 122,
+  "zone": "head",
+  "chars": 2519,
+  "first": "122"
+ },
+ {
+  "pdf_page": 134,
+  "printed": 123,
+  "zone": "head",
+  "chars": 2800,
+  "first": "(819) 1863 Jan. 28"
+ },
+ {
+  "pdf_page": 135,
+  "printed": 121,
+  "zone": "head",
+  "chars": 2959,
+  "first": "121"
+ },
+ {
+  "pdf_page": 136,
+  "printed": 125,
+  "zone": "head",
+  "chars": 2862,
+  "first": "(819) 1863 Jan.28"
+ },
+ {
+  "pdf_page": 137,
+  "printed": 126,
+  "zone": "head",
+  "chars": 2413,
+  "first": "126"
+ },
+ {
+  "pdf_page": 138,
+  "printed": 127,
+  "zone": "head",
+  "chars": 2360,
+  "first": "(820) 1863 Febr. 13"
+ },
+ {
+  "pdf_page": 139,
+  "printed": 128,
+  "zone": "head",
+  "chars": 2509,
+  "first": "128"
+ },
+ {
+  "pdf_page": 140,
+  "printed": 129,
+  "zone": "head",
+  "chars": 2441,
+  "first": "(822) 1863 Febr. 17"
+ },
+ {
+  "pdf_page": 141,
+  "printed": 130,
+  "zone": "head",
+  "chars": 1925,
+  "first": "130"
+ },
+ {
+  "pdf_page": 142,
+  "printed": 131,
+  "zone": "head",
+  "chars": 2508,
+  "first": "(825) 1863 Febr. 21"
+ },
+ {
+  "pdf_page": 143,
+  "printed": 132,
+  "zone": "head",
+  "chars": 2326,
+  "first": "132"
+ },
+ {
+  "pdf_page": 144,
+  "printed": 133,
+  "zone": "head",
+  "chars": 3020,
+  "first": "(827) 1863 März 24"
+ },
+ {
+  "pdf_page": 145,
+  "printed": 134,
+  "zone": "head",
+  "chars": 2490,
+  "first": "134"
+ },
+ {
+  "pdf_page": 146,
+  "printed": 135,
+  "zone": "head",
+  "chars": 2816,
+  "first": "(828) 1863 April 8"
+ },
+ {
+  "pdf_page": 147,
+  "printed": 136,
+  "zone": "head",
+  "chars": 2816,
+  "first": "136"
+ },
+ {
+  "pdf_page": 148,
+  "printed": 137,
+  "zone": "head",
+  "chars": 3083,
+  "first": "(829) 1863 April 9"
+ },
+ {
+  "pdf_page": 149,
+  "printed": 138,
+  "zone": "head",
+  "chars": 2105,
+  "first": "138"
+ },
+ {
+  "pdf_page": 150,
+  "printed": 139,
+  "zone": "head",
+  "chars": 2949,
+  "first": "(831) 1863 April 21"
+ },
+ {
+  "pdf_page": 151,
+  "printed": 140,
+  "zone": "head",
+  "chars": 2410,
+  "first": "140"
+ },
+ {
+  "pdf_page": 152,
+  "printed": 141,
+  "zone": "head",
+  "chars": 2361,
+  "first": "(832) 1863 Mai 20"
+ },
+ {
+  "pdf_page": 153,
+  "printed": 142,
+  "zone": "head",
+  "chars": 2221,
+  "first": "142"
+ },
+ {
+  "pdf_page": 154,
+  "printed": 143,
+  "zone": "head",
+  "chars": 2092,
+  "first": "(834) 1863 Juni 10"
+ },
+ {
+  "pdf_page": 155,
+  "printed": 144,
+  "zone": "head",
+  "chars": 2753,
+  "first": "144"
+ },
+ {
+  "pdf_page": 156,
+  "printed": 145,
+  "zone": "head",
+  "chars": 2618,
+  "first": "(835) 1863 Juni 11"
+ },
+ {
+  "pdf_page": 157,
+  "printed": 146,
+  "zone": "head",
+  "chars": 2784,
+  "first": "146"
+ },
+ {
+  "pdf_page": 158,
+  "printed": 147,
+  "zone": "head",
+  "chars": 2282,
+  "first": "(837) 1863 Juni 22"
+ },
+ {
+  "pdf_page": 159,
+  "printed": 148,
+  "zone": "head",
+  "chars": 2403,
+  "first": "148"
+ },
+ {
+  "pdf_page": 160,
+  "printed": 149,
+  "zone": "head",
+  "chars": 2886,
+  "first": "(839) 1863 Juli 6"
+ },
+ {
+  "pdf_page": 161,
+  "printed": 150,
+  "zone": "head",
+  "chars": 2918,
+  "first": "150"
+ },
+ {
+  "pdf_page": 162,
+  "printed": null,
+  "zone": null,
+  "chars": 314,
+  "first": "[Marx an Engels, 6. Juli 1863]"
+ },
+ {
+  "pdf_page": 163,
+  "printed": 151,
+  "zone": "head",
+  "chars": 2941,
+  "first": "(839) 1863 Juli 6"
+ },
+ {
+  "pdf_page": 164,
+  "printed": 152,
+  "zone": "head",
+  "chars": 2379,
+  "first": "152"
+ },
+ {
+  "pdf_page": 165,
+  "printed": 153,
+  "zone": "head",
+  "chars": 2838,
+  "first": "(840) 1863 Aug. 15"
+ },
+ {
+  "pdf_page": 166,
+  "printed": 154,
+  "zone": "head",
+  "chars": 2192,
+  "first": "154"
+ },
+ {
+  "pdf_page": 167,
+  "printed": 155,
+  "zone": "head",
+  "chars": 2945,
+  "first": "(841) 1863 Sept. 12"
+ },
+ {
+  "pdf_page": 168,
+  "printed": 156,
+  "zone": "head",
+  "chars": 2346,
+  "first": "156"
+ },
+ {
+  "pdf_page": 169,
+  "printed": 157,
+  "zone": "head",
+  "chars": 2529,
+  "first": "(842) 1863 Nov. 24"
+ },
+ {
+  "pdf_page": 170,
+  "printed": 158,
+  "zone": "head",
+  "chars": 2153,
+  "first": "158"
+ },
+ {
+  "pdf_page": 171,
+  "printed": 159,
+  "zone": "head",
+  "chars": 2458,
+  "first": "(845) 1863 Dez. 4"
+ },
+ {
+  "pdf_page": 172,
+  "printed": 160,
+  "zone": "head",
+  "chars": 2505,
+  "first": "160"
+ },
+ {
+  "pdf_page": 173,
+  "printed": 161,
+  "zone": "head",
+  "chars": 2560,
+  "first": "(846) 1863 Dez. 22"
+ },
+ {
+  "pdf_page": 174,
+  "printed": 162,
+  "zone": "head",
+  "chars": 715,
+  "first": "162"
+ },
+ {
+  "pdf_page": 175,
+  "printed": null,
+  "zone": null,
+  "chars": 2219,
+  "first": "1$64"
+ },
+ {
+  "pdf_page": 176,
+  "printed": 164,
+  "zone": "head",
+  "chars": 2413,
+  "first": "164"
+ },
+ {
+  "pdf_page": 177,
+  "printed": 165,
+  "zone": "head",
+  "chars": 2385,
+  "first": "(849) 1864 Jan. 20"
+ },
+ {
+  "pdf_page": 178,
+  "printed": 166,
+  "zone": "head",
+  "chars": 1936,
+  "first": "166"
+ },
+ {
+  "pdf_page": 179,
+  "printed": null,
+  "zone": null,
+  "chars": 118,
+  "first": "Tafel IV"
+ },
+ {
+  "pdf_page": 180,
+  "printed": 167,
+  "zone": "head",
+  "chars": 2447,
+  "first": "(852) 1864 April 19"
+ },
+ {
+  "pdf_page": 181,
+  "printed": 168,
+  "zone": "head",
+  "chars": 2891,
+  "first": "168"
+ },
+ {
+  "pdf_page": 182,
+  "printed": 169,
+  "zone": "head",
+  "chars": 2514,
+  "first": "(853) 1864 April 29"
+ },
+ {
+  "pdf_page": 183,
+  "printed": 170,
+  "zone": "head",
+  "chars": 2531,
+  "first": "170"
+ },
+ {
+  "pdf_page": 184,
+  "printed": 171,
+  "zone": "head",
+  "chars": 2069,
+  "first": "(855) 1864 Mai 2"
+ },
+ {
+  "pdf_page": 185,
+  "printed": 172,
+  "zone": "head",
+  "chars": 2339,
+  "first": "172"
+ },
+ {
+  "pdf_page": 186,
+  "printed": 173,
+  "zone": "head",
+  "chars": 2933,
+  "first": "(859) 1864 Mai 30"
+ },
+ {
+  "pdf_page": 187,
+  "printed": 174,
+  "zone": "head",
+  "chars": 2318,
+  "first": "174"
+ },
+ {
+  "pdf_page": 188,
+  "printed": 175,
+  "zone": "head",
+  "chars": 2637,
+  "first": "(860) 1864 Juni 3"
+ },
+ {
+  "pdf_page": 189,
+  "printed": 176,
+  "zone": "head",
+  "chars": 2658,
+  "first": "176"
+ },
+ {
+  "pdf_page": 190,
+  "printed": null,
+  "zone": null,
+  "chars": 40,
+  "first": "Tafel V"
+ },
+ {
+  "pdf_page": 191,
+  "printed": 177,
+  "zone": "head",
+  "chars": 2612,
+  "first": "(861) 1864 Juni 3"
+ },
+ {
+  "pdf_page": 192,
+  "printed": 178,
+  "zone": "head",
+  "chars": 2491,
+  "first": "178"
+ },
+ {
+  "pdf_page": 193,
+  "printed": 179,
+  "zone": "head",
+  "chars": 2635,
+  "first": "(863) 1864 Juni 9"
+ },
+ {
+  "pdf_page": 194,
+  "printed": 180,
+  "zone": "head",
+  "chars": 2458,
+  "first": "180"
+ },
+ {
+  "pdf_page": 195,
+  "printed": 181,
+  "zone": "head",
+  "chars": 1759,
+  "first": "(864) 1864 Juni 16"
+ },
+ {
+  "pdf_page": 196,
+  "printed": 182,
+  "zone": "head",
+  "chars": 2439,
+  "first": "182"
+ },
+ {
+  "pdf_page": 197,
+  "printed": 183,
+  "zone": "head",
+  "chars": 2063,
+  "first": "(867) 1864 Juli 5"
+ },
+ {
+  "pdf_page": 198,
+  "printed": 184,
+  "zone": "head",
+  "chars": 2339,
+  "first": "184"
+ },
+ {
+  "pdf_page": 199,
+  "printed": 185,
+  "zone": "head",
+  "chars": 2406,
+  "first": "(869) 1864 Aug. 31"
+ },
+ {
+  "pdf_page": 200,
+  "printed": 186,
+  "zone": "head",
+  "chars": 2737,
+  "first": "186"
+ },
+ {
+  "pdf_page": 201,
+  "printed": 187,
+  "zone": "head",
+  "chars": 2480,
+  "first": "(870) 1864 Sept. 2"
+ },
+ {
+  "pdf_page": 202,
+  "printed": null,
+  "zone": null,
+  "chars": 2549,
+  "first": "(571; 1864 Sept. 2"
+ },
+ {
+  "pdf_page": 203,
+  "printed": 189,
+  "zone": "head",
+  "chars": 2909,
+  "first": "(872) 1864 Sept. 4"
+ },
+ {
+  "pdf_page": 204,
+  "printed": null,
+  "zone": null,
+  "chars": 1058,
+  "first": "Tafel VI"
+ },
+ {
+  "pdf_page": 205,
+  "printed": 190,
+  "zone": "head",
+  "chars": 2577,
+  "first": "190"
+ },
+ {
+  "pdf_page": 206,
+  "printed": 191,
+  "zone": "head",
+  "chars": 2953,
+  "first": "(873) 1864 Sept. 7"
+ },
+ {
+  "pdf_page": 207,
+  "printed": 192,
+  "zone": "head",
+  "chars": 2135,
+  "first": "192"
+ },
+ {
+  "pdf_page": 208,
+  "printed": 193,
+  "zone": "head",
+  "chars": 2986,
+  "first": "(875) 1864 Nov. 2"
+ },
+ {
+  "pdf_page": 209,
+  "printed": 194,
+  "zone": "head",
+  "chars": 2348,
+  "first": "194"
+ },
+ {
+  "pdf_page": 210,
+  "printed": 195,
+  "zone": "head",
+  "chars": 2930,
+  "first": "(876) 1864 Nov. 4"
+ },
+ {
+  "pdf_page": 211,
+  "printed": null,
+  "zone": null,
+  "chars": 56,
+  "first": "Tafel VII"
+ },
+ {
+  "pdf_page": 212,
+  "printed": 196,
+  "zone": "head",
+  "chars": 2890,
+  "first": "196"
+ },
+ {
+  "pdf_page": 213,
+  "printed": 197,
+  "zone": "head",
+  "chars": 2768,
+  "first": "(876) 1864 Nov. 4"
+ },
+ {
+  "pdf_page": 214,
+  "printed": 198,
+  "zone": "head",
+  "chars": 2915,
+  "first": "198"
+ },
+ {
+  "pdf_page": 215,
+  "printed": 199,
+  "zone": "head",
+  "chars": 2511,
+  "first": "(876) 1864 Nov. 4"
+ },
+ {
+  "pdf_page": 216,
+  "printed": null,
+  "zone": null,
+  "chars": 2518,
+  "first": "200"
+ },
+ {
+  "pdf_page": 217,
+  "printed": 201,
+  "zone": "head",
+  "chars": 2448,
+  "first": "Ui k 4 7 6 <•1¾¾ 7. y. 7 0"
+ },
+ {
+  "pdf_page": 218,
+  "printed": 202,
+  "zone": "head",
+  "chars": 2189,
+  "first": "202"
+ },
+ {
+  "pdf_page": 219,
+  "printed": 203,
+  "zone": "head",
+  "chars": 2502,
+  "first": "(880) 1864 Nov. 16"
+ },
+ {
+  "pdf_page": 220,
+  "printed": 204,
+  "zone": "head",
+  "chars": 2334,
+  "first": "204"
+ },
+ {
+  "pdf_page": 221,
+  "printed": 205,
+  "zone": "head",
+  "chars": 2717,
+  "first": "(881) 1864 Nov. 18"
+ },
+ {
+  "pdf_page": 222,
+  "printed": 206,
+  "zone": "head",
+  "chars": 2447,
+  "first": "206"
+ },
+ {
+  "pdf_page": 223,
+  "printed": 207,
+  "zone": "head",
+  "chars": 2029,
+  "first": "(881) 1864 Nov. 18"
+ },
+ {
+  "pdf_page": 224,
+  "printed": 208,
+  "zone": "head",
+  "chars": 2569,
+  "first": "208"
+ },
+ {
+  "pdf_page": 225,
+  "printed": 209,
+  "zone": "head",
+  "chars": 2634,
+  "first": "(884) 1864 Nov. 25"
+ },
+ {
+  "pdf_page": 226,
+  "printed": 210,
+  "zone": "head",
+  "chars": 2840,
+  "first": "210"
+ },
+ {
+  "pdf_page": 227,
+  "printed": 211,
+  "zone": "head",
+  "chars": 2378,
+  "first": "(885) 1864 Dez. 2"
+ },
+ {
+  "pdf_page": 228,
+  "printed": 212,
+  "zone": "head",
+  "chars": 2411,
+  "first": "212"
+ },
+ {
+  "pdf_page": 229,
+  "printed": 213,
+  "zone": "head",
+  "chars": 2869,
+  "first": "(887) 1864 Dez. 10"
+ },
+ {
+  "pdf_page": 230,
+  "printed": 214,
+  "zone": "head",
+  "chars": 2835,
+  "first": "214"
+ },
+ {
+  "pdf_page": 231,
+  "printed": 215,
+  "zone": "head",
+  "chars": 517,
+  "first": "(887) 1864 Dez. 10"
+ },
+ {
+  "pdf_page": 232,
+  "printed": null,
+  "zone": null,
+  "chars": 1926,
+  "first": "1805"
+ },
+ {
+  "pdf_page": 233,
+  "printed": 217,
+  "zone": "head",
+  "chars": 2552,
+  "first": "(889) 1865 Jan. 25"
+ },
+ {
+  "pdf_page": 234,
+  "printed": 218,
+  "zone": "head",
+  "chars": 2569,
+  "first": "218"
+ },
+ {
+  "pdf_page": 235,
+  "printed": 219,
+  "zone": "head",
+  "chars": 2585,
+  "first": "(890) 1865 Jan. 27"
+ },
+ {
+  "pdf_page": 236,
+  "printed": 220,
+  "zone": "head",
+  "chars": 2795,
+  "first": "220"
+ },
+ {
+  "pdf_page": 237,
+  "printed": 221,
+  "zone": "head",
+  "chars": 2677,
+  "first": "(891) 1865 Jan. 30"
+ },
+ {
+  "pdf_page": 238,
+  "printed": null,
+  "zone": null,
+  "chars": 2931,
+  "first": "(892) 1865 Febr. 1"
+ },
+ {
+  "pdf_page": 239,
+  "printed": 223,
+  "zone": "head",
+  "chars": 2452,
+  "first": "(892) 1865 Febr. 1"
+ },
+ {
+  "pdf_page": 240,
+  "printed": 224,
+  "zone": "head",
+  "chars": 2922,
+  "first": "224"
+ },
+ {
+  "pdf_page": 241,
+  "printed": 225,
+  "zone": "head",
+  "chars": 2582,
+  "first": "(893) 1865 Febr. 3"
+ },
+ {
+  "pdf_page": 242,
+  "printed": 226,
+  "zone": "head",
+  "chars": 2722,
+  "first": "226"
+ },
+ {
+  "pdf_page": 243,
+  "printed": 227,
+  "zone": "head",
+  "chars": 2152,
+  "first": "(894) 1865 Febr. 5"
+ },
+ {
+  "pdf_page": 244,
+  "printed": 228,
+  "zone": "head",
+  "chars": 2481,
+  "first": "228"
+ },
+ {
+  "pdf_page": 245,
+  "printed": 229,
+  "zone": "head",
+  "chars": 2749,
+  "first": "(896) 1865 Febr. 7"
+ },
+ {
+  "pdf_page": 246,
+  "printed": 230,
+  "zone": "head",
+  "chars": 2384,
+  "first": "230"
+ },
+ {
+  "pdf_page": 247,
+  "printed": 231,
+  "zone": "head",
+  "chars": 2422,
+  "first": "(897) 1865 Febr. 9"
+ },
+ {
+  "pdf_page": 248,
+  "printed": 232,
+  "zone": "head",
+  "chars": 2788,
+  "first": "232"
+ },
+ {
+  "pdf_page": 249,
+  "printed": 233,
+  "zone": "head",
+  "chars": 2639,
+  "first": "(898) 1865 Febr. 10"
+ },
+ {
+  "pdf_page": 250,
+  "printed": 234,
+  "zone": "head",
+  "chars": 2232,
+  "first": "234"
+ },
+ {
+  "pdf_page": 251,
+  "printed": 235,
+  "zone": "head",
+  "chars": 2485,
+  "first": "(900) 1865 Febr. 13"
+ },
+ {
+  "pdf_page": 252,
+  "printed": 236,
+  "zone": "head",
+  "chars": 2788,
+  "first": "236"
+ },
+ {
+  "pdf_page": 253,
+  "printed": 237,
+  "zone": "head",
+  "chars": 2462,
+  "first": "(901) 1865 Febr.13"
+ },
+ {
+  "pdf_page": 254,
+  "printed": 238,
+  "zone": "head",
+  "chars": 2308,
+  "first": "238"
+ },
+ {
+  "pdf_page": 255,
+  "printed": 239,
+  "zone": "head",
+  "chars": 2351,
+  "first": "(902) 1865 Febr. 16"
+ },
+ {
+  "pdf_page": 256,
+  "printed": 240,
+  "zone": "head",
+  "chars": 2929,
+  "first": "240"
+ },
+ {
+  "pdf_page": 257,
+  "printed": 241,
+  "zone": "head",
+  "chars": 2502,
+  "first": "(903) 1865 Febr. 18"
+ },
+ {
+  "pdf_page": 258,
+  "printed": 242,
+  "zone": "head",
+  "chars": 1974,
+  "first": "242"
+ },
+ {
+  "pdf_page": 259,
+  "printed": 243,
+  "zone": "head",
+  "chars": 2576,
+  "first": "(906) 1865 Febr. 24"
+ },
+ {
+  "pdf_page": 260,
+  "printed": 244,
+  "zone": "head",
+  "chars": 2991,
+  "first": "244"
+ },
+ {
+  "pdf_page": 261,
+  "printed": 245,
+  "zone": "head",
+  "chars": 3070,
+  "first": "(907) 1865 Febr. 25"
+ },
+ {
+  "pdf_page": 262,
+  "printed": 246,
+  "zone": "head",
+  "chars": 2699,
+  "first": "246"
+ },
+ {
+  "pdf_page": 263,
+  "printed": 247,
+  "zone": "head",
+  "chars": 2136,
+  "first": "(908) 1865 Febr. 27"
+ },
+ {
+  "pdf_page": 264,
+  "printed": 248,
+  "zone": "head",
+  "chars": 2817,
+  "first": "248"
+ },
+ {
+  "pdf_page": 265,
+  "printed": 249,
+  "zone": "head",
+  "chars": 2294,
+  "first": "(910) 1865 März 4"
+ },
+ {
+  "pdf_page": 266,
+  "printed": 250,
+  "zone": "head",
+  "chars": 2070,
+  "first": "250"
+ },
+ {
+  "pdf_page": 267,
+  "printed": 251,
+  "zone": "head",
+  "chars": 2441,
+  "first": "(913) 1865 März 11"
+ },
+ {
+  "pdf_page": 268,
+  "printed": 252,
+  "zone": "head",
+  "chars": 2205,
+  "first": "252"
+ },
+ {
+  "pdf_page": 269,
+  "printed": 253,
+  "zone": "head",
+  "chars": 2972,
+  "first": "(914) 1865 März 13"
+ },
+ {
+  "pdf_page": 270,
+  "printed": 254,
+  "zone": "head",
+  "chars": 2779,
+  "first": "254"
+ },
+ {
+  "pdf_page": 271,
+  "printed": 255,
+  "zone": "head",
+  "chars": 2615,
+  "first": "(914) 1865 März 13"
+ },
+ {
+  "pdf_page": 272,
+  "printed": 256,
+  "zone": "head",
+  "chars": 2195,
+  "first": "256"
+ },
+ {
+  "pdf_page": 273,
+  "printed": 257,
+  "zone": "head",
+  "chars": 2967,
+  "first": "(916) 1865 März 18"
+ },
+ {
+  "pdf_page": 274,
+  "printed": 258,
+  "zone": "head",
+  "chars": 2541,
+  "first": "258"
+ },
+ {
+  "pdf_page": 275,
+  "printed": 259,
+  "zone": "head",
+  "chars": 2480,
+  "first": "(917) 1865 März 30"
+ },
+ {
+  "pdf_page": 276,
+  "printed": 260,
+  "zone": "head",
+  "chars": 2777,
+  "first": "260"
+ },
+ {
+  "pdf_page": 277,
+  "printed": 261,
+  "zone": "head",
+  "chars": 2464,
+  "first": "(919) 1865 April 12"
+ },
+ {
+  "pdf_page": 278,
+  "printed": 262,
+  "zone": "head",
+  "chars": 2133,
+  "first": "262"
+ },
+ {
+  "pdf_page": 279,
+  "printed": 263,
+  "zone": "head",
+  "chars": 2840,
+  "first": "(922) 1865 Mai 1"
+ },
+ {
+  "pdf_page": 280,
+  "printed": 264,
+  "zone": "head",
+  "chars": 2591,
+  "first": "264"
+ },
+ {
+  "pdf_page": 281,
+  "printed": 265,
+  "zone": "head",
+  "chars": 2116,
+  "first": "(923) 1865 Mai 3"
+ },
+ {
+  "pdf_page": 282,
+  "printed": 266,
+  "zone": "head",
+  "chars": 2767,
+  "first": "266"
+ },
+ {
+  "pdf_page": 283,
+  "printed": 267,
+  "zone": "head",
+  "chars": 2303,
+  "first": "(924) 1865 Mai 7"
+ },
+ {
+  "pdf_page": 284,
+  "printed": 268,
+  "zone": "head",
+  "chars": 2896,
+  "first": "268"
+ },
+ {
+  "pdf_page": 285,
+  "printed": 269,
+  "zone": "head",
+  "chars": 2469,
+  "first": "(925) 1865 Mai 9"
+ },
+ {
+  "pdf_page": 286,
+  "printed": 270,
+  "zone": "head",
+  "chars": 2449,
+  "first": "270"
+ },
+ {
+  "pdf_page": 287,
+  "printed": 271,
+  "zone": "head",
+  "chars": 2310,
+  "first": "(927) 1865 Mai 13"
+ },
+ {
+  "pdf_page": 288,
+  "printed": 272,
+  "zone": "head",
+  "chars": 2553,
+  "first": "272"
+ },
+ {
+  "pdf_page": 289,
+  "printed": 273,
+  "zone": "head",
+  "chars": 2527,
+  "first": "(928) 1865 Mai 20"
+ },
+ {
+  "pdf_page": 290,
+  "printed": 274,
+  "zone": "head",
+  "chars": 2787,
+  "first": "274"
+ },
+ {
+  "pdf_page": 291,
+  "printed": 275,
+  "zone": "head",
+  "chars": 2840,
+  "first": "(929) 1865 Juni 24"
+ },
+ {
+  "pdf_page": 292,
+  "printed": 276,
+  "zone": "head",
+  "chars": 2346,
+  "first": "276"
+ },
+ {
+  "pdf_page": 293,
+  "printed": 277,
+  "zone": "head",
+  "chars": 2392,
+  "first": "(930) 1865 Juli 15"
+ },
+ {
+  "pdf_page": 294,
+  "printed": 278,
+  "zone": "head",
+  "chars": 2239,
+  "first": "278"
+ },
+ {
+  "pdf_page": 295,
+  "printed": 279,
+  "zone": "head",
+  "chars": 2848,
+  "first": "(932) 1865 Juli 31"
+ },
+ {
+  "pdf_page": 296,
+  "printed": 280,
+  "zone": "head",
+  "chars": 2711,
+  "first": "280"
+ },
+ {
+  "pdf_page": 297,
+  "printed": 281,
+  "zone": "head",
+  "chars": 2293,
+  "first": "(932) 1865 Juli 31"
+ },
+ {
+  "pdf_page": 298,
+  "printed": 282,
+  "zone": "head",
+  "chars": 2915,
+  "first": "282"
+ },
+ {
+  "pdf_page": 299,
+  "printed": 283,
+  "zone": "head",
+  "chars": 2448,
+  "first": "(933) 1865 Aug. 5"
+ },
+ {
+  "pdf_page": 300,
+  "printed": 284,
+  "zone": "head",
+  "chars": 2614,
+  "first": "284"
+ },
+ {
+  "pdf_page": 301,
+  "printed": 285,
+  "zone": "head",
+  "chars": 2458,
+  "first": "(934) 1865 Aug. 7"
+ },
+ {
+  "pdf_page": 302,
+  "printed": 286,
+  "zone": "head",
+  "chars": 2404,
+  "first": "286"
+ },
+ {
+  "pdf_page": 303,
+  "printed": 287,
+  "zone": "head",
+  "chars": 2796,
+  "first": "(936) 1865 Aug. 16"
+ },
+ {
+  "pdf_page": 304,
+  "printed": null,
+  "zone": null,
+  "chars": 2533,
+  "first": "238"
+ },
+ {
+  "pdf_page": 305,
+  "printed": 289,
+  "zone": "head",
+  "chars": 2885,
+  "first": "(937) 1865 Aug. 19"
+ },
+ {
+  "pdf_page": 306,
+  "printed": 290,
+  "zone": "head",
+  "chars": 2373,
+  "first": "290"
+ },
+ {
+  "pdf_page": 307,
+  "printed": 291,
+  "zone": "head",
+  "chars": 2364,
+  "first": "(938) 1865 Aug. 21"
+ },
+ {
+  "pdf_page": 308,
+  "printed": 292,
+  "zone": "head",
+  "chars": 2275,
+  "first": "292"
+ },
+ {
+  "pdf_page": 309,
+  "printed": 293,
+  "zone": "head",
+  "chars": 2070,
+  "first": "(940) 1865 Okt. 4"
+ },
+ {
+  "pdf_page": 310,
+  "printed": 294,
+  "zone": "head",
+  "chars": 1994,
+  "first": "294"
+ },
+ {
+  "pdf_page": 311,
+  "printed": 295,
+  "zone": "head",
+  "chars": 2390,
+  "first": "(944) 1865 Nov. 15"
+ },
+ {
+  "pdf_page": 312,
+  "printed": 296,
+  "zone": "head",
+  "chars": 2768,
+  "first": "296"
+ },
+ {
+  "pdf_page": 313,
+  "printed": 297,
+  "zone": "head",
+  "chars": 2640,
+  "first": "(946) 1865 Nov. 20"
+ },
+ {
+  "pdf_page": 314,
+  "printed": 298,
+  "zone": "head",
+  "chars": 2121,
+  "first": "298"
+ },
+ {
+  "pdf_page": 315,
+  "printed": 299,
+  "zone": "head",
+  "chars": 2970,
+  "first": "(949) 1865 Dez. 26"
+ },
+ {
+  "pdf_page": 316,
+  "printed": 300,
+  "zone": "head",
+  "chars": 2393,
+  "first": "300"
+ },
+ {
+  "pdf_page": 317,
+  "printed": null,
+  "zone": null,
+  "chars": 2045,
+  "first": "186ά"
+ },
+ {
+  "pdf_page": 318,
+  "printed": 302,
+  "zone": "head",
+  "chars": 2178,
+  "first": "302"
+ },
+ {
+  "pdf_page": 319,
+  "printed": 303,
+  "zone": "head",
+  "chars": 2559,
+  "first": "(952) 1866 Jan.15"
+ },
+ {
+  "pdf_page": 320,
+  "printed": 304,
+  "zone": "head",
+  "chars": 2578,
+  "first": "304"
+ },
+ {
+  "pdf_page": 321,
+  "printed": 305,
+  "zone": "head",
+  "chars": 2390,
+  "first": "(953) 1866 Jan. 26"
+ },
+ {
+  "pdf_page": 322,
+  "printed": 306,
+  "zone": "head",
+  "chars": 2385,
+  "first": "306"
+ },
+ {
+  "pdf_page": 323,
+  "printed": 307,
+  "zone": "head",
+  "chars": 2673,
+  "first": "(955) 1866 Febr. 10"
+ },
+ {
+  "pdf_page": 324,
+  "printed": 308,
+  "zone": "head",
+  "chars": 2299,
+  "first": "308"
+ },
+ {
+  "pdf_page": 325,
+  "printed": 309,
+  "zone": "head",
+  "chars": 2221,
+  "first": "(956) 1866 Febr. 13"
+ },
+ {
+  "pdf_page": 326,
+  "printed": 310,
+  "zone": "head",
+  "chars": 1870,
+  "first": "310"
+ },
+ {
+  "pdf_page": 327,
+  "printed": 311,
+  "zone": "head",
+  "chars": 2465,
+  "first": "(959) 1866 Febr. 22"
+ },
+ {
+  "pdf_page": 328,
+  "printed": 312,
+  "zone": "head",
+  "chars": 2377,
+  "first": "312"
+ },
+ {
+  "pdf_page": 329,
+  "printed": 313,
+  "zone": "head",
+  "chars": 1995,
+  "first": "(961) 1866 März 5"
+ },
+ {
+  "pdf_page": 330,
+  "printed": 314,
+  "zone": "head",
+  "chars": 2057,
+  "first": "314"
+ },
+ {
+  "pdf_page": 331,
+  "printed": 315,
+  "zone": "head",
+  "chars": 1843,
+  "first": "(965) 1866 März 15"
+ },
+ {
+  "pdf_page": 332,
+  "printed": 316,
+  "zone": "head",
+  "chars": 2717,
+  "first": "316"
+ },
+ {
+  "pdf_page": 333,
+  "printed": 317,
+  "zone": "head",
+  "chars": 2593,
+  "first": "(967) 1866 März 24"
+ },
+ {
+  "pdf_page": 334,
+  "printed": 318,
+  "zone": "head",
+  "chars": 2208,
+  "first": "318"
+ },
+ {
+  "pdf_page": 335,
+  "printed": 319,
+  "zone": "head",
+  "chars": 2790,
+  "first": "(969) 1866 April 2"
+ },
+ {
+  "pdf_page": 336,
+  "printed": 320,
+  "zone": "head",
+  "chars": 2332,
+  "first": "320"
+ },
+ {
+  "pdf_page": 337,
+  "printed": 321,
+  "zone": "head",
+  "chars": 2567,
+  "first": "(970) 1866 April 2"
+ },
+ {
+  "pdf_page": 338,
+  "printed": 322,
+  "zone": "head",
+  "chars": 2228,
+  "first": "322"
+ },
+ {
+  "pdf_page": 339,
+  "printed": 323,
+  "zone": "head",
+  "chars": 2897,
+  "first": "(972) 1866 Aprü 6"
+ },
+ {
+  "pdf_page": 340,
+  "printed": 324,
+  "zone": "head",
+  "chars": 2620,
+  "first": "324"
+ },
+ {
+  "pdf_page": 341,
+  "printed": 325,
+  "zone": "head",
+  "chars": 2823,
+  "first": "(973) 1866 April 10"
+ },
+ {
+  "pdf_page": 342,
+  "printed": 326,
+  "zone": "head",
+  "chars": 2510,
+  "first": "326"
+ },
+ {
+  "pdf_page": 343,
+  "printed": 327,
+  "zone": "head",
+  "chars": 2408,
+  "first": "(974) 1866 April 13"
+ },
+ {
+  "pdf_page": 344,
+  "printed": 328,
+  "zone": "head",
+  "chars": 2414,
+  "first": "328"
+ },
+ {
+  "pdf_page": 345,
+  "printed": null,
+  "zone": null,
+  "chars": 2638,
+  "first": "(976) 1866 Mai 1"
+ },
+ {
+  "pdf_page": 346,
+  "printed": 330,
+  "zone": "head",
+  "chars": 2102,
+  "first": "330"
+ },
+ {
+  "pdf_page": 347,
+  "printed": 331,
+  "zone": "head",
+  "chars": 2822,
+  "first": "(978) 1866 Mai 10"
+ },
+ {
+  "pdf_page": 348,
+  "printed": 332,
+  "zone": "head",
+  "chars": 2478,
+  "first": "332"
+ },
+ {
+  "pdf_page": 349,
+  "printed": 333,
+  "zone": "head",
+  "chars": 2803,
+  "first": "(979) 1866 Mai 16"
+ },
+ {
+  "pdf_page": 350,
+  "printed": 334,
+  "zone": "head",
+  "chars": 2315,
+  "first": "334"
+ },
+ {
+  "pdf_page": 351,
+  "printed": 335,
+  "zone": "head",
+  "chars": 2636,
+  "first": "(981) 1866 Mai 25"
+ },
+ {
+  "pdf_page": 352,
+  "printed": 336,
+  "zone": "head",
+  "chars": 2533,
+  "first": "336"
+ },
+ {
+  "pdf_page": 353,
+  "printed": 337,
+  "zone": "head",
+  "chars": 2188,
+  "first": "(982) 1866 Juni 7"
+ },
+ {
+  "pdf_page": 354,
+  "printed": 338,
+  "zone": "head",
+  "chars": 2520,
+  "first": "338"
+ },
+ {
+  "pdf_page": 355,
+  "printed": 339,
+  "zone": "head",
+  "chars": 2602,
+  "first": "(983) 1866 Juni 9"
+ },
+ {
+  "pdf_page": 356,
+  "printed": 340,
+  "zone": "head",
+  "chars": 2326,
+  "first": "340"
+ },
+ {
+  "pdf_page": 357,
+  "printed": 341,
+  "zone": "head",
+  "chars": 2647,
+  "first": "(985) 1866 Juni 20"
+ },
+ {
+  "pdf_page": 358,
+  "printed": null,
+  "zone": null,
+  "chars": 2449,
+  "first": "34.2"
+ },
+ {
+  "pdf_page": 359,
+  "printed": 343,
+  "zone": "head",
+  "chars": 2466,
+  "first": "(986) 1866 Juli 4"
+ },
+ {
+  "pdf_page": 360,
+  "printed": 344,
+  "zone": "head",
+  "chars": 2902,
+  "first": "344"
+ },
+ {
+  "pdf_page": 361,
+  "printed": 345,
+  "zone": "head",
+  "chars": 2294,
+  "first": "(987) 1866 Juli 7"
+ },
+ {
+  "pdf_page": 362,
+  "printed": 346,
+  "zone": "head",
+  "chars": 2912,
+  "first": "346"
+ },
+ {
+  "pdf_page": 363,
+  "printed": 347,
+  "zone": "head",
+  "chars": 2478,
+  "first": "(988) 1866 Juli 9"
+ },
+ {
+  "pdf_page": 364,
+  "printed": 348,
+  "zone": "head",
+  "chars": 2277,
+  "first": "348"
+ },
+ {
+  "pdf_page": 365,
+  "printed": 349,
+  "zone": "head",
+  "chars": 2484,
+  "first": "(990) 1866 Juli 21"
+ },
+ {
+  "pdf_page": 366,
+  "printed": 350,
+  "zone": "head",
+  "chars": 2219,
+  "first": "350"
+ },
+ {
+  "pdf_page": 367,
+  "printed": 351,
+  "zone": "head",
+  "chars": 2902,
+  "first": "(992) 1866 Juli 27"
+ },
+ {
+  "pdf_page": 368,
+  "printed": 352,
+  "zone": "head",
+  "chars": 2547,
+  "first": "352"
+ },
+ {
+  "pdf_page": 369,
+  "printed": 353,
+  "zone": "head",
+  "chars": 2876,
+  "first": "(993) 1866 Aug. 6."
+ },
+ {
+  "pdf_page": 370,
+  "printed": 354,
+  "zone": "head",
+  "chars": 2484,
+  "first": "354"
+ },
+ {
+  "pdf_page": 371,
+  "printed": 355,
+  "zone": "head",
+  "chars": 2845,
+  "first": "(994) 1866 Aug. 7"
+ },
+ {
+  "pdf_page": 372,
+  "printed": 356,
+  "zone": "head",
+  "chars": 2489,
+  "first": "356"
+ },
+ {
+  "pdf_page": 373,
+  "printed": 357,
+  "zone": "head",
+  "chars": 2174,
+  "first": "(995) 1866 Aug. 10"
+ },
+ {
+  "pdf_page": 374,
+  "printed": 358,
+  "zone": "head",
+  "chars": 2121,
+  "first": "358"
+ },
+ {
+  "pdf_page": 375,
+  "printed": 359,
+  "zone": "head",
+  "chars": 2410,
+  "first": "(998) 1866 Sept. 26"
+ },
+ {
+  "pdf_page": 376,
+  "printed": 360,
+  "zone": "head",
+  "chars": 2218,
+  "first": "360"
+ },
+ {
+  "pdf_page": 377,
+  "printed": 361,
+  "zone": "head",
+  "chars": 2687,
+  "first": "(1001) 1866 Okt. 3"
+ },
+ {
+  "pdf_page": 378,
+  "printed": 362,
+  "zone": "head",
+  "chars": 2486,
+  "first": "362"
+ },
+ {
+  "pdf_page": 379,
+  "printed": 363,
+  "zone": "head",
+  "chars": 2954,
+  "first": "(1002) 1866 Okt. 5"
+ },
+ {
+  "pdf_page": 380,
+  "printed": 364,
+  "zone": "head",
+  "chars": 2438,
+  "first": "364"
+ },
+ {
+  "pdf_page": 381,
+  "printed": 365,
+  "zone": "head",
+  "chars": 2036,
+  "first": "(1003) 1866 Nov. 8"
+ },
+ {
+  "pdf_page": 382,
+  "printed": 366,
+  "zone": "head",
+  "chars": 2504,
+  "first": "366"
+ },
+ {
+  "pdf_page": 383,
+  "printed": 367,
+  "zone": "head",
+  "chars": 2017,
+  "first": "(1005) 1866 Nov. 11"
+ },
+ {
+  "pdf_page": 384,
+  "printed": 368,
+  "zone": "head",
+  "chars": 2162,
+  "first": "368"
+ },
+ {
+  "pdf_page": 385,
+  "printed": 369,
+  "zone": "head",
+  "chars": 2175,
+  "first": "(1008) 1866 Dez. 14"
+ },
+ {
+  "pdf_page": 386,
+  "printed": 370,
+  "zone": "head",
+  "chars": 2525,
+  "first": "370"
+ },
+ {
+  "pdf_page": 387,
+  "printed": 371,
+  "zone": "head",
+  "chars": 2700,
+  "first": "(1010) 1866 Dez. 21"
+ },
+ {
+  "pdf_page": 388,
+  "printed": 372,
+  "zone": "head",
+  "chars": 1977,
+  "first": "372"
+ },
+ {
+  "pdf_page": 389,
+  "printed": null,
+  "zone": null,
+  "chars": 2183,
+  "first": "1867"
+ },
+ {
+  "pdf_page": 390,
+  "printed": 374,
+  "zone": "head",
+  "chars": 2378,
+  "first": "374"
+ },
+ {
+  "pdf_page": 391,
+  "printed": 375,
+  "zone": "head",
+  "chars": 2346,
+  "first": "(1013) 1867 Jan. 29"
+ },
+ {
+  "pdf_page": 392,
+  "printed": 376,
+  "zone": "head",
+  "chars": 2228,
+  "first": "376"
+ },
+ {
+  "pdf_page": 393,
+  "printed": 377,
+  "zone": "head",
+  "chars": 2712,
+  "first": "(1016) 1867 März 13"
+ },
+ {
+  "pdf_page": 394,
+  "printed": 378,
+  "zone": "head",
+  "chars": 2624,
+  "first": "378"
+ },
+ {
+  "pdf_page": 395,
+  "printed": 379,
+  "zone": "head",
+  "chars": 2466,
+  "first": "(1017) 1867 März 27"
+ },
+ {
+  "pdf_page": 396,
+  "printed": 380,
+  "zone": "head",
+  "chars": 2505,
+  "first": "380"
+ },
+ {
+  "pdf_page": 397,
+  "printed": 381,
+  "zone": "head",
+  "chars": 2924,
+  "first": "(1019) 1867 April 13"
+ },
+ {
+  "pdf_page": 398,
+  "printed": 382,
+  "zone": "head",
+  "chars": 2478,
+  "first": "382"
+ },
+ {
+  "pdf_page": 399,
+  "printed": 383,
+  "zone": "head",
+  "chars": 2892,
+  "first": "(1020) 1867 April 24"
+ },
+ {
+  "pdf_page": 400,
+  "printed": 384,
+  "zone": "head",
+  "chars": 2208,
+  "first": "384"
+ },
+ {
+  "pdf_page": 401,
+  "printed": 385,
+  "zone": "head",
+  "chars": 2852,
+  "first": "(1021) 1867 April 27"
+ },
+ {
+  "pdf_page": 402,
+  "printed": 386,
+  "zone": "head",
+  "chars": 2928,
+  "first": "386"
+ },
+ {
+  "pdf_page": 403,
+  "printed": 387,
+  "zone": "head",
+  "chars": 2753,
+  "first": "(1021) 1867 Aprü 27"
+ },
+ {
+  "pdf_page": 404,
+  "printed": 388,
+  "zone": "head",
+  "chars": 2391,
+  "first": "388"
+ },
+ {
+  "pdf_page": 405,
+  "printed": 389,
+  "zone": "head",
+  "chars": 2902,
+  "first": "(1022) 1867 Mai 7"
+ },
+ {
+  "pdf_page": 406,
+  "printed": 390,
+  "zone": "head",
+  "chars": 2789,
+  "first": "390"
+ },
+ {
+  "pdf_page": 407,
+  "printed": 391,
+  "zone": "head",
+  "chars": 2409,
+  "first": "(1022) 1867 Mai 7"
+ },
+ {
+  "pdf_page": 408,
+  "printed": 392,
+  "zone": "head",
+  "chars": 2215,
+  "first": "392"
+ },
+ {
+  "pdf_page": 409,
+  "printed": null,
+  "zone": null,
+  "chars": 2350,
+  "first": "(1024) 1867 Juni 3"
+ },
+ {
+  "pdf_page": 410,
+  "printed": 394,
+  "zone": "head",
+  "chars": 2197,
+  "first": "394"
+ },
+ {
+  "pdf_page": 411,
+  "printed": 395,
+  "zone": "head",
+  "chars": 2806,
+  "first": "(1026) 1867 Juni 22"
+ },
+ {
+  "pdf_page": 412,
+  "printed": null,
+  "zone": null,
+  "chars": 2910,
+  "first": "(1026) 1867 Juni 22"
+ },
+ {
+  "pdf_page": 413,
+  "printed": null,
+  "zone": null,
+  "chars": 57,
+  "first": "Marx an Engels, 22. Juni 1867"
+ },
+ {
+  "pdf_page": 414,
+  "printed": 397,
+  "zone": "head",
+  "chars": 2344,
+  "first": "(1026) 1867 Juni 22"
+ },
+ {
+  "pdf_page": 415,
+  "printed": 398,
+  "zone": "head",
+  "chars": 2823,
+  "first": "398"
+ },
+ {
+  "pdf_page": 416,
+  "printed": 399,
+  "zone": "head",
+  "chars": 2559,
+  "first": "(1027) 1867 Juni 24"
+ },
+ {
+  "pdf_page": 417,
+  "printed": 400,
+  "zone": "head",
+  "chars": 2360,
+  "first": "400"
+ },
+ {
+  "pdf_page": 418,
+  "printed": 401,
+  "zone": "head",
+  "chars": 2674,
+  "first": "y . 7û"
+ },
+ {
+  "pdf_page": 419,
+  "printed": 402,
+  "zone": "head",
+  "chars": 2510,
+  "first": "402"
+ },
+ {
+  "pdf_page": 420,
+  "printed": 403,
+  "zone": "head",
+  "chars": 2513,
+  "first": "(1029) 1867 Juni 27"
+ },
+ {
+  "pdf_page": 421,
+  "printed": 404,
+  "zone": "head",
+  "chars": 2755,
+  "first": "404"
+ },
+ {
+  "pdf_page": 422,
+  "printed": 405,
+  "zone": "head",
+  "chars": 2007,
+  "first": "(1031) 1867 Juli 20"
+ },
+ {
+  "pdf_page": 423,
+  "printed": 406,
+  "zone": "head",
+  "chars": 2275,
+  "first": "406"
+ },
+ {
+  "pdf_page": 424,
+  "printed": 407,
+  "zone": "head",
+  "chars": 1895,
+  "first": "(1034) 1867 Aug. 14"
+ },
+ {
+  "pdf_page": 425,
+  "printed": 408,
+  "zone": "head",
+  "chars": 2184,
+  "first": "408"
+ },
+ {
+  "pdf_page": 426,
+  "printed": null,
+  "zone": null,
+  "chars": 54,
+  "first": "Tafel IX"
+ },
+ {
+  "pdf_page": 427,
+  "printed": 409,
+  "zone": "head",
+  "chars": 2294,
+  "first": "(1037) 1867 Aug. 23"
+ },
+ {
+  "pdf_page": 428,
+  "printed": 410,
+  "zone": "head",
+  "chars": 3079,
+  "first": "410"
+ },
+ {
+  "pdf_page": 429,
+  "printed": 411,
+  "zone": "head",
+  "chars": 2109,
+  "first": "(1038) 1867 Aug. 24"
+ },
+ {
+  "pdf_page": 430,
+  "printed": 412,
+  "zone": "head",
+  "chars": 2375,
+  "first": "412"
+ },
+ {
+  "pdf_page": 431,
+  "printed": 413,
+  "zone": "head",
+  "chars": 2096,
+  "first": "(IÔ40) 1867 Aug. 27"
+ },
+ {
+  "pdf_page": 432,
+  "printed": null,
+  "zone": null,
+  "chars": 1750,
+  "first": "1859 1. Jen. Abschr, 10%"
+ },
+ {
+  "pdf_page": 433,
+  "printed": 415,
+  "zone": "head",
+  "chars": 2111,
+  "first": "(1041) 1867 Aug.31"
+ },
+ {
+  "pdf_page": 434,
+  "printed": null,
+  "zone": null,
+  "chars": 2309,
+  "first": "me"
+ },
+ {
+  "pdf_page": 435,
+  "printed": 417,
+  "zone": "head",
+  "chars": 2736,
+  "first": "(1044) 1867 Sept. 4"
+ },
+ {
+  "pdf_page": 436,
+  "printed": 418,
+  "zone": "head",
+  "chars": 2874,
+  "first": "418"
+ },
+ {
+  "pdf_page": 437,
+  "printed": 419,
+  "zone": "head",
+  "chars": 2193,
+  "first": "(1044) 1867 Sept. 4"
+ },
+ {
+  "pdf_page": 438,
+  "printed": 420,
+  "zone": "head",
+  "chars": 2622,
+  "first": "420"
+ },
+ {
+  "pdf_page": 439,
+  "printed": 421,
+  "zone": "head",
+  "chars": 2277,
+  "first": "(1047) 1867 Sept. 11"
+ },
+ {
+  "pdf_page": 440,
+  "printed": 422,
+  "zone": "head",
+  "chars": 2803,
+  "first": "422"
+ },
+ {
+  "pdf_page": 441,
+  "printed": null,
+  "zone": null,
+  "chars": 2532,
+  "first": "(1048) 1867 Sept. Λ"
+ },
+ {
+  "pdf_page": 442,
+  "printed": 424,
+  "zone": "head",
+  "chars": 1979,
+  "first": "424"
+ },
+ {
+  "pdf_page": 443,
+  "printed": 425,
+  "zone": "head",
+  "chars": 2170,
+  "first": "(1051) 1867 Sept. 12"
+ },
+ {
+  "pdf_page": 444,
+  "printed": 426,
+  "zone": "head",
+  "chars": 2687,
+  "first": "426"
+ },
+ {
+  "pdf_page": 445,
+  "printed": 427,
+  "zone": "head",
+  "chars": 2917,
+  "first": "(1053) 1867 Okt. 4"
+ },
+ {
+  "pdf_page": 446,
+  "printed": 428,
+  "zone": "head",
+  "chars": 3091,
+  "first": "428"
+ },
+ {
+  "pdf_page": 447,
+  "printed": 429,
+  "zone": "head",
+  "chars": 2486,
+  "first": "(1053) 1867 Okt. 4"
+ },
+ {
+  "pdf_page": 448,
+  "printed": 430,
+  "zone": "head",
+  "chars": 2250,
+  "first": "430"
+ },
+ {
+  "pdf_page": 449,
+  "printed": 431,
+  "zone": "head",
+  "chars": 2074,
+  "first": "(1055) 1867 Okt. 9"
+ },
+ {
+  "pdf_page": 450,
+  "printed": 432,
+  "zone": "head",
+  "chars": 2345,
+  "first": "432"
+ },
+ {
+  "pdf_page": 451,
+  "printed": 433,
+  "zone": "head",
+  "chars": 2548,
+  "first": "(1058) 1867 Okt. 13"
+ },
+ {
+  "pdf_page": 452,
+  "printed": 434,
+  "zone": "head",
+  "chars": 2161,
+  "first": "434"
+ },
+ {
+  "pdf_page": 453,
+  "printed": 435,
+  "zone": "head",
+  "chars": 1867,
+  "first": "(1060) 1867 Okt. 15"
+ },
+ {
+  "pdf_page": 454,
+  "printed": 436,
+  "zone": "head",
+  "chars": 2494,
+  "first": "436"
+ },
+ {
+  "pdf_page": 455,
+  "printed": 437,
+  "zone": "head",
+  "chars": 2167,
+  "first": "(1062) 1867 Okt. 19"
+ },
+ {
+  "pdf_page": 456,
+  "printed": 438,
+  "zone": "head",
+  "chars": 2390,
+  "first": "438"
+ },
+ {
+  "pdf_page": 457,
+  "printed": 439,
+  "zone": "head",
+  "chars": 2272,
+  "first": "(1063) 1867 Okt. 22"
+ },
+ {
+  "pdf_page": 458,
+  "printed": 440,
+  "zone": "head",
+  "chars": 2369,
+  "first": "440"
+ },
+ {
+  "pdf_page": 459,
+  "printed": 441,
+  "zone": "head",
+  "chars": 2792,
+  "first": "(1065) 1867 Nov. 2"
+ },
+ {
+  "pdf_page": 460,
+  "printed": 442,
+  "zone": "head",
+  "chars": 2381,
+  "first": "442"
+ },
+ {
+  "pdf_page": 461,
+  "printed": 443,
+  "zone": "head",
+  "chars": 2788,
+  "first": "(1066) 1867 Nov. 5"
+ },
+ {
+  "pdf_page": 462,
+  "printed": 444,
+  "zone": "head",
+  "chars": 2386,
+  "first": "444"
+ },
+ {
+  "pdf_page": 463,
+  "printed": 445,
+  "zone": "head",
+  "chars": 2276,
+  "first": "(1067) 1867 Nov. 7"
+ },
+ {
+  "pdf_page": 464,
+  "printed": 446,
+  "zone": "head",
+  "chars": 2338,
+  "first": "446"
+ },
+ {
+  "pdf_page": 465,
+  "printed": 447,
+  "zone": "head",
+  "chars": 2144,
+  "first": "(1069) 1867 Nov. 9"
+ },
+ {
+  "pdf_page": 466,
+  "printed": 448,
+  "zone": "head",
+  "chars": 2824,
+  "first": "448"
+ },
+ {
+  "pdf_page": 467,
+  "printed": 449,
+  "zone": "head",
+  "chars": 2312,
+  "first": "(1071) 1867 Nov. 14"
+ },
+ {
+  "pdf_page": 468,
+  "printed": 450,
+  "zone": "head",
+  "chars": 2395,
+  "first": "450"
+ },
+ {
+  "pdf_page": 469,
+  "printed": 451,
+  "zone": "head",
+  "chars": 2516,
+  "first": "(1073) 1867 Nov. 26"
+ },
+ {
+  "pdf_page": 470,
+  "printed": 452,
+  "zone": "head",
+  "chars": 2295,
+  "first": "452"
+ },
+ {
+  "pdf_page": 471,
+  "printed": 453,
+  "zone": "head",
+  "chars": 1867,
+  "first": "(1075) 1867 Nov. 28"
+ },
+ {
+  "pdf_page": 472,
+  "printed": 454,
+  "zone": "head",
+  "chars": 2246,
+  "first": "454"
+ },
+ {
+  "pdf_page": 473,
+  "printed": 455,
+  "zone": "head",
+  "chars": 2419,
+  "first": "(1078) 1867 Nov. 30"
+ },
+ {
+  "pdf_page": 474,
+  "printed": 456,
+  "zone": "head",
+  "chars": 2971,
+  "first": "456"
+ },
+ {
+  "pdf_page": 475,
+  "printed": 457,
+  "zone": "head",
+  "chars": 2798,
+  "first": "(1079) 1367 Nov. 30"
+ },
+ {
+  "pdf_page": 476,
+  "printed": 458,
+  "zone": "head",
+  "chars": 2256,
+  "first": "458"
+ },
+ {
+  "pdf_page": 477,
+  "printed": 459,
+  "zone": "head",
+  "chars": 2469,
+  "first": "(1081) 1867 Dez. 6"
+ },
+ {
+  "pdf_page": 478,
+  "printed": 460,
+  "zone": "head",
+  "chars": 2935,
+  "first": "460"
+ },
+ {
+  "pdf_page": 479,
+  "printed": 461,
+  "zone": "head",
+  "chars": 2414,
+  "first": "(1082) 1867 Dez. 7"
+ },
+ {
+  "pdf_page": 480,
+  "printed": 462,
+  "zone": "head",
+  "chars": 2012,
+  "first": "462"
+ },
+ {
+  "pdf_page": 481,
+  "printed": 463,
+  "zone": "head",
+  "chars": 2250,
+  "first": "(1085) 1867 Dez. 14"
+ },
+ {
+  "pdf_page": 482,
+  "printed": 464,
+  "zone": "head",
+  "chars": 2121,
+  "first": "464"
+ },
+ {
+  "pdf_page": 483,
+  "printed": 465,
+  "zone": "head",
+  "chars": 2531,
+  "first": "(1087) 1867 Dez. 17"
+ },
+ {
+  "pdf_page": 484,
+  "printed": 466,
+  "zone": "head",
+  "chars": 1508,
+  "first": "466"
+ },
+ {
+  "pdf_page": 485,
+  "printed": null,
+  "zone": null,
+  "chars": 13,
+  "first": "NAMENREGISTER"
+ },
+ {
+  "pdf_page": 486,
+  "printed": null,
+  "zone": null,
+  "chars": 2579,
+  "first": "Abarbanel 112 115 120"
+ },
+ {
+  "pdf_page": 487,
+  "printed": 470,
+  "zone": "head",
+  "chars": 2735,
+  "first": "470"
+ },
+ {
+  "pdf_page": 488,
+  "printed": 471,
+  "zone": "head",
+  "chars": 2929,
+  "first": "Namenregister"
+ },
+ {
+  "pdf_page": 489,
+  "printed": 472,
+  "zone": "head",
+  "chars": 2629,
+  "first": "472"
+ },
+ {
+  "pdf_page": 490,
+  "printed": 473,
+  "zone": "head",
+  "chars": 2950,
+  "first": "Namenregister"
+ },
+ {
+  "pdf_page": 491,
+  "printed": 474,
+  "zone": "head",
+  "chars": 3065,
+  "first": "474"
+ },
+ {
+  "pdf_page": 492,
+  "printed": 475,
+  "zone": "head",
+  "chars": 2649,
+  "first": "Namenregister"
+ },
+ {
+  "pdf_page": 493,
+  "printed": 476,
+  "zone": "head",
+  "chars": 2523,
+  "first": "476"
+ },
+ {
+  "pdf_page": 494,
+  "printed": 477,
+  "zone": "head",
+  "chars": 2540,
+  "first": "Namenregister"
+ },
+ {
+  "pdf_page": 495,
+  "printed": 478,
+  "zone": "head",
+  "chars": 1388,
+  "first": "478"
+ },
+ {
+  "pdf_page": 496,
+  "printed": null,
+  "zone": null,
+  "chars": 6,
+  "first": "INHALT"
+ },
+ {
+  "pdf_page": 497,
+  "printed": null,
+  "zone": null,
+  "chars": 1730,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 498,
+  "printed": 482,
+  "zone": "head",
+  "chars": 2120,
+  "first": "482"
+ },
+ {
+  "pdf_page": 499,
+  "printed": 483,
+  "zone": "head",
+  "chars": 2098,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 500,
+  "printed": 484,
+  "zone": "head",
+  "chars": 2113,
+  "first": "484"
+ },
+ {
+  "pdf_page": 501,
+  "printed": null,
+  "zone": null,
+  "chars": 2010,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 502,
+  "printed": 486,
+  "zone": "head",
+  "chars": 2256,
+  "first": "486"
+ },
+ {
+  "pdf_page": 503,
+  "printed": 487,
+  "zone": "head",
+  "chars": 2224,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 504,
+  "printed": 488,
+  "zone": "head",
+  "chars": 1846,
+  "first": "488"
+ },
+ {
+  "pdf_page": 505,
+  "printed": null,
+  "zone": null,
+  "chars": 889,
+  "first": "Beilagen"
+ }
+]

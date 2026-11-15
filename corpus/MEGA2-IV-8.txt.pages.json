@@ -1,0 +1,5280 @@
+[
+ {
+  "pdf_page": 1,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 2,
+  "printed": null,
+  "zone": null,
+  "chars": 341,
+  "first": "FRIEDRICH ENGELS"
+ },
+ {
+  "pdf_page": 3,
+  "printed": null,
+  "zone": null,
+  "chars": 88,
+  "first": "KARL MARX"
+ },
+ {
+  "pdf_page": 4,
+  "printed": null,
+  "zone": null,
+  "chars": 1673,
+  "first": "Redaktionskommission"
+ },
+ {
+  "pdf_page": 5,
+  "printed": null,
+  "zone": null,
+  "chars": 997,
+  "first": "I n h a l t"
+ },
+ {
+  "pdf_page": 6,
+  "printed": null,
+  "zone": null,
+  "chars": 1614,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 7,
+  "printed": null,
+  "zone": null,
+  "chars": 1295,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 8,
+  "printed": null,
+  "zone": null,
+  "chars": 1421,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 9,
+  "printed": null,
+  "zone": null,
+  "chars": 1572,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 10,
+  "printed": null,
+  "zone": null,
+  "chars": 1441,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 11,
+  "printed": null,
+  "zone": null,
+  "chars": 1179,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 12,
+  "printed": null,
+  "zone": null,
+  "chars": 1689,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 13,
+  "printed": null,
+  "zone": null,
+  "chars": 1819,
+  "first": "Einleitung"
+ },
+ {
+  "pdf_page": 14,
+  "printed": null,
+  "zone": null,
+  "chars": 62,
+  "first": "KARL M A R X"
+ },
+ {
+  "pdf_page": 15,
+  "printed": 3,
+  "zone": "foot",
+  "chars": 1674,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 16,
+  "printed": 4,
+  "zone": "foot",
+  "chars": 2885,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 17,
+  "printed": null,
+  "zone": null,
+  "chars": 43,
+  "first": "Bullion. Das vollendete Geldsystem. Seite 1"
+ },
+ {
+  "pdf_page": 18,
+  "printed": 7,
+  "zone": "foot",
+  "chars": 2343,
+  "first": "II. J.-Β. Say"
+ },
+ {
+  "pdf_page": 19,
+  "printed": null,
+  "zone": null,
+  "chars": 2412,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 20,
+  "printed": 9,
+  "zone": "foot",
+  "chars": 2548,
+  "first": "IV. J. F. Bray"
+ },
+ {
+  "pdf_page": 21,
+  "printed": 10,
+  "zone": "foot",
+  "chars": 2351,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 22,
+  "printed": 11,
+  "zone": "foot",
+  "chars": 2870,
+  "first": "VI. G. Browning"
+ },
+ {
+  "pdf_page": 23,
+  "printed": 12,
+  "zone": "foot",
+  "chars": 2824,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 24,
+  "printed": 13,
+  "zone": "foot",
+  "chars": 2910,
+  "first": "VI. G. Browning"
+ },
+ {
+  "pdf_page": 25,
+  "printed": 14,
+  "zone": "foot",
+  "chars": 2495,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 26,
+  "printed": 15,
+  "zone": "foot",
+  "chars": 2070,
+  "first": "Vili. J.-F.-X. Droz · IX. F.-L.-A. Ferrier · Χ. A.-L.-J. de Laborde"
+ },
+ {
+  "pdf_page": 27,
+  "printed": 16,
+  "zone": "foot",
+  "chars": 2631,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 28,
+  "printed": 17,
+  "zone": "foot",
+  "chars": 2255,
+  "first": "XII. D.Ricardo · XIII. J. Mill"
+ },
+ {
+  "pdf_page": 29,
+  "printed": 18,
+  "zone": "foot",
+  "chars": 2877,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 30,
+  "printed": 19,
+  "zone": "foot",
+  "chars": 2900,
+  "first": "XIII. J. Mill"
+ },
+ {
+  "pdf_page": 31,
+  "printed": 20,
+  "zone": "foot",
+  "chars": 2585,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 32,
+  "printed": 21,
+  "zone": "foot",
+  "chars": 2363,
+  "first": "XIV. N.W.Senior • XV. J.-Ch.-L Simonde de Sismondi"
+ },
+ {
+  "pdf_page": 33,
+  "printed": 22,
+  "zone": "foot",
+  "chars": 2032,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 34,
+  "printed": 23,
+  "zone": "foot",
+  "chars": 1761,
+  "first": "|F"
+ },
+ {
+  "pdf_page": 35,
+  "printed": 24,
+  "zone": "foot",
+  "chars": 2504,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 36,
+  "printed": 25,
+  "zone": "foot",
+  "chars": 2628,
+  "first": "XX. J.W. Gilbart"
+ },
+ {
+  "pdf_page": 37,
+  "printed": 26,
+  "zone": "foot",
+  "chars": 2778,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 38,
+  "printed": 27,
+  "zone": "foot",
+  "chars": 2183,
+  "first": "XXI. Th. R.Edmonds · XXII. W. Cobbett"
+ },
+ {
+  "pdf_page": 39,
+  "printed": 28,
+  "zone": "foot",
+  "chars": 2484,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 40,
+  "printed": 29,
+  "zone": "foot",
+  "chars": 2838,
+  "first": "XXIII. G.v.Gülich"
+ },
+ {
+  "pdf_page": 41,
+  "printed": 30,
+  "zone": "foot",
+  "chars": 2570,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 42,
+  "printed": 31,
+  "zone": "foot",
+  "chars": 2274,
+  "first": "XXV. G. Pecchio • XXVI. J. R. MacCulloch"
+ },
+ {
+  "pdf_page": 43,
+  "printed": 32,
+  "zone": "foot",
+  "chars": 2040,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 44,
+  "printed": 33,
+  "zone": "foot",
+  "chars": 2899,
+  "first": "XXIX. G. v.Gülich"
+ },
+ {
+  "pdf_page": 45,
+  "printed": 34,
+  "zone": "foot",
+  "chars": 3004,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 46,
+  "printed": 35,
+  "zone": "foot",
+  "chars": 2782,
+  "first": "XXIX. G.v.Gülich"
+ },
+ {
+  "pdf_page": 47,
+  "printed": 36,
+  "zone": "foot",
+  "chars": 1804,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 48,
+  "printed": 37,
+  "zone": "foot",
+  "chars": 2374,
+  "first": "XXXII. W. Petty • XXXIII. Freetrade"
+ },
+ {
+  "pdf_page": 49,
+  "printed": 38,
+  "zone": "foot",
+  "chars": 2590,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 50,
+  "printed": 39,
+  "zone": "foot",
+  "chars": 2505,
+  "first": "XXXV. Th. Paine"
+ },
+ {
+  "pdf_page": 51,
+  "printed": 40,
+  "zone": "foot",
+  "chars": 2055,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 52,
+  "printed": 41,
+  "zone": "foot",
+  "chars": 2684,
+  "first": "XL. W. Blake"
+ },
+ {
+  "pdf_page": 53,
+  "printed": 42,
+  "zone": "foot",
+  "chars": 2840,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 54,
+  "printed": 43,
+  "zone": "foot",
+  "chars": 2842,
+  "first": "XL W. Blake"
+ },
+ {
+  "pdf_page": 55,
+  "printed": 44,
+  "zone": "foot",
+  "chars": 2800,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 56,
+  "printed": 45,
+  "zone": "foot",
+  "chars": 2617,
+  "first": "XU. J.Fullarton"
+ },
+ {
+  "pdf_page": 57,
+  "printed": 46,
+  "zone": "foot",
+  "chars": 2632,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 58,
+  "printed": 47,
+  "zone": "foot",
+  "chars": 1822,
+  "first": "XLII. Th.Tooke • [J.W. Gilbart] • LX. J.G.Büsch"
+ },
+ {
+  "pdf_page": 59,
+  "printed": 48,
+  "zone": "foot",
+  "chars": 2615,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 60,
+  "printed": null,
+  "zone": null,
+  "chars": 41,
+  "first": "Bullion. Das vollendete Geldsystem. Seite"
+ },
+ {
+  "pdf_page": 61,
+  "printed": 51,
+  "zone": "foot",
+  "chars": 2002,
+  "first": "LX. J.G.Büsch"
+ },
+ {
+  "pdf_page": 62,
+  "printed": 52,
+  "zone": "foot",
+  "chars": 2196,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 63,
+  "printed": 53,
+  "zone": "foot",
+  "chars": 2309,
+  "first": "LXII. J.G.Büsch"
+ },
+ {
+  "pdf_page": 64,
+  "printed": 54,
+  "zone": "foot",
+  "chars": 2818,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 65,
+  "printed": 55,
+  "zone": "foot",
+  "chars": 2555,
+  "first": "LXII. J.G.Büsch"
+ },
+ {
+  "pdf_page": 66,
+  "printed": 56,
+  "zone": "foot",
+  "chars": 2349,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 67,
+  "printed": 57,
+  "zone": "foot",
+  "chars": 2948,
+  "first": "LXX. S. Bailey"
+ },
+ {
+  "pdf_page": 68,
+  "printed": 58,
+  "zone": "foot",
+  "chars": 2384,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 69,
+  "printed": 59,
+  "zone": "foot",
+  "chars": 2111,
+  "first": "LXXI. Th. Joplin • LXXII. S.J. Loyd"
+ },
+ {
+  "pdf_page": 70,
+  "printed": 60,
+  "zone": "foot",
+  "chars": 1383,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 71,
+  "printed": 61,
+  "zone": "foot",
+  "chars": 1935,
+  "first": "LXXVI. S. J. Loyd • LXXVII. D.Salomons"
+ },
+ {
+  "pdf_page": 72,
+  "printed": 62,
+  "zone": "foot",
+  "chars": 2282,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 73,
+  "printed": 63,
+  "zone": "foot",
+  "chars": 2818,
+  "first": "LXXX. [a] H. Ch. Carey"
+ },
+ {
+  "pdf_page": 74,
+  "printed": 64,
+  "zone": "foot",
+  "chars": 2413,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 75,
+  "printed": 65,
+  "zone": "foot",
+  "chars": 2846,
+  "first": "LXXX. [b] The Economist. 1847"
+ },
+ {
+  "pdf_page": 76,
+  "printed": 66,
+  "zone": "foot",
+  "chars": 2807,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 77,
+  "printed": 67,
+  "zone": "foot",
+  "chars": 2972,
+  "first": "LXXX. [b] The Economist. 1847"
+ },
+ {
+  "pdf_page": 78,
+  "printed": 68,
+  "zone": "foot",
+  "chars": 2749,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 79,
+  "printed": 69,
+  "zone": "foot",
+  "chars": 2418,
+  "first": "LXXXI. The Economist. 1844"
+ },
+ {
+  "pdf_page": 80,
+  "printed": 70,
+  "zone": "foot",
+  "chars": 2744,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 81,
+  "printed": 71,
+  "zone": "foot",
+  "chars": 2374,
+  "first": "LXXXI. The Economist. 1844"
+ },
+ {
+  "pdf_page": 82,
+  "printed": 72,
+  "zone": "foot",
+  "chars": 2252,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 83,
+  "printed": 73,
+  "zone": "foot",
+  "chars": 2645,
+  "first": "LXXXIII. J.Locke"
+ },
+ {
+  "pdf_page": 84,
+  "printed": 74,
+  "zone": "foot",
+  "chars": 1108,
+  "first": "Bullion. Das vollendete Geldsystem"
+ },
+ {
+  "pdf_page": 85,
+  "printed": null,
+  "zone": null,
+  "chars": 44,
+  "first": "Bullion. Das vollendete Geldsystem. Seite 52"
+ },
+ {
+  "pdf_page": 86,
+  "printed": null,
+  "zone": null,
+  "chars": 177,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 87,
+  "printed": 78,
+  "zone": "foot",
+  "chars": 1793,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 88,
+  "printed": 79,
+  "zone": "foot",
+  "chars": 3089,
+  "first": "Bullion. Das vollendete Geldsystem (Fortsetzung)"
+ },
+ {
+  "pdf_page": 89,
+  "printed": 80,
+  "zone": "foot",
+  "chars": 2728,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 90,
+  "printed": 81,
+  "zone": "foot",
+  "chars": 2523,
+  "first": "Bullion. Das vollendete Geldsystem (Fortsetzung)"
+ },
+ {
+  "pdf_page": 91,
+  "printed": 82,
+  "zone": "foot",
+  "chars": 2133,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 92,
+  "printed": 83,
+  "zone": "foot",
+  "chars": 2642,
+  "first": "Bullion. Das vollendete Geldsystem (Fortsetzung)"
+ },
+ {
+  "pdf_page": 93,
+  "printed": 84,
+  "zone": "foot",
+  "chars": 2479,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 94,
+  "printed": 85,
+  "zone": "foot",
+  "chars": 1890,
+  "first": "Bullion. Das vollendete Geldsystem (Fortsetzung)"
+ },
+ {
+  "pdf_page": 95,
+  "printed": 86,
+  "zone": "foot",
+  "chars": 896,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 96,
+  "printed": 87,
+  "zone": "foot",
+  "chars": 1533,
+  "first": "Aus: The Economist 1851"
+ },
+ {
+  "pdf_page": 97,
+  "printed": 88,
+  "zone": "foot",
+  "chars": 1693,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 98,
+  "printed": 89,
+  "zone": "foot",
+  "chars": 3190,
+  "first": "Aus: The Economist 1851"
+ },
+ {
+  "pdf_page": 99,
+  "printed": 90,
+  "zone": "foot",
+  "chars": 2329,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 100,
+  "printed": 91,
+  "zone": "foot",
+  "chars": 2999,
+  "first": "Aus: The Economist 1851"
+ },
+ {
+  "pdf_page": 101,
+  "printed": 92,
+  "zone": "foot",
+  "chars": 2385,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 102,
+  "printed": 93,
+  "zone": "foot",
+  "chars": 2171,
+  "first": "Aus: The Economist 1851"
+ },
+ {
+  "pdf_page": 103,
+  "printed": 94,
+  "zone": "foot",
+  "chars": 1730,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 104,
+  "printed": 95,
+  "zone": "foot",
+  "chars": 1969,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 105,
+  "printed": 96,
+  "zone": "foot",
+  "chars": 3104,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 106,
+  "printed": 97,
+  "zone": "foot",
+  "chars": 2811,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 107,
+  "printed": 98,
+  "zone": "foot",
+  "chars": 3095,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 108,
+  "printed": 99,
+  "zone": "foot",
+  "chars": 2599,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 109,
+  "printed": 100,
+  "zone": "foot",
+  "chars": 2904,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 110,
+  "printed": 101,
+  "zone": "foot",
+  "chars": 2506,
+  "first": "d e u t s c h e r"
+ },
+ {
+  "pdf_page": 111,
+  "printed": 102,
+  "zone": "foot",
+  "chars": 2801,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 112,
+  "printed": 103,
+  "zone": "foot",
+  "chars": 2703,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 113,
+  "printed": 104,
+  "zone": "foot",
+  "chars": 3071,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 114,
+  "printed": 105,
+  "zone": "foot",
+  "chars": 2794,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 115,
+  "printed": 106,
+  "zone": "foot",
+  "chars": 3122,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 116,
+  "printed": 107,
+  "zone": "foot",
+  "chars": 3195,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 117,
+  "printed": 108,
+  "zone": "foot",
+  "chars": 3057,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 118,
+  "printed": 109,
+  "zone": "foot",
+  "chars": 3228,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 119,
+  "printed": 110,
+  "zone": "foot",
+  "chars": 3091,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 120,
+  "printed": 111,
+  "zone": "foot",
+  "chars": 2708,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 121,
+  "printed": 112,
+  "zone": "foot",
+  "chars": 2745,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 122,
+  "printed": 113,
+  "zone": "foot",
+  "chars": 285,
+  "first": "Aus J. Fullarton: On the regulation of currencies"
+ },
+ {
+  "pdf_page": 123,
+  "printed": 114,
+  "zone": "foot",
+  "chars": 216,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 124,
+  "printed": 115,
+  "zone": "foot",
+  "chars": 518,
+  "first": "Geschichte vom Männchen Wolfgang"
+ },
+ {
+  "pdf_page": 125,
+  "printed": 116,
+  "zone": "foot",
+  "chars": 477,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 126,
+  "printed": 117,
+  "zone": "foot",
+  "chars": 990,
+  "first": "Mit dem Land zusammenhängende Steuern"
+ },
+ {
+  "pdf_page": 127,
+  "printed": 118,
+  "zone": "foot",
+  "chars": 1311,
+  "first": "Heft mit Exzerpten und Notizen"
+ },
+ {
+  "pdf_page": 128,
+  "printed": null,
+  "zone": null,
+  "chars": 36,
+  "first": "Londoner Hefte 1850-1853"
+ },
+ {
+  "pdf_page": 129,
+  "printed": 121,
+  "zone": "foot",
+  "chars": 1614,
+  "first": "Heft VII"
+ },
+ {
+  "pdf_page": 130,
+  "printed": 122,
+  "zone": "foot",
+  "chars": 3065,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 131,
+  "printed": 123,
+  "zone": "foot",
+  "chars": 3166,
+  "first": "Aus J. W. Gilbart: An inquiry into the causes of the pressure..."
+ },
+ {
+  "pdf_page": 132,
+  "printed": 124,
+  "zone": "foot",
+  "chars": 2887,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 133,
+  "printed": null,
+  "zone": null,
+  "chars": 121,
+  "first": "Problemübersicht zu David Ricardo:"
+ },
+ {
+  "pdf_page": 134,
+  "printed": null,
+  "zone": null,
+  "chars": 98,
+  "first": "Exzerpte aus James William Gilbart:"
+ },
+ {
+  "pdf_page": 135,
+  "printed": 127,
+  "zone": "foot",
+  "chars": 1485,
+  "first": "Aus E.Thornton: Observations on the report."
+ },
+ {
+  "pdf_page": 136,
+  "printed": 128,
+  "zone": "foot",
+  "chars": 3135,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 137,
+  "printed": 129,
+  "zone": "foot",
+  "chars": 1331,
+  "first": "Aus E.Thornton: Observations on the report..."
+ },
+ {
+  "pdf_page": 138,
+  "printed": 130,
+  "zone": "foot",
+  "chars": 1959,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 139,
+  "printed": 131,
+  "zone": "foot",
+  "chars": 3119,
+  "first": "Aus A.Gallatin: Considerations on the currency ..."
+ },
+ {
+  "pdf_page": 140,
+  "printed": 132,
+  "zone": "foot",
+  "chars": 3139,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 141,
+  "printed": 133,
+  "zone": "foot",
+  "chars": 3184,
+  "first": "Aus A.Gallatin: Considerations on the currency ..."
+ },
+ {
+  "pdf_page": 142,
+  "printed": 134,
+  "zone": "foot",
+  "chars": 3108,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 143,
+  "printed": 135,
+  "zone": "foot",
+  "chars": 2054,
+  "first": "Aus J. W. Gilbart: The history of banking in America"
+ },
+ {
+  "pdf_page": 144,
+  "printed": 136,
+  "zone": "foot",
+  "chars": 2841,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 145,
+  "printed": 137,
+  "zone": "foot",
+  "chars": 2446,
+  "first": "Aus J.W. Gilbart: The history of banking in America"
+ },
+ {
+  "pdf_page": 146,
+  "printed": 138,
+  "zone": "foot",
+  "chars": 3126,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 147,
+  "printed": 139,
+  "zone": "foot",
+  "chars": 763,
+  "first": "Aus J.W.Gilbart: The history of banking in America"
+ },
+ {
+  "pdf_page": 148,
+  "printed": 140,
+  "zone": "foot",
+  "chars": 1307,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 149,
+  "printed": 141,
+  "zone": "foot",
+  "chars": 2964,
+  "first": "Aus J. W. Gilbart: The history of banking in Ireland"
+ },
+ {
+  "pdf_page": 150,
+  "printed": 142,
+  "zone": "foot",
+  "chars": 2201,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 151,
+  "printed": 143,
+  "zone": "foot",
+  "chars": 923,
+  "first": "A defence of joint stock banks and country issues etc."
+ },
+ {
+  "pdf_page": 152,
+  "printed": 144,
+  "zone": "foot",
+  "chars": 1180,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 153,
+  "printed": 145,
+  "zone": "foot",
+  "chars": 1663,
+  "first": "Aus C. Raguet: A treatise on currency and banking"
+ },
+ {
+  "pdf_page": 154,
+  "printed": 146,
+  "zone": "foot",
+  "chars": 1968,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 155,
+  "printed": 147,
+  "zone": "foot",
+  "chars": 2452,
+  "first": "Aus C. Raguet: A treatise on currency and banking"
+ },
+ {
+  "pdf_page": 156,
+  "printed": 148,
+  "zone": "foot",
+  "chars": 2358,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 157,
+  "printed": 149,
+  "zone": "foot",
+  "chars": 2648,
+  "first": "Aus C. Raguet: A treatise on currency and banking"
+ },
+ {
+  "pdf_page": 158,
+  "printed": 150,
+  "zone": "foot",
+  "chars": 3147,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 159,
+  "printed": 151,
+  "zone": "foot",
+  "chars": 2204,
+  "first": "Aus C. Raguet: A treatise on currency and banking"
+ },
+ {
+  "pdf_page": 160,
+  "printed": 152,
+  "zone": "foot",
+  "chars": 2493,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 161,
+  "printed": 153,
+  "zone": "foot",
+  "chars": 2612,
+  "first": "Aus C. Raguet: A treatise on currency and banking"
+ },
+ {
+  "pdf_page": 162,
+  "printed": 154,
+  "zone": "foot",
+  "chars": 2277,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 163,
+  "printed": 155,
+  "zone": "foot",
+  "chars": 2176,
+  "first": "Aus C. Raguet: A treatise on currency and banking"
+ },
+ {
+  "pdf_page": 164,
+  "printed": 156,
+  "zone": "foot",
+  "chars": 1628,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 165,
+  "printed": 157,
+  "zone": "foot",
+  "chars": 2700,
+  "first": "Aus T. Twiss: View of the progress of political economy"
+ },
+ {
+  "pdf_page": 166,
+  "printed": 158,
+  "zone": "foot",
+  "chars": 2093,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 167,
+  "printed": 159,
+  "zone": "foot",
+  "chars": 1897,
+  "first": "Aus C. Raguet: A treatise on currency and banking (Fortsetzung)"
+ },
+ {
+  "pdf_page": 168,
+  "printed": 160,
+  "zone": "foot",
+  "chars": 3053,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 169,
+  "printed": 161,
+  "zone": "foot",
+  "chars": 2703,
+  "first": "Aus C.Raguet: A treatise on currency and banking (Fortsetzung)"
+ },
+ {
+  "pdf_page": 170,
+  "printed": 162,
+  "zone": "foot",
+  "chars": 3131,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 171,
+  "printed": 163,
+  "zone": "foot",
+  "chars": 2475,
+  "first": "Aus C. Raguet: A treatise on currency and banking (Fortsetzung)"
+ },
+ {
+  "pdf_page": 172,
+  "printed": 164,
+  "zone": "foot",
+  "chars": 3120,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 173,
+  "printed": 165,
+  "zone": "foot",
+  "chars": 3110,
+  "first": "Aus C. Raguet: A treatise on currency and banking (Fortsetzung)"
+ },
+ {
+  "pdf_page": 174,
+  "printed": 166,
+  "zone": "foot",
+  "chars": 3072,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 175,
+  "printed": 167,
+  "zone": "foot",
+  "chars": 1671,
+  "first": "Aus C. Raguet: A treatise on currency and banking (Fortsetzung)"
+ },
+ {
+  "pdf_page": 176,
+  "printed": 168,
+  "zone": "foot",
+  "chars": 1743,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 177,
+  "printed": 169,
+  "zone": "foot",
+  "chars": 2923,
+  "first": "Aus The currency theory reviewed"
+ },
+ {
+  "pdf_page": 178,
+  "printed": 170,
+  "zone": "foot",
+  "chars": 2789,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 179,
+  "printed": 171,
+  "zone": "foot",
+  "chars": 3132,
+  "first": "Aus The currency theory reviewed"
+ },
+ {
+  "pdf_page": 180,
+  "printed": 172,
+  "zone": "foot",
+  "chars": 2842,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 181,
+  "printed": 173,
+  "zone": "foot",
+  "chars": 2561,
+  "first": "Aus The currency theory reviewed"
+ },
+ {
+  "pdf_page": 182,
+  "printed": 174,
+  "zone": "foot",
+  "chars": 2853,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 183,
+  "printed": 175,
+  "zone": "foot",
+  "chars": 2446,
+  "first": "Aus The currency theory reviewed"
+ },
+ {
+  "pdf_page": 184,
+  "printed": 176,
+  "zone": "foot",
+  "chars": 778,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 185,
+  "printed": 177,
+  "zone": "foot",
+  "chars": 1605,
+  "first": "Aus J.W. Bosanquet: Metallic, paper, and credit currency"
+ },
+ {
+  "pdf_page": 186,
+  "printed": 178,
+  "zone": "foot",
+  "chars": 2044,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 187,
+  "printed": 179,
+  "zone": "foot",
+  "chars": 2500,
+  "first": "Aus J. W. Bosanquet: Metallic, paper, and credit currency"
+ },
+ {
+  "pdf_page": 188,
+  "printed": 180,
+  "zone": "foot",
+  "chars": 2575,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 189,
+  "printed": 181,
+  "zone": "foot",
+  "chars": 1214,
+  "first": "Aus J. W. Bosanquet: Metallic, paper, and credit currency"
+ },
+ {
+  "pdf_page": 190,
+  "printed": 182,
+  "zone": "foot",
+  "chars": 1416,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 191,
+  "printed": 183,
+  "zone": "foot",
+  "chars": 2627,
+  "first": "Aus Report, together with minutes of evidence ... 1810"
+ },
+ {
+  "pdf_page": 192,
+  "printed": 184,
+  "zone": "foot",
+  "chars": 2499,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 193,
+  "printed": 185,
+  "zone": "foot",
+  "chars": 2204,
+  "first": "Aus Report, together with minutes of evidence ... 1810"
+ },
+ {
+  "pdf_page": 194,
+  "printed": 186,
+  "zone": "foot",
+  "chars": 3093,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 195,
+  "printed": 187,
+  "zone": "foot",
+  "chars": 320,
+  "first": "Aus Report, together with minutes of evidence ... 1810"
+ },
+ {
+  "pdf_page": 196,
+  "printed": 188,
+  "zone": "foot",
+  "chars": 1871,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 197,
+  "printed": 189,
+  "zone": "foot",
+  "chars": 3183,
+  "first": "Aus Ch. Bosanquet: Practical observations"
+ },
+ {
+  "pdf_page": 198,
+  "printed": 190,
+  "zone": "foot",
+  "chars": 2299,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 199,
+  "printed": 191,
+  "zone": "foot",
+  "chars": 1846,
+  "first": "Aus D. Ricardo: The high price of bullion"
+ },
+ {
+  "pdf_page": 200,
+  "printed": 192,
+  "zone": "foot",
+  "chars": 3067,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 201,
+  "printed": 193,
+  "zone": "foot",
+  "chars": 3187,
+  "first": "Aus D. Ricardo: The high price of bullion"
+ },
+ {
+  "pdf_page": 202,
+  "printed": 194,
+  "zone": "foot",
+  "chars": 3165,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 203,
+  "printed": 195,
+  "zone": "foot",
+  "chars": 2827,
+  "first": "Aus D. Ricardo: The high price of bullion ..."
+ },
+ {
+  "pdf_page": 204,
+  "printed": 196,
+  "zone": "foot",
+  "chars": 1998,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 205,
+  "printed": 197,
+  "zone": "foot",
+  "chars": 1792,
+  "first": "Aus D. Ricardo: Reply to Mr. Bosanquet's Practical observations"
+ },
+ {
+  "pdf_page": 206,
+  "printed": 198,
+  "zone": "foot",
+  "chars": 2636,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 207,
+  "printed": 199,
+  "zone": "foot",
+  "chars": 1389,
+  "first": "Aus Th.Tooke: An inquiry into the currency principle"
+ },
+ {
+  "pdf_page": 208,
+  "printed": 200,
+  "zone": "foot",
+  "chars": 3121,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 209,
+  "printed": 201,
+  "zone": "foot",
+  "chars": 2488,
+  "first": "Aus Th.Tooke: An inquiry into the currency principle"
+ },
+ {
+  "pdf_page": 210,
+  "printed": 202,
+  "zone": "foot",
+  "chars": 2558,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 211,
+  "printed": 203,
+  "zone": "foot",
+  "chars": 2462,
+  "first": "Aus Th.Tooke: An inquiry into the currency principle"
+ },
+ {
+  "pdf_page": 212,
+  "printed": 204,
+  "zone": "foot",
+  "chars": 1952,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 213,
+  "printed": 205,
+  "zone": "foot",
+  "chars": 2808,
+  "first": "Aus Th.Tooke: An inquiry into the currency principle"
+ },
+ {
+  "pdf_page": 214,
+  "printed": 206,
+  "zone": "foot",
+  "chars": 2710,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 215,
+  "printed": 207,
+  "zone": "foot",
+  "chars": 2115,
+  "first": "Aus Th.Tooke: An inquiry into the currency principle"
+ },
+ {
+  "pdf_page": 216,
+  "printed": 208,
+  "zone": "foot",
+  "chars": 2847,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 217,
+  "printed": 209,
+  "zone": "foot",
+  "chars": 2880,
+  "first": "Aus Th.Tooke: An inquiry into the currency principle"
+ },
+ {
+  "pdf_page": 218,
+  "printed": 210,
+  "zone": "foot",
+  "chars": 2807,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 219,
+  "printed": 211,
+  "zone": "foot",
+  "chars": 1899,
+  "first": "Aus Th.Tooke: An inquiry into the currency principle"
+ },
+ {
+  "pdf_page": 220,
+  "printed": 212,
+  "zone": "foot",
+  "chars": 1882,
+  "first": "F"
+ },
+ {
+  "pdf_page": 221,
+  "printed": 213,
+  "zone": "foot",
+  "chars": 3146,
+  "first": "Aus R. Torrens: On the operation of the bank charter act of 1844 ..."
+ },
+ {
+  "pdf_page": 222,
+  "printed": 214,
+  "zone": "foot",
+  "chars": 3165,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 223,
+  "printed": 215,
+  "zone": "foot",
+  "chars": 652,
+  "first": "Aus R.Torrens: On the operation of the bank charter act of 1844 ..."
+ },
+ {
+  "pdf_page": 224,
+  "printed": 216,
+  "zone": "foot",
+  "chars": 1256,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 225,
+  "printed": 217,
+  "zone": "foot",
+  "chars": 3198,
+  "first": "Aus J. G. Hubbard: The currency and the country"
+ },
+ {
+  "pdf_page": 226,
+  "printed": 218,
+  "zone": "foot",
+  "chars": 3140,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 227,
+  "printed": 219,
+  "zone": "foot",
+  "chars": 2935,
+  "first": "Aus J. G. Hubbard: The currency and the country"
+ },
+ {
+  "pdf_page": 228,
+  "printed": 220,
+  "zone": "foot",
+  "chars": 2152,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 229,
+  "printed": 221,
+  "zone": "foot",
+  "chars": 875,
+  "first": "Aus J. G. Hubbard: The currency and the country"
+ },
+ {
+  "pdf_page": 230,
+  "printed": 222,
+  "zone": "foot",
+  "chars": 1249,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 231,
+  "printed": 223,
+  "zone": "foot",
+  "chars": 3162,
+  "first": "Aus W. Leatham: Letters on the currency... to Ch. Wood"
+ },
+ {
+  "pdf_page": 232,
+  "printed": 224,
+  "zone": "foot",
+  "chars": 761,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 233,
+  "printed": null,
+  "zone": null,
+  "chars": 30,
+  "first": "Reflection. Heft VII, Seite 48"
+ },
+ {
+  "pdf_page": 234,
+  "printed": 227,
+  "zone": "foot",
+  "chars": 2094,
+  "first": "Aus Κ. Marx: Reflection"
+ },
+ {
+  "pdf_page": 235,
+  "printed": 228,
+  "zone": "foot",
+  "chars": 3028,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 236,
+  "printed": 229,
+  "zone": "foot",
+  "chars": 3032,
+  "first": "Aus Κ. Marx: Reflection"
+ },
+ {
+  "pdf_page": 237,
+  "printed": 230,
+  "zone": "foot",
+  "chars": 3037,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 238,
+  "printed": 231,
+  "zone": "foot",
+  "chars": 3031,
+  "first": "Aus Κ. Marx: Reflection"
+ },
+ {
+  "pdf_page": 239,
+  "printed": 232,
+  "zone": "foot",
+  "chars": 2814,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 240,
+  "printed": 233,
+  "zone": "foot",
+  "chars": 3019,
+  "first": "Aus Κ. Marx: Reflection"
+ },
+ {
+  "pdf_page": 241,
+  "printed": 234,
+  "zone": "foot",
+  "chars": 1424,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 242,
+  "printed": 235,
+  "zone": "foot",
+  "chars": 1500,
+  "first": "Aus Reports - Minutes of evidence... 1810"
+ },
+ {
+  "pdf_page": 243,
+  "printed": 236,
+  "zone": "foot",
+  "chars": 2592,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 244,
+  "printed": 237,
+  "zone": "foot",
+  "chars": 2550,
+  "first": "Aus Reports - Minutes of evidence... 1810"
+ },
+ {
+  "pdf_page": 245,
+  "printed": 238,
+  "zone": "foot",
+  "chars": 1726,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 246,
+  "printed": 239,
+  "zone": "foot",
+  "chars": 2475,
+  "first": "Aus Reports - Minutes of evidence... 1810"
+ },
+ {
+  "pdf_page": 247,
+  "printed": 240,
+  "zone": "foot",
+  "chars": 2487,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 248,
+  "printed": 241,
+  "zone": "foot",
+  "chars": 2592,
+  "first": "Aus Reports - Minutes of evidence... 1810"
+ },
+ {
+  "pdf_page": 249,
+  "printed": 242,
+  "zone": "foot",
+  "chars": 2675,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 250,
+  "printed": 243,
+  "zone": "foot",
+  "chars": 2378,
+  "first": "Aus Reports - Minutes of evidence... 1810"
+ },
+ {
+  "pdf_page": 251,
+  "printed": 244,
+  "zone": "foot",
+  "chars": 2666,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 252,
+  "printed": 245,
+  "zone": "foot",
+  "chars": 2091,
+  "first": "Aus Reports - Minutes of evidence... 1810"
+ },
+ {
+  "pdf_page": 253,
+  "printed": 246,
+  "zone": "foot",
+  "chars": 297,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 254,
+  "printed": 247,
+  "zone": "foot",
+  "chars": 903,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 255,
+  "printed": 248,
+  "zone": "foot",
+  "chars": 3118,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 256,
+  "printed": 249,
+  "zone": "foot",
+  "chars": 3155,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 257,
+  "printed": 250,
+  "zone": "foot",
+  "chars": 3139,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 258,
+  "printed": 251,
+  "zone": "foot",
+  "chars": 3172,
+  "first": "Aus Reports from committees...- 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 259,
+  "printed": 252,
+  "zone": "foot",
+  "chars": 2711,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 260,
+  "printed": 253,
+  "zone": "foot",
+  "chars": 3161,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 261,
+  "printed": 254,
+  "zone": "foot",
+  "chars": 3152,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 262,
+  "printed": 255,
+  "zone": "foot",
+  "chars": 3162,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 263,
+  "printed": 256,
+  "zone": "foot",
+  "chars": 3107,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 264,
+  "printed": 257,
+  "zone": "foot",
+  "chars": 2683,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 265,
+  "printed": 258,
+  "zone": "foot",
+  "chars": 2939,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 266,
+  "printed": 259,
+  "zone": "foot",
+  "chars": 2541,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 267,
+  "printed": 260,
+  "zone": "foot",
+  "chars": 3060,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 268,
+  "printed": 261,
+  "zone": "foot",
+  "chars": 2511,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 269,
+  "printed": 262,
+  "zone": "foot",
+  "chars": 2433,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 270,
+  "printed": 263,
+  "zone": "foot",
+  "chars": 2539,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 271,
+  "printed": 264,
+  "zone": "foot",
+  "chars": 2271,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 272,
+  "printed": 265,
+  "zone": "foot",
+  "chars": 2729,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 273,
+  "printed": 266,
+  "zone": "foot",
+  "chars": 3179,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 274,
+  "printed": 267,
+  "zone": "foot",
+  "chars": 2783,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 275,
+  "printed": 268,
+  "zone": "foot",
+  "chars": 2701,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 276,
+  "printed": 269,
+  "zone": "foot",
+  "chars": 2886,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 277,
+  "printed": 270,
+  "zone": "foot",
+  "chars": 2809,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 278,
+  "printed": 271,
+  "zone": "foot",
+  "chars": 2623,
+  "first": "Aus Reports from committees... 1847-1848 ... Minutes of evidence"
+ },
+ {
+  "pdf_page": 279,
+  "printed": 272,
+  "zone": "foot",
+  "chars": 1476,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 280,
+  "printed": 273,
+  "zone": "foot",
+  "chars": 3195,
+  "first": "A. Smith: (Lehre über das Geld)"
+ },
+ {
+  "pdf_page": 281,
+  "printed": 274,
+  "zone": "foot",
+  "chars": 3179,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 282,
+  "printed": 275,
+  "zone": "foot",
+  "chars": 3125,
+  "first": "A.Smith: (Lehre über das Geld)"
+ },
+ {
+  "pdf_page": 283,
+  "printed": 276,
+  "zone": "foot",
+  "chars": 3139,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 284,
+  "printed": 277,
+  "zone": "foot",
+  "chars": 3190,
+  "first": "A.Smith: (Lehre über das Geld)"
+ },
+ {
+  "pdf_page": 285,
+  "printed": 278,
+  "zone": "foot",
+  "chars": 3183,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 286,
+  "printed": 279,
+  "zone": "foot",
+  "chars": 3074,
+  "first": "A. Smith: (Lehre über das Geld)"
+ },
+ {
+  "pdf_page": 287,
+  "printed": 280,
+  "zone": "foot",
+  "chars": 3189,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 288,
+  "printed": 281,
+  "zone": "foot",
+  "chars": 3142,
+  "first": "A. Smith: (Lehre über das Geld)"
+ },
+ {
+  "pdf_page": 289,
+  "printed": 282,
+  "zone": "foot",
+  "chars": 3086,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 290,
+  "printed": 283,
+  "zone": "foot",
+  "chars": 3097,
+  "first": "A. Smith: (Lehre über das Geld)"
+ },
+ {
+  "pdf_page": 291,
+  "printed": 284,
+  "zone": "foot",
+  "chars": 2314,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 292,
+  "printed": 285,
+  "zone": "foot",
+  "chars": 3126,
+  "first": "A. Smith: (Lehre über das Geld)"
+ },
+ {
+  "pdf_page": 293,
+  "printed": 286,
+  "zone": "foot",
+  "chars": 1909,
+  "first": "Londoner Hefte 1850-1853. Heft VII"
+ },
+ {
+  "pdf_page": 294,
+  "printed": 287,
+  "zone": "foot",
+  "chars": 1120,
+  "first": "H e f t Vili"
+ },
+ {
+  "pdf_page": 295,
+  "printed": 288,
+  "zone": "foot",
+  "chars": 726,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 296,
+  "printed": 289,
+  "zone": "foot",
+  "chars": 1379,
+  "first": "Aus G. de Uztariz: The theory and practice of commerce"
+ },
+ {
+  "pdf_page": 297,
+  "printed": 290,
+  "zone": "foot",
+  "chars": 3138,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 298,
+  "printed": 291,
+  "zone": "foot",
+  "chars": 2079,
+  "first": "Aus G. de Uztariz: The theory and practice of commerce ..."
+ },
+ {
+  "pdf_page": 299,
+  "printed": 292,
+  "zone": "foot",
+  "chars": 2021,
+  "first": "î"
+ },
+ {
+  "pdf_page": 300,
+  "printed": 293,
+  "zone": "foot",
+  "chars": 3091,
+  "first": "Aus The Economist 1845"
+ },
+ {
+  "pdf_page": 301,
+  "printed": 294,
+  "zone": "foot",
+  "chars": 2982,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 302,
+  "printed": 295,
+  "zone": "foot",
+  "chars": 2710,
+  "first": "Aus The Economist 1845"
+ },
+ {
+  "pdf_page": 303,
+  "printed": null,
+  "zone": null,
+  "chars": 919,
+  "first": "a) Children"
+ },
+ {
+  "pdf_page": 304,
+  "printed": null,
+  "zone": null,
+  "chars": 57,
+  "first": "Exzerpte aus dem „Economist\" von 1845. Heft VIII. Seite 4"
+ },
+ {
+  "pdf_page": 305,
+  "printed": 299,
+  "zone": "foot",
+  "chars": 3073,
+  "first": "Aus The Economist 1845"
+ },
+ {
+  "pdf_page": 306,
+  "printed": 300,
+  "zone": "foot",
+  "chars": 1732,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 307,
+  "printed": 301,
+  "zone": "foot",
+  "chars": 1511,
+  "first": "Aus The Economist 1845"
+ },
+ {
+  "pdf_page": 308,
+  "printed": 302,
+  "zone": "foot",
+  "chars": 2046,
+  "first": "I"
+ },
+ {
+  "pdf_page": 309,
+  "printed": 303,
+  "zone": "foot",
+  "chars": 2723,
+  "first": "Aus The Economist 1846"
+ },
+ {
+  "pdf_page": 310,
+  "printed": 304,
+  "zone": "foot",
+  "chars": 453,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 311,
+  "printed": 305,
+  "zone": "foot",
+  "chars": 2038,
+  "first": "Aus J. Morton: On the nature and property of soils"
+ },
+ {
+  "pdf_page": 312,
+  "printed": 306,
+  "zone": "foot",
+  "chars": 3144,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 313,
+  "printed": 307,
+  "zone": "foot",
+  "chars": 3184,
+  "first": "Aus J. Morton: On the nature and property of soils"
+ },
+ {
+  "pdf_page": 314,
+  "printed": 308,
+  "zone": "foot",
+  "chars": 3180,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 315,
+  "printed": 309,
+  "zone": "foot",
+  "chars": 3212,
+  "first": "Aus J. Morton: On the nature and property of soils"
+ },
+ {
+  "pdf_page": 316,
+  "printed": 310,
+  "zone": "foot",
+  "chars": 3168,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 317,
+  "printed": 311,
+  "zone": "foot",
+  "chars": 990,
+  "first": "Aus J. Morton: On the nature and property of soils"
+ },
+ {
+  "pdf_page": 318,
+  "printed": 312,
+  "zone": "foot",
+  "chars": 1929,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 319,
+  "printed": 313,
+  "zone": "foot",
+  "chars": 3209,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy"
+ },
+ {
+  "pdf_page": 320,
+  "printed": 314,
+  "zone": "foot",
+  "chars": 3186,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 321,
+  "printed": 315,
+  "zone": "foot",
+  "chars": 3140,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy"
+ },
+ {
+  "pdf_page": 322,
+  "printed": 316,
+  "zone": "foot",
+  "chars": 3154,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 323,
+  "printed": 317,
+  "zone": "foot",
+  "chars": 2892,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy"
+ },
+ {
+  "pdf_page": 324,
+  "printed": 318,
+  "zone": "foot",
+  "chars": 3177,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 325,
+  "printed": 319,
+  "zone": "foot",
+  "chars": 3115,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy"
+ },
+ {
+  "pdf_page": 326,
+  "printed": 320,
+  "zone": "foot",
+  "chars": 3141,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 327,
+  "printed": 321,
+  "zone": "foot",
+  "chars": 3198,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy"
+ },
+ {
+  "pdf_page": 328,
+  "printed": 322,
+  "zone": "foot",
+  "chars": 3131,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 329,
+  "printed": 323,
+  "zone": "foot",
+  "chars": 3134,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy"
+ },
+ {
+  "pdf_page": 330,
+  "printed": 324,
+  "zone": "foot",
+  "chars": 2666,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 331,
+  "printed": 325,
+  "zone": "foot",
+  "chars": 1939,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy"
+ },
+ {
+  "pdf_page": 332,
+  "printed": 326,
+  "zone": "foot",
+  "chars": 1567,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 333,
+  "printed": 327,
+  "zone": "foot",
+  "chars": 2989,
+  "first": "Aus D. Ricardo: On the principles of political economy"
+ },
+ {
+  "pdf_page": 334,
+  "printed": 328,
+  "zone": "foot",
+  "chars": 3114,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 335,
+  "printed": 329,
+  "zone": "foot",
+  "chars": 3025,
+  "first": "Aus D. Ricardo: On the principles of political economy"
+ },
+ {
+  "pdf_page": 336,
+  "printed": 330,
+  "zone": "foot",
+  "chars": 3032,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 337,
+  "printed": 331,
+  "zone": "foot",
+  "chars": 2120,
+  "first": "Aus D. Ricardo: On the principles of political economy"
+ },
+ {
+  "pdf_page": 338,
+  "printed": 332,
+  "zone": "foot",
+  "chars": 1491,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 339,
+  "printed": 333,
+  "zone": "foot",
+  "chars": 2774,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 340,
+  "printed": 334,
+  "zone": "foot",
+  "chars": 2519,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 341,
+  "printed": 335,
+  "zone": "foot",
+  "chars": 2769,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 342,
+  "printed": 336,
+  "zone": "foot",
+  "chars": 3147,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 343,
+  "printed": 337,
+  "zone": "foot",
+  "chars": 2476,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 344,
+  "printed": 338,
+  "zone": "foot",
+  "chars": 3131,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 345,
+  "printed": 339,
+  "zone": "foot",
+  "chars": 2848,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 346,
+  "printed": 340,
+  "zone": "foot",
+  "chars": 2478,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 347,
+  "printed": 341,
+  "zone": "foot",
+  "chars": 3225,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 348,
+  "printed": 342,
+  "zone": "foot",
+  "chars": 3195,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 349,
+  "printed": 343,
+  "zone": "foot",
+  "chars": 3231,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 350,
+  "printed": 344,
+  "zone": "foot",
+  "chars": 3196,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 351,
+  "printed": null,
+  "zone": null,
+  "chars": 105,
+  "first": "Exzerpte aus James Steuart:"
+ },
+ {
+  "pdf_page": 352,
+  "printed": 347,
+  "zone": "foot",
+  "chars": 2874,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 353,
+  "printed": 348,
+  "zone": "foot",
+  "chars": 2396,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 354,
+  "printed": 349,
+  "zone": "foot",
+  "chars": 2230,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 355,
+  "printed": 350,
+  "zone": "foot",
+  "chars": 1633,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 356,
+  "printed": 351,
+  "zone": "foot",
+  "chars": 3212,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 357,
+  "printed": 352,
+  "zone": "foot",
+  "chars": 3086,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 358,
+  "printed": 353,
+  "zone": "foot",
+  "chars": 3160,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 359,
+  "printed": 354,
+  "zone": "foot",
+  "chars": 2818,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 360,
+  "printed": 355,
+  "zone": "foot",
+  "chars": 2824,
+  "first": "Aus D.Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 361,
+  "printed": 356,
+  "zone": "foot",
+  "chars": 2670,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 362,
+  "printed": 357,
+  "zone": "foot",
+  "chars": 2714,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 363,
+  "printed": 358,
+  "zone": "foot",
+  "chars": 2974,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 364,
+  "printed": 359,
+  "zone": "foot",
+  "chars": 2467,
+  "first": "Aus D.Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 365,
+  "printed": 360,
+  "zone": "foot",
+  "chars": 2728,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 366,
+  "printed": 361,
+  "zone": "foot",
+  "chars": 2810,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 367,
+  "printed": 362,
+  "zone": "foot",
+  "chars": 3022,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 368,
+  "printed": 363,
+  "zone": "foot",
+  "chars": 2897,
+  "first": "Aus D.Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 369,
+  "printed": 364,
+  "zone": "foot",
+  "chars": 2935,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 370,
+  "printed": 365,
+  "zone": "foot",
+  "chars": 3000,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 371,
+  "printed": 366,
+  "zone": "foot",
+  "chars": 2685,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 372,
+  "printed": 367,
+  "zone": "foot",
+  "chars": 2434,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 373,
+  "printed": 368,
+  "zone": "foot",
+  "chars": 2446,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 374,
+  "printed": 369,
+  "zone": "foot",
+  "chars": 2711,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 375,
+  "printed": 370,
+  "zone": "foot",
+  "chars": 2859,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 376,
+  "printed": 371,
+  "zone": "foot",
+  "chars": 2736,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 377,
+  "printed": 372,
+  "zone": "foot",
+  "chars": 911,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 378,
+  "printed": 373,
+  "zone": "foot",
+  "chars": 1818,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 379,
+  "printed": 374,
+  "zone": "foot",
+  "chars": 2555,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 380,
+  "printed": 375,
+  "zone": "foot",
+  "chars": 2355,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 381,
+  "printed": 376,
+  "zone": "foot",
+  "chars": 2697,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 382,
+  "printed": null,
+  "zone": null,
+  "chars": 105,
+  "first": "Exzerpte aus James Steuart:"
+ },
+ {
+  "pdf_page": 383,
+  "printed": 379,
+  "zone": "foot",
+  "chars": 2227,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 384,
+  "printed": 380,
+  "zone": "foot",
+  "chars": 744,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 385,
+  "printed": 381,
+  "zone": "foot",
+  "chars": 2029,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 386,
+  "printed": 382,
+  "zone": "foot",
+  "chars": 2781,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 387,
+  "printed": 383,
+  "zone": "foot",
+  "chars": 3063,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 388,
+  "printed": 384,
+  "zone": "foot",
+  "chars": 2641,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 389,
+  "printed": 385,
+  "zone": "foot",
+  "chars": 2687,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 390,
+  "printed": 386,
+  "zone": "foot",
+  "chars": 2612,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 391,
+  "printed": 387,
+  "zone": "foot",
+  "chars": 2728,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 392,
+  "printed": 388,
+  "zone": "foot",
+  "chars": 2519,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 393,
+  "printed": 389,
+  "zone": "foot",
+  "chars": 2674,
+  "first": "Aus D.Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 394,
+  "printed": 390,
+  "zone": "foot",
+  "chars": 2727,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 395,
+  "printed": 391,
+  "zone": "foot",
+  "chars": 2672,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 396,
+  "printed": 392,
+  "zone": "foot",
+  "chars": 3070,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 397,
+  "printed": 393,
+  "zone": "foot",
+  "chars": 2802,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 398,
+  "printed": 394,
+  "zone": "foot",
+  "chars": 3076,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 399,
+  "printed": 395,
+  "zone": "foot",
+  "chars": 320,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 400,
+  "printed": 396,
+  "zone": "foot",
+  "chars": 1682,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 401,
+  "printed": 397,
+  "zone": "foot",
+  "chars": 2616,
+  "first": "Aus A. Serra: Breve trattato"
+ },
+ {
+  "pdf_page": 402,
+  "printed": 398,
+  "zone": "foot",
+  "chars": 2838,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 403,
+  "printed": 399,
+  "zone": "foot",
+  "chars": 1270,
+  "first": "Aus A. Serra: Breve trattato ..."
+ },
+ {
+  "pdf_page": 404,
+  "printed": 400,
+  "zone": "foot",
+  "chars": 2187,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 405,
+  "printed": 401,
+  "zone": "foot",
+  "chars": 3186,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 406,
+  "printed": 402,
+  "zone": "foot",
+  "chars": 2339,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 407,
+  "printed": 403,
+  "zone": "foot",
+  "chars": 2704,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 408,
+  "printed": 404,
+  "zone": "foot",
+  "chars": 600,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 409,
+  "printed": 405,
+  "zone": "foot",
+  "chars": 2090,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 410,
+  "printed": 406,
+  "zone": "foot",
+  "chars": 2508,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 411,
+  "printed": 407,
+  "zone": "foot",
+  "chars": 2823,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 412,
+  "printed": 408,
+  "zone": "foot",
+  "chars": 2080,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 413,
+  "printed": 409,
+  "zone": "foot",
+  "chars": 1686,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 414,
+  "printed": 410,
+  "zone": "foot",
+  "chars": 3020,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 415,
+  "printed": 411,
+  "zone": "foot",
+  "chars": 3095,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 416,
+  "printed": 412,
+  "zone": "foot",
+  "chars": 2766,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 417,
+  "printed": 413,
+  "zone": "foot",
+  "chars": 2995,
+  "first": "Aus D.Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 418,
+  "printed": 414,
+  "zone": "foot",
+  "chars": 2185,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 419,
+  "printed": 415,
+  "zone": "foot",
+  "chars": 2743,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 420,
+  "printed": 416,
+  "zone": "foot",
+  "chars": 2485,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 421,
+  "printed": 417,
+  "zone": "foot",
+  "chars": 2785,
+  "first": "Aus D.Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 422,
+  "printed": 418,
+  "zone": "foot",
+  "chars": 2796,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 423,
+  "printed": 419,
+  "zone": "foot",
+  "chars": 3122,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 424,
+  "printed": 420,
+  "zone": "foot",
+  "chars": 2810,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 425,
+  "printed": 421,
+  "zone": "foot",
+  "chars": 2515,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 426,
+  "printed": 422,
+  "zone": "foot",
+  "chars": 2996,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 427,
+  "printed": 423,
+  "zone": "foot",
+  "chars": 1997,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 428,
+  "printed": 424,
+  "zone": "foot",
+  "chars": 2769,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 429,
+  "printed": 425,
+  "zone": "foot",
+  "chars": 2662,
+  "first": "Aus D. Ricardo: On the principles of political economy (Fortsetzung)"
+ },
+ {
+  "pdf_page": 430,
+  "printed": 426,
+  "zone": "foot",
+  "chars": 1382,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 431,
+  "printed": 427,
+  "zone": "foot",
+  "chars": 2034,
+  "first": "Aus The Economist 1845"
+ },
+ {
+  "pdf_page": 432,
+  "printed": 428,
+  "zone": "foot",
+  "chars": 862,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 433,
+  "printed": 429,
+  "zone": "foot",
+  "chars": 2263,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 434,
+  "printed": 430,
+  "zone": "foot",
+  "chars": 3122,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 435,
+  "printed": 431,
+  "zone": "foot",
+  "chars": 3188,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 436,
+  "printed": 432,
+  "zone": "foot",
+  "chars": 2030,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 437,
+  "printed": 433,
+  "zone": "foot",
+  "chars": 2937,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 438,
+  "printed": 434,
+  "zone": "foot",
+  "chars": 3134,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 439,
+  "printed": 435,
+  "zone": "foot",
+  "chars": 3127,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 440,
+  "printed": 436,
+  "zone": "foot",
+  "chars": 2412,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 441,
+  "printed": 437,
+  "zone": "foot",
+  "chars": 2610,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 442,
+  "printed": 438,
+  "zone": "foot",
+  "chars": 3114,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 443,
+  "printed": 439,
+  "zone": "foot",
+  "chars": 2541,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 444,
+  "printed": 440,
+  "zone": "foot",
+  "chars": 3061,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 445,
+  "printed": 441,
+  "zone": "foot",
+  "chars": 3147,
+  "first": "Aus j. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 446,
+  "printed": 442,
+  "zone": "foot",
+  "chars": 3125,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 447,
+  "printed": 443,
+  "zone": "foot",
+  "chars": 2397,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 448,
+  "printed": 444,
+  "zone": "foot",
+  "chars": 2664,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 449,
+  "printed": 445,
+  "zone": "foot",
+  "chars": 1421,
+  "first": "Aus J. Steuart: An inquiry into the principles of political economy (F"
+ },
+ {
+  "pdf_page": 450,
+  "printed": 446,
+  "zone": "foot",
+  "chars": 1708,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 451,
+  "printed": 447,
+  "zone": "foot",
+  "chars": 1379,
+  "first": "Aus G. Montanari: Della moneta"
+ },
+ {
+  "pdf_page": 452,
+  "printed": 448,
+  "zone": "foot",
+  "chars": 1802,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 453,
+  "printed": 449,
+  "zone": "foot",
+  "chars": 1745,
+  "first": "Aus R. Torrens: An essay on money and paper currency"
+ },
+ {
+  "pdf_page": 454,
+  "printed": 450,
+  "zone": "foot",
+  "chars": 3156,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 455,
+  "printed": 451,
+  "zone": "foot",
+  "chars": 2818,
+  "first": "Aus R. Torrens: An essay on money and paper currency"
+ },
+ {
+  "pdf_page": 456,
+  "printed": 452,
+  "zone": "foot",
+  "chars": 281,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 457,
+  "printed": 453,
+  "zone": "foot",
+  "chars": 1660,
+  "first": "Aus W. M. Gouge: A short history of paper money ."
+ },
+ {
+  "pdf_page": 458,
+  "printed": 454,
+  "zone": "foot",
+  "chars": 3126,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 459,
+  "printed": 455,
+  "zone": "foot",
+  "chars": 2611,
+  "first": "Aus W. M. Gouge: A short history of paper money ."
+ },
+ {
+  "pdf_page": 460,
+  "printed": 456,
+  "zone": "foot",
+  "chars": 2070,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 461,
+  "printed": 457,
+  "zone": "foot",
+  "chars": 2844,
+  "first": "Aus W. M. Gouge: A short history of paper money ..."
+ },
+ {
+  "pdf_page": 462,
+  "printed": 458,
+  "zone": "foot",
+  "chars": 2463,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 463,
+  "printed": 459,
+  "zone": "foot",
+  "chars": 396,
+  "first": "Aus W. M. Gouge: A short history of paper money ."
+ },
+ {
+  "pdf_page": 464,
+  "printed": 460,
+  "zone": "foot",
+  "chars": 1553,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 465,
+  "printed": 461,
+  "zone": "foot",
+  "chars": 2801,
+  "first": "Aus W. C.Taylor: The natural history of society ."
+ },
+ {
+  "pdf_page": 466,
+  "printed": 462,
+  "zone": "foot",
+  "chars": 2520,
+  "first": "Londoner Hefte 1850-1853. Heft Vili"
+ },
+ {
+  "pdf_page": 467,
+  "printed": 463,
+  "zone": "foot",
+  "chars": 2542,
+  "first": "Aus W. C.Taylor: The natural history of society"
+ },
+ {
+  "pdf_page": 468,
+  "printed": 464,
+  "zone": "foot",
+  "chars": 1877,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 469,
+  "printed": 465,
+  "zone": "foot",
+  "chars": 2747,
+  "first": "Aus W.C.Taylor: The natural history of society"
+ },
+ {
+  "pdf_page": 470,
+  "printed": 466,
+  "zone": "foot",
+  "chars": 2557,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 471,
+  "printed": 467,
+  "zone": "foot",
+  "chars": 2920,
+  "first": "Aus W. C. Taylor: The natural history of society"
+ },
+ {
+  "pdf_page": 472,
+  "printed": 468,
+  "zone": "foot",
+  "chars": 3140,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 473,
+  "printed": 469,
+  "zone": "foot",
+  "chars": 2820,
+  "first": "Aus W.C.Taylor: The natural history of society..."
+ },
+ {
+  "pdf_page": 474,
+  "printed": 470,
+  "zone": "foot",
+  "chars": 2580,
+  "first": "Londoner Hefte 1850-1853. Heft VIII"
+ },
+ {
+  "pdf_page": 475,
+  "printed": 471,
+  "zone": "foot",
+  "chars": 1509,
+  "first": "H e f t IX"
+ },
+ {
+  "pdf_page": 476,
+  "printed": 472,
+  "zone": "foot",
+  "chars": 2051,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 477,
+  "printed": 473,
+  "zone": "foot",
+  "chars": 991,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 478,
+  "printed": 474,
+  "zone": "foot",
+  "chars": 3013,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 479,
+  "printed": 475,
+  "zone": "foot",
+  "chars": 2904,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 480,
+  "printed": 476,
+  "zone": "foot",
+  "chars": 2932,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 481,
+  "printed": 477,
+  "zone": "foot",
+  "chars": 2889,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 482,
+  "printed": 478,
+  "zone": "foot",
+  "chars": 3172,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 483,
+  "printed": 479,
+  "zone": "foot",
+  "chars": 2912,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 484,
+  "printed": 480,
+  "zone": "foot",
+  "chars": 3139,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 485,
+  "printed": 481,
+  "zone": "foot",
+  "chars": 2882,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 486,
+  "printed": 482,
+  "zone": "foot",
+  "chars": 2688,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 487,
+  "printed": 483,
+  "zone": "foot",
+  "chars": 3270,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 488,
+  "printed": 484,
+  "zone": "foot",
+  "chars": 3119,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 489,
+  "printed": 485,
+  "zone": "foot",
+  "chars": 2460,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 490,
+  "printed": 486,
+  "zone": "foot",
+  "chars": 3106,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 491,
+  "printed": 487,
+  "zone": "foot",
+  "chars": 2704,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 492,
+  "printed": 488,
+  "zone": "foot",
+  "chars": 2956,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 493,
+  "printed": 489,
+  "zone": "foot",
+  "chars": 3159,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 494,
+  "printed": 490,
+  "zone": "foot",
+  "chars": 3121,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 495,
+  "printed": 491,
+  "zone": "foot",
+  "chars": 3037,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 496,
+  "printed": 492,
+  "zone": "foot",
+  "chars": 3137,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 497,
+  "printed": 493,
+  "zone": "foot",
+  "chars": 3131,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 498,
+  "printed": 494,
+  "zone": "foot",
+  "chars": 2821,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 499,
+  "printed": 495,
+  "zone": "foot",
+  "chars": 2382,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 500,
+  "printed": 496,
+  "zone": "foot",
+  "chars": 3109,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 501,
+  "printed": 497,
+  "zone": "foot",
+  "chars": 2775,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 502,
+  "printed": 498,
+  "zone": "foot",
+  "chars": 2281,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 503,
+  "printed": 499,
+  "zone": "foot",
+  "chars": 3188,
+  "first": "Aus J. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 504,
+  "printed": 500,
+  "zone": "foot",
+  "chars": 3098,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 505,
+  "printed": 501,
+  "zone": "foot",
+  "chars": 3159,
+  "first": "Aus j. D. Tuckett: A history of the past and present state of the labo"
+ },
+ {
+  "pdf_page": 506,
+  "printed": 502,
+  "zone": "foot",
+  "chars": 2924,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 507,
+  "printed": 503,
+  "zone": "foot",
+  "chars": 2765,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 508,
+  "printed": 504,
+  "zone": "foot",
+  "chars": 3109,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 509,
+  "printed": null,
+  "zone": null,
+  "chars": 121,
+  "first": "Exzerpte aus John Debell Tuckett:"
+ },
+ {
+  "pdf_page": 510,
+  "printed": 507,
+  "zone": "foot",
+  "chars": 2329,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 511,
+  "printed": 508,
+  "zone": "foot",
+  "chars": 2166,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 512,
+  "printed": 509,
+  "zone": "foot",
+  "chars": 2823,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 513,
+  "printed": 510,
+  "zone": "foot",
+  "chars": 2699,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 514,
+  "printed": 511,
+  "zone": "foot",
+  "chars": 3011,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 515,
+  "printed": 512,
+  "zone": "foot",
+  "chars": 3134,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 516,
+  "printed": 513,
+  "zone": "foot",
+  "chars": 3159,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 517,
+  "printed": 514,
+  "zone": "foot",
+  "chars": 2707,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 518,
+  "printed": 515,
+  "zone": "foot",
+  "chars": 3139,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 519,
+  "printed": 516,
+  "zone": "foot",
+  "chars": 2958,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 520,
+  "printed": 517,
+  "zone": "foot",
+  "chars": 1203,
+  "first": "Aus J. D.Tuckett: A history of the past and present state of the labou"
+ },
+ {
+  "pdf_page": 521,
+  "printed": 518,
+  "zone": "foot",
+  "chars": 1824,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 522,
+  "printed": 519,
+  "zone": "foot",
+  "chars": 3156,
+  "first": "Aus J. Barton: Observations on the circumstances ..."
+ },
+ {
+  "pdf_page": 523,
+  "printed": 520,
+  "zone": "foot",
+  "chars": 2858,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 524,
+  "printed": 521,
+  "zone": "foot",
+  "chars": 1603,
+  "first": "Aus J. Barton: Observations on the circumstances"
+ },
+ {
+  "pdf_page": 525,
+  "printed": 522,
+  "zone": "foot",
+  "chars": 1912,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 526,
+  "printed": 523,
+  "zone": "foot",
+  "chars": 2980,
+  "first": "Aus The Westminster Review. 1826"
+ },
+ {
+  "pdf_page": 527,
+  "printed": 524,
+  "zone": "foot",
+  "chars": 1754,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 528,
+  "printed": 525,
+  "zone": "foot",
+  "chars": 3160,
+  "first": "Aus D.Buchanan: Observations on the subjects treated of in Dr. Smith's"
+ },
+ {
+  "pdf_page": 529,
+  "printed": 526,
+  "zone": "foot",
+  "chars": 3103,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 530,
+  "printed": 527,
+  "zone": "foot",
+  "chars": 2537,
+  "first": "Aus D. Buchanan: Observations on the subjects treated of in Dr. Smith'"
+ },
+ {
+  "pdf_page": 531,
+  "printed": 528,
+  "zone": "foot",
+  "chars": 2582,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 532,
+  "printed": 529,
+  "zone": "foot",
+  "chars": 2890,
+  "first": "Aus D. Buchanan: Observations on the subjects treated of in Dr. Smith'"
+ },
+ {
+  "pdf_page": 533,
+  "printed": 530,
+  "zone": "foot",
+  "chars": 2773,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 534,
+  "printed": 531,
+  "zone": "foot",
+  "chars": 2159,
+  "first": "Aus D.Buchanan: Observations on the subjects treated of in Dr. Smith's"
+ },
+ {
+  "pdf_page": 535,
+  "printed": 532,
+  "zone": "foot",
+  "chars": 1450,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 536,
+  "printed": 533,
+  "zone": "foot",
+  "chars": 2015,
+  "first": "Aus T. R. Malthus: The measure of value"
+ },
+ {
+  "pdf_page": 537,
+  "printed": 534,
+  "zone": "foot",
+  "chars": 3147,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 538,
+  "printed": 535,
+  "zone": "foot",
+  "chars": 1816,
+  "first": "Aus T. R. Malthus: The measure of value"
+ },
+ {
+  "pdf_page": 539,
+  "printed": 536,
+  "zone": "foot",
+  "chars": 1762,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 540,
+  "printed": 537,
+  "zone": "foot",
+  "chars": 3124,
+  "first": "Aus R. Torrens: An essay on the production of wealth"
+ },
+ {
+  "pdf_page": 541,
+  "printed": 538,
+  "zone": "foot",
+  "chars": 1916,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 542,
+  "printed": 539,
+  "zone": "foot",
+  "chars": 2394,
+  "first": "Aus R. Torrens: An essay on the production of wealth"
+ },
+ {
+  "pdf_page": 543,
+  "printed": 540,
+  "zone": "foot",
+  "chars": 1610,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 544,
+  "printed": 541,
+  "zone": "foot",
+  "chars": 313,
+  "first": "M.Carey: Essays on political economy"
+ },
+ {
+  "pdf_page": 545,
+  "printed": 542,
+  "zone": "foot",
+  "chars": 1858,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 546,
+  "printed": 543,
+  "zone": "foot",
+  "chars": 3185,
+  "first": "Aus P. Ravenstone: Thoughts on the funding system, and its effects"
+ },
+ {
+  "pdf_page": 547,
+  "printed": 544,
+  "zone": "foot",
+  "chars": 3097,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 548,
+  "printed": 545,
+  "zone": "foot",
+  "chars": 1868,
+  "first": "Aus P. Ravenstone: Thoughts on the funding system, and its effects"
+ },
+ {
+  "pdf_page": 549,
+  "printed": 546,
+  "zone": "foot",
+  "chars": 2197,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 550,
+  "printed": 547,
+  "zone": "foot",
+  "chars": 3168,
+  "first": "Aus P. Ravenstone: Thoughts on the funding system, and its effects"
+ },
+ {
+  "pdf_page": 551,
+  "printed": 548,
+  "zone": "foot",
+  "chars": 886,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 552,
+  "printed": 549,
+  "zone": "foot",
+  "chars": 1239,
+  "first": "Aus T. Hodgskin: Popular political economy"
+ },
+ {
+  "pdf_page": 553,
+  "printed": 550,
+  "zone": "foot",
+  "chars": 2933,
+  "first": "f"
+ },
+ {
+  "pdf_page": 554,
+  "printed": 551,
+  "zone": "foot",
+  "chars": 2769,
+  "first": "Aus T. Hodgskin: Popular political economy"
+ },
+ {
+  "pdf_page": 555,
+  "printed": 552,
+  "zone": "foot",
+  "chars": 3072,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 556,
+  "printed": 553,
+  "zone": "foot",
+  "chars": 2584,
+  "first": "Aus T. Hodgskin: Popular political economy"
+ },
+ {
+  "pdf_page": 557,
+  "printed": 554,
+  "zone": "foot",
+  "chars": 2738,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 558,
+  "printed": 555,
+  "zone": "foot",
+  "chars": 2841,
+  "first": "Aus T. Hodgskin: Popular political economy"
+ },
+ {
+  "pdf_page": 559,
+  "printed": 556,
+  "zone": "foot",
+  "chars": 2543,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 560,
+  "printed": 557,
+  "zone": "foot",
+  "chars": 3113,
+  "first": "Aus T. Hodgskin: Popular political economy"
+ },
+ {
+  "pdf_page": 561,
+  "printed": 558,
+  "zone": "foot",
+  "chars": 2945,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 562,
+  "printed": 559,
+  "zone": "foot",
+  "chars": 2914,
+  "first": "Aus T. Hodgskin: Popular political economy"
+ },
+ {
+  "pdf_page": 563,
+  "printed": 560,
+  "zone": "foot",
+  "chars": 3158,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 564,
+  "printed": 561,
+  "zone": "foot",
+  "chars": 3179,
+  "first": "Aus T. Hodgskin: Popular political economy"
+ },
+ {
+  "pdf_page": 565,
+  "printed": 562,
+  "zone": "foot",
+  "chars": 1485,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 566,
+  "printed": 563,
+  "zone": "foot",
+  "chars": 1675,
+  "first": "Aus R.Jones: An introductory lecture on political economy"
+ },
+ {
+  "pdf_page": 567,
+  "printed": 564,
+  "zone": "foot",
+  "chars": 2656,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 568,
+  "printed": 565,
+  "zone": "foot",
+  "chars": 2510,
+  "first": "Aus R. Jones: An introductory lecture on political economy"
+ },
+ {
+  "pdf_page": 569,
+  "printed": 566,
+  "zone": "foot",
+  "chars": 2634,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 570,
+  "printed": 567,
+  "zone": "foot",
+  "chars": 1464,
+  "first": "Aus R.Jones: An introductory lecture on political economy"
+ },
+ {
+  "pdf_page": 571,
+  "printed": 568,
+  "zone": "foot",
+  "chars": 1946,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 572,
+  "printed": 569,
+  "zone": "foot",
+  "chars": 3109,
+  "first": "Aus T.R.Malthus: Definitions in political economy"
+ },
+ {
+  "pdf_page": 573,
+  "printed": 570,
+  "zone": "foot",
+  "chars": 3114,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 574,
+  "printed": 571,
+  "zone": "foot",
+  "chars": 2802,
+  "first": "Aus T. R. Malthus: Definitions in political economy"
+ },
+ {
+  "pdf_page": 575,
+  "printed": 572,
+  "zone": "foot",
+  "chars": 1589,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 576,
+  "printed": 573,
+  "zone": "foot",
+  "chars": 2855,
+  "first": "Aus T. Chalmers: On political economy"
+ },
+ {
+  "pdf_page": 577,
+  "printed": 574,
+  "zone": "foot",
+  "chars": 3148,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 578,
+  "printed": 575,
+  "zone": "foot",
+  "chars": 2794,
+  "first": "Aus T. Chalmers: On political economy"
+ },
+ {
+  "pdf_page": 579,
+  "printed": 576,
+  "zone": "foot",
+  "chars": 2984,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 580,
+  "printed": 577,
+  "zone": "foot",
+  "chars": 3180,
+  "first": "Aus T.Chalmers: On political economy"
+ },
+ {
+  "pdf_page": 581,
+  "printed": 578,
+  "zone": "foot",
+  "chars": 2629,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 582,
+  "printed": 579,
+  "zone": "foot",
+  "chars": 2839,
+  "first": "Aus T.Chalmers: On political economy"
+ },
+ {
+  "pdf_page": 583,
+  "printed": 580,
+  "zone": "foot",
+  "chars": 3162,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 584,
+  "printed": 581,
+  "zone": "foot",
+  "chars": 2771,
+  "first": "Aus T.Chalmers: On political economy"
+ },
+ {
+  "pdf_page": 585,
+  "printed": 582,
+  "zone": "foot",
+  "chars": 2593,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 586,
+  "printed": 583,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "Aus T.Chalmers: On political economy"
+ },
+ {
+  "pdf_page": 587,
+  "printed": 584,
+  "zone": "foot",
+  "chars": 2279,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 588,
+  "printed": 585,
+  "zone": "foot",
+  "chars": 2204,
+  "first": "Aus T. Chalmers: On political economy"
+ },
+ {
+  "pdf_page": 589,
+  "printed": 586,
+  "zone": "foot",
+  "chars": 2176,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 590,
+  "printed": 587,
+  "zone": "foot",
+  "chars": 1805,
+  "first": "Aus T.Chalmers: On political economy ..."
+ },
+ {
+  "pdf_page": 591,
+  "printed": 588,
+  "zone": "foot",
+  "chars": 2856,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 592,
+  "printed": 589,
+  "zone": "foot",
+  "chars": 1096,
+  "first": "Aus T. Chalmers: On political economy"
+ },
+ {
+  "pdf_page": 593,
+  "printed": 590,
+  "zone": "foot",
+  "chars": 2052,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 594,
+  "printed": 591,
+  "zone": "foot",
+  "chars": 2949,
+  "first": "Aus The Edinburgh Review 1832"
+ },
+ {
+  "pdf_page": 595,
+  "printed": 592,
+  "zone": "foot",
+  "chars": 2013,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 596,
+  "printed": 593,
+  "zone": "foot",
+  "chars": 2431,
+  "first": "Aus G. P. Scrope: Principles of political economy"
+ },
+ {
+  "pdf_page": 597,
+  "printed": 594,
+  "zone": "foot",
+  "chars": 2602,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 598,
+  "printed": 595,
+  "zone": "foot",
+  "chars": 3111,
+  "first": "Aus G. P. Scrope: Principles of political economy ..."
+ },
+ {
+  "pdf_page": 599,
+  "printed": 596,
+  "zone": "foot",
+  "chars": 2062,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 600,
+  "printed": 597,
+  "zone": "foot",
+  "chars": 1948,
+  "first": "Aus J. D.Tuckett: A history of the past and present... (Fortsetzung)"
+ },
+ {
+  "pdf_page": 601,
+  "printed": null,
+  "zone": null,
+  "chars": 1074,
+  "first": "10"
+ },
+ {
+  "pdf_page": 602,
+  "printed": 598,
+  "zone": "foot",
+  "chars": 1364,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 603,
+  "printed": 600,
+  "zone": "foot",
+  "chars": 1910,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 604,
+  "printed": 601,
+  "zone": "foot",
+  "chars": 2350,
+  "first": "Aus W. Blake: Observations on the effects produced"
+ },
+ {
+  "pdf_page": 605,
+  "printed": 602,
+  "zone": "foot",
+  "chars": 3094,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 606,
+  "printed": 603,
+  "zone": "foot",
+  "chars": 3094,
+  "first": "Aus W. Blake: Observations on the effects produced ..."
+ },
+ {
+  "pdf_page": 607,
+  "printed": 604,
+  "zone": "foot",
+  "chars": 3093,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 608,
+  "printed": 605,
+  "zone": "foot",
+  "chars": 1723,
+  "first": "Aus W. Blake: Observations on the effects produced ..."
+ },
+ {
+  "pdf_page": 609,
+  "printed": 606,
+  "zone": "foot",
+  "chars": 1461,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 610,
+  "printed": null,
+  "zone": null,
+  "chars": 95,
+  "first": "Exzerpte aus John Ramsay McCulloch:"
+ },
+ {
+  "pdf_page": 611,
+  "printed": 609,
+  "zone": "foot",
+  "chars": 853,
+  "first": "Aus J. R. MacCulloch: The literature of political economy"
+ },
+ {
+  "pdf_page": 612,
+  "printed": 610,
+  "zone": "foot",
+  "chars": 2166,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 613,
+  "printed": 611,
+  "zone": "foot",
+  "chars": 3134,
+  "first": "Aus W. Blake: Observations on the effects produced ... (Fortsetzung)"
+ },
+ {
+  "pdf_page": 614,
+  "printed": 612,
+  "zone": "foot",
+  "chars": 701,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 615,
+  "printed": 613,
+  "zone": "foot",
+  "chars": 2072,
+  "first": "Aus The Edinburgh Review 1831"
+ },
+ {
+  "pdf_page": 616,
+  "printed": 614,
+  "zone": "foot",
+  "chars": 769,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 617,
+  "printed": 615,
+  "zone": "foot",
+  "chars": 1729,
+  "first": "Aus R.Jones: An essay on the distribution of wealth"
+ },
+ {
+  "pdf_page": 618,
+  "printed": 616,
+  "zone": "foot",
+  "chars": 2845,
+  "first": "1"
+ },
+ {
+  "pdf_page": 619,
+  "printed": 617,
+  "zone": "foot",
+  "chars": 2846,
+  "first": "Aus R.Jones: An essay on the distribution of wealth ..."
+ },
+ {
+  "pdf_page": 620,
+  "printed": 618,
+  "zone": "foot",
+  "chars": 2646,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 621,
+  "printed": 619,
+  "zone": "foot",
+  "chars": 2063,
+  "first": "Aus R.Jones: An essay on the distribution of wealth"
+ },
+ {
+  "pdf_page": 622,
+  "printed": 620,
+  "zone": "foot",
+  "chars": 1814,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 623,
+  "printed": 621,
+  "zone": "foot",
+  "chars": 2388,
+  "first": "Aus R.Jones: An essay on the distribution of wealth"
+ },
+ {
+  "pdf_page": 624,
+  "printed": 622,
+  "zone": "foot",
+  "chars": 2810,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 625,
+  "printed": 623,
+  "zone": "foot",
+  "chars": 2804,
+  "first": "Aus R.Jones: An essay on the distribution of wealth ..."
+ },
+ {
+  "pdf_page": 626,
+  "printed": 624,
+  "zone": "foot",
+  "chars": 2798,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 627,
+  "printed": 625,
+  "zone": "foot",
+  "chars": 2573,
+  "first": "Aus R.Jones: An essay on the distribution of wealth ..."
+ },
+ {
+  "pdf_page": 628,
+  "printed": 626,
+  "zone": "foot",
+  "chars": 3150,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 629,
+  "printed": 627,
+  "zone": "foot",
+  "chars": 2693,
+  "first": "Aus R.Jones: An essay on the distribution of wealth ..."
+ },
+ {
+  "pdf_page": 630,
+  "printed": 628,
+  "zone": "foot",
+  "chars": 2907,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 631,
+  "printed": 629,
+  "zone": "foot",
+  "chars": 2773,
+  "first": "Aus R. Jones: An essay on the distribution of wealth ..."
+ },
+ {
+  "pdf_page": 632,
+  "printed": 630,
+  "zone": "foot",
+  "chars": 2648,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 633,
+  "printed": 631,
+  "zone": "foot",
+  "chars": 2616,
+  "first": "Aus R. Jones: An essay on the distribution of wealth"
+ },
+ {
+  "pdf_page": 634,
+  "printed": 632,
+  "zone": "foot",
+  "chars": 2485,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 635,
+  "printed": 633,
+  "zone": "foot",
+  "chars": 2410,
+  "first": "Aus R.Jones: An essay on the distribution of wealth ..."
+ },
+ {
+  "pdf_page": 636,
+  "printed": 634,
+  "zone": "foot",
+  "chars": 2034,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 637,
+  "printed": 635,
+  "zone": "foot",
+  "chars": 2955,
+  "first": "Aus R.Jones: An essay on the distribution of wealth"
+ },
+ {
+  "pdf_page": 638,
+  "printed": 636,
+  "zone": "foot",
+  "chars": 3161,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 639,
+  "printed": 637,
+  "zone": "foot",
+  "chars": 3200,
+  "first": "Aus R.Jones: An essay on the distribution of wealth ..."
+ },
+ {
+  "pdf_page": 640,
+  "printed": 638,
+  "zone": "foot",
+  "chars": 3191,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 641,
+  "printed": 639,
+  "zone": "foot",
+  "chars": 2963,
+  "first": "Aus R.Jones: An essay on the distribution of wealth ..."
+ },
+ {
+  "pdf_page": 642,
+  "printed": 640,
+  "zone": "foot",
+  "chars": 573,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 643,
+  "printed": 641,
+  "zone": "foot",
+  "chars": 145,
+  "first": "Aus Outlines of social economy"
+ },
+ {
+  "pdf_page": 644,
+  "printed": 642,
+  "zone": "foot",
+  "chars": 989,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 645,
+  "printed": 643,
+  "zone": "foot",
+  "chars": 1382,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth"
+ },
+ {
+  "pdf_page": 646,
+  "printed": 644,
+  "zone": "foot",
+  "chars": 2866,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 647,
+  "printed": 645,
+  "zone": "foot",
+  "chars": 3119,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth"
+ },
+ {
+  "pdf_page": 648,
+  "printed": 646,
+  "zone": "foot",
+  "chars": 2591,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 649,
+  "printed": 647,
+  "zone": "foot",
+  "chars": 2885,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth"
+ },
+ {
+  "pdf_page": 650,
+  "printed": 648,
+  "zone": "foot",
+  "chars": 1910,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 651,
+  "printed": 649,
+  "zone": "foot",
+  "chars": 825,
+  "first": "Aus R. Whately: Introductory lectures οη \"political economy ..."
+ },
+ {
+  "pdf_page": 652,
+  "printed": 650,
+  "zone": "foot",
+  "chars": 2227,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 653,
+  "printed": 651,
+  "zone": "foot",
+  "chars": 3252,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth (Fortsetzung)"
+ },
+ {
+  "pdf_page": 654,
+  "printed": 652,
+  "zone": "foot",
+  "chars": 3115,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 655,
+  "printed": 653,
+  "zone": "foot",
+  "chars": 2911,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth (Fortsetzung)"
+ },
+ {
+  "pdf_page": 656,
+  "printed": 654,
+  "zone": "foot",
+  "chars": 2936,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 657,
+  "printed": 655,
+  "zone": "foot",
+  "chars": 2563,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth (Fortsetzung)"
+ },
+ {
+  "pdf_page": 658,
+  "printed": 656,
+  "zone": "foot",
+  "chars": 3136,
+  "first": "Londoner Hefte 1850-1853. Heft IX"
+ },
+ {
+  "pdf_page": 659,
+  "printed": null,
+  "zone": null,
+  "chars": 87,
+  "first": "Exzerpte aus George Ramsay:"
+ },
+ {
+  "pdf_page": 660,
+  "printed": 659,
+  "zone": "foot",
+  "chars": 707,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth (Fortsetzung)"
+ },
+ {
+  "pdf_page": 661,
+  "printed": 660,
+  "zone": "foot",
+  "chars": 1934,
+  "first": "Heft Χ"
+ },
+ {
+  "pdf_page": 662,
+  "printed": 661,
+  "zone": "foot",
+  "chars": 3193,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth (Fortsetzung)"
+ },
+ {
+  "pdf_page": 663,
+  "printed": 662,
+  "zone": "foot",
+  "chars": 3122,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 664,
+  "printed": null,
+  "zone": null,
+  "chars": 84,
+  "first": "Exzerpte aus George Ramsay:"
+ },
+ {
+  "pdf_page": 665,
+  "printed": 665,
+  "zone": "foot",
+  "chars": 2761,
+  "first": "Aus G.Ramsay: An essay on the distribution of wealth (Fortsetzung)"
+ },
+ {
+  "pdf_page": 666,
+  "printed": 666,
+  "zone": "foot",
+  "chars": 2624,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 667,
+  "printed": 667,
+  "zone": "foot",
+  "chars": 2599,
+  "first": "Aus G. Ramsay: An essay on the distribution of wealth (Fortsetzung)"
+ },
+ {
+  "pdf_page": 668,
+  "printed": 668,
+  "zone": "foot",
+  "chars": 1803,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 669,
+  "printed": 669,
+  "zone": "foot",
+  "chars": 2815,
+  "first": "Aus T. de Quincey: The logic of political economy"
+ },
+ {
+  "pdf_page": 670,
+  "printed": 670,
+  "zone": "foot",
+  "chars": 2219,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 671,
+  "printed": 671,
+  "zone": "foot",
+  "chars": 985,
+  "first": "Aus T. de Quincey. The logic of political economy"
+ },
+ {
+  "pdf_page": 672,
+  "printed": 672,
+  "zone": "foot",
+  "chars": 1876,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 673,
+  "printed": 673,
+  "zone": "foot",
+  "chars": 3044,
+  "first": "Aus H. Ch. Carey: Essay on the rate of wages ..."
+ },
+ {
+  "pdf_page": 674,
+  "printed": 674,
+  "zone": "foot",
+  "chars": 3087,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 675,
+  "printed": 675,
+  "zone": "foot",
+  "chars": 3081,
+  "first": "Aus H. Ch. Carey: Essay on the rate of wages ..."
+ },
+ {
+  "pdf_page": 676,
+  "printed": 676,
+  "zone": "foot",
+  "chars": 2789,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 677,
+  "printed": 677,
+  "zone": "foot",
+  "chars": 3166,
+  "first": "Aus H. Ch. Carey: Essay on the rate of wages ..."
+ },
+ {
+  "pdf_page": 678,
+  "printed": 678,
+  "zone": "foot",
+  "chars": 3135,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 679,
+  "printed": 679,
+  "zone": "foot",
+  "chars": 2376,
+  "first": "Aus H. Ch. Carey: Essay on the rate of wages"
+ },
+ {
+  "pdf_page": 680,
+  "printed": 680,
+  "zone": "foot",
+  "chars": 2691,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 681,
+  "printed": 681,
+  "zone": "foot",
+  "chars": 1149,
+  "first": "Aus H. Ch. Carey: Essay on the rate of wages"
+ },
+ {
+  "pdf_page": 682,
+  "printed": 682,
+  "zone": "foot",
+  "chars": 1807,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 683,
+  "printed": 683,
+  "zone": "foot",
+  "chars": 332,
+  "first": "Aus London Magazine. 1824"
+ },
+ {
+  "pdf_page": 684,
+  "printed": 684,
+  "zone": "foot",
+  "chars": 2193,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 685,
+  "printed": 685,
+  "zone": "foot",
+  "chars": 2206,
+  "first": "Aus H. Ch. Carey: Essay on the rate of wages (Fortsetzung)"
+ },
+ {
+  "pdf_page": 686,
+  "printed": 686,
+  "zone": "foot",
+  "chars": 3135,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 687,
+  "printed": 687,
+  "zone": "foot",
+  "chars": 558,
+  "first": "Aus H. Ch. Carey: Essay on the rate of wages (Fortsetzung)"
+ },
+ {
+  "pdf_page": 688,
+  "printed": 688,
+  "zone": "foot",
+  "chars": 1480,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 689,
+  "printed": 689,
+  "zone": "foot",
+  "chars": 3183,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 690,
+  "printed": 690,
+  "zone": "foot",
+  "chars": 2808,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 691,
+  "printed": 691,
+  "zone": "foot",
+  "chars": 3152,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 692,
+  "printed": 692,
+  "zone": "foot",
+  "chars": 3150,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 693,
+  "printed": 693,
+  "zone": "foot",
+  "chars": 3169,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 694,
+  "printed": 694,
+  "zone": "foot",
+  "chars": 3190,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 695,
+  "printed": 695,
+  "zone": "foot",
+  "chars": 3197,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 696,
+  "printed": 696,
+  "zone": "foot",
+  "chars": 3161,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 697,
+  "printed": 697,
+  "zone": "foot",
+  "chars": 3191,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 698,
+  "printed": 698,
+  "zone": "foot",
+  "chars": 2902,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 699,
+  "printed": 699,
+  "zone": "foot",
+  "chars": 2833,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 700,
+  "printed": 700,
+  "zone": "foot",
+  "chars": 2827,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 701,
+  "printed": 701,
+  "zone": "foot",
+  "chars": 2095,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 702,
+  "printed": 702,
+  "zone": "foot",
+  "chars": 3102,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 703,
+  "printed": 703,
+  "zone": "foot",
+  "chars": 3176,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 704,
+  "printed": 704,
+  "zone": "foot",
+  "chars": 2705,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 705,
+  "printed": 705,
+  "zone": "foot",
+  "chars": 2710,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 706,
+  "printed": 706,
+  "zone": "foot",
+  "chars": 2922,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 707,
+  "printed": 707,
+  "zone": "foot",
+  "chars": 3174,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 708,
+  "printed": 708,
+  "zone": "foot",
+  "chars": 3178,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 709,
+  "printed": 709,
+  "zone": "foot",
+  "chars": 3154,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 710,
+  "printed": 710,
+  "zone": "foot",
+  "chars": 3188,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 711,
+  "printed": 711,
+  "zone": "foot",
+  "chars": 3137,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 712,
+  "printed": 712,
+  "zone": "foot",
+  "chars": 3237,
+  "first": "Londoner Hefte 1850-1853. HeftX"
+ },
+ {
+  "pdf_page": 713,
+  "printed": 713,
+  "zone": "foot",
+  "chars": 2510,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 714,
+  "printed": 714,
+  "zone": "foot",
+  "chars": 3148,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 715,
+  "printed": 715,
+  "zone": "foot",
+  "chars": 3153,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 716,
+  "printed": 716,
+  "zone": "foot",
+  "chars": 3185,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 717,
+  "printed": 717,
+  "zone": "foot",
+  "chars": 3196,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 718,
+  "printed": 718,
+  "zone": "foot",
+  "chars": 3184,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 719,
+  "printed": 719,
+  "zone": "foot",
+  "chars": 2860,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 720,
+  "printed": 720,
+  "zone": "foot",
+  "chars": 3176,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 721,
+  "printed": 721,
+  "zone": "foot",
+  "chars": 2810,
+  "first": "Aus H. Ch. Cärey: Principles of political economy"
+ },
+ {
+  "pdf_page": 722,
+  "printed": 722,
+  "zone": "foot",
+  "chars": 2776,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 723,
+  "printed": 723,
+  "zone": "foot",
+  "chars": 3169,
+  "first": "Aus H. Ch Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 724,
+  "printed": 724,
+  "zone": "foot",
+  "chars": 2217,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 725,
+  "printed": 725,
+  "zone": "foot",
+  "chars": 2385,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 726,
+  "printed": 726,
+  "zone": "foot",
+  "chars": 2006,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 727,
+  "printed": 727,
+  "zone": "foot",
+  "chars": 1014,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 728,
+  "printed": 728,
+  "zone": "foot",
+  "chars": 2522,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 729,
+  "printed": 729,
+  "zone": "foot",
+  "chars": 2662,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 730,
+  "printed": 730,
+  "zone": "foot",
+  "chars": 2957,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 731,
+  "printed": 731,
+  "zone": "foot",
+  "chars": 2703,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 732,
+  "printed": 732,
+  "zone": "foot",
+  "chars": 2049,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 733,
+  "printed": 733,
+  "zone": "foot",
+  "chars": 1544,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 734,
+  "printed": 734,
+  "zone": "foot",
+  "chars": 2791,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 735,
+  "printed": 735,
+  "zone": "foot",
+  "chars": 723,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 736,
+  "printed": 737,
+  "zone": "foot",
+  "chars": 2622,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 737,
+  "printed": null,
+  "zone": null,
+  "chars": 671,
+  "first": "736"
+ },
+ {
+  "pdf_page": 738,
+  "printed": 738,
+  "zone": "foot",
+  "chars": 2380,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 739,
+  "printed": 739,
+  "zone": "foot",
+  "chars": 466,
+  "first": "Aus H. Ch. Carey: Principles of political economy"
+ },
+ {
+  "pdf_page": 740,
+  "printed": 740,
+  "zone": "foot",
+  "chars": 1695,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 741,
+  "printed": null,
+  "zone": null,
+  "chars": 91,
+  "first": "Henry Charles Carey:"
+ },
+ {
+  "pdf_page": 742,
+  "printed": 743,
+  "zone": "foot",
+  "chars": 3185,
+  "first": "Aus H. Ch. Carey: The past, the present, and the future"
+ },
+ {
+  "pdf_page": 743,
+  "printed": 744,
+  "zone": "foot",
+  "chars": 3124,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 744,
+  "printed": 745,
+  "zone": "foot",
+  "chars": 2670,
+  "first": "Aus H. Ch. Carey: The past, the present, and the future"
+ },
+ {
+  "pdf_page": 745,
+  "printed": 746,
+  "zone": "foot",
+  "chars": 2308,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 746,
+  "printed": 747,
+  "zone": "foot",
+  "chars": 2076,
+  "first": "Aus H. Ch. Carey: The past, the present, and the future"
+ },
+ {
+  "pdf_page": 747,
+  "printed": 748,
+  "zone": "foot",
+  "chars": 2102,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 748,
+  "printed": 749,
+  "zone": "foot",
+  "chars": 3163,
+  "first": "Aus H. Ch. Carey: The past, the present, and the future"
+ },
+ {
+  "pdf_page": 749,
+  "printed": 750,
+  "zone": "foot",
+  "chars": 2569,
+  "first": "1"
+ },
+ {
+  "pdf_page": 750,
+  "printed": 751,
+  "zone": "foot",
+  "chars": 2895,
+  "first": "Aus H. Ch. Carey: The past, the present, and the future"
+ },
+ {
+  "pdf_page": 751,
+  "printed": 752,
+  "zone": "foot",
+  "chars": 2680,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 752,
+  "printed": 753,
+  "zone": "foot",
+  "chars": 1310,
+  "first": "Aus Th. R. Malthus: Principles of political economy"
+ },
+ {
+  "pdf_page": 753,
+  "printed": 754,
+  "zone": "foot",
+  "chars": 2901,
+  "first": "Londoner Hefte 1850-1853. Heft X"
+ },
+ {
+  "pdf_page": 754,
+  "printed": 755,
+  "zone": "foot",
+  "chars": 2635,
+  "first": "Aus Th. R. Malthus: Principles of political economy"
+ }
+]

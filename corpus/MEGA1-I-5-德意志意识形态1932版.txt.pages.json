@@ -1,0 +1,5000 @@
+[
+ {
+  "pdf_page": 1,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 2,
+  "printed": null,
+  "zone": null,
+  "chars": 343,
+  "first": "M"
+ },
+ {
+  "pdf_page": 3,
+  "printed": null,
+  "zone": null,
+  "chars": 178,
+  "first": "M"
+ },
+ {
+  "pdf_page": 4,
+  "printed": null,
+  "zone": null,
+  "chars": 284,
+  "first": "KARL MARX"
+ },
+ {
+  "pdf_page": 5,
+  "printed": null,
+  "zone": null,
+  "chars": 573,
+  "first": "KARL MARX"
+ },
+ {
+  "pdf_page": 6,
+  "printed": null,
+  "zone": null,
+  "chars": 108,
+  "first": "Unveränderter Neudruck der Ausgabe Berlin 1932"
+ },
+ {
+  "pdf_page": 7,
+  "printed": null,
+  "zone": null,
+  "chars": 91,
+  "first": "E I N L E I T U N G"
+ },
+ {
+  "pdf_page": 8,
+  "printed": null,
+  "zone": null,
+  "chars": 197,
+  "first": "DIE DEUTSCHE IDEOLOGIE"
+ },
+ {
+  "pdf_page": 9,
+  "printed": 3,
+  "zone": "head",
+  "chars": 1076,
+  "first": "DIE DEUTSCHE IDEOLOGIE"
+ },
+ {
+  "pdf_page": 10,
+  "printed": null,
+  "zone": null,
+  "chars": 2385,
+  "first": "V o r r e d e"
+ },
+ {
+  "pdf_page": 11,
+  "printed": null,
+  "zone": null,
+  "chars": 101,
+  "first": "I"
+ },
+ {
+  "pdf_page": 12,
+  "printed": null,
+  "zone": null,
+  "chars": 490,
+  "first": "I ."
+ },
+ {
+  "pdf_page": 13,
+  "printed": null,
+  "zone": null,
+  "chars": 1869,
+  "first": "/ 1 /"
+ },
+ {
+  "pdf_page": 14,
+  "printed": 8,
+  "zone": "head",
+  "chars": 2335,
+  "first": "8"
+ },
+ {
+  "pdf_page": 15,
+  "printed": 9,
+  "zone": "head",
+  "chars": 2963,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 16,
+  "printed": 10,
+  "zone": "head",
+  "chars": 2496,
+  "first": "10"
+ },
+ {
+  "pdf_page": 17,
+  "printed": 10,
+  "zone": "head",
+  "chars": 2917,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 18,
+  "printed": 10,
+  "zone": "head",
+  "chars": 2992,
+  "first": "12"
+ },
+ {
+  "pdf_page": 19,
+  "printed": 13,
+  "zone": "head",
+  "chars": 2848,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 20,
+  "printed": 14,
+  "zone": "head",
+  "chars": 2827,
+  "first": "14"
+ },
+ {
+  "pdf_page": 21,
+  "printed": 15,
+  "zone": "head",
+  "chars": 2916,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 22,
+  "printed": 16,
+  "zone": "head",
+  "chars": 2883,
+  "first": "16"
+ },
+ {
+  "pdf_page": 23,
+  "printed": 17,
+  "zone": "head",
+  "chars": 2461,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 24,
+  "printed": 18,
+  "zone": "head",
+  "chars": 3194,
+  "first": "18"
+ },
+ {
+  "pdf_page": 25,
+  "printed": 19,
+  "zone": "head",
+  "chars": 2945,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 26,
+  "printed": 20,
+  "zone": "head",
+  "chars": 2971,
+  "first": "20"
+ },
+ {
+  "pdf_page": 27,
+  "printed": null,
+  "zone": null,
+  "chars": 55,
+  "first": "TAFEL I: Aus dem Manuskript \"I. Feuerbach\" ; s.S. 20—21"
+ },
+ {
+  "pdf_page": 28,
+  "printed": 19,
+  "zone": "foot",
+  "chars": 2909,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 29,
+  "printed": 22,
+  "zone": "head",
+  "chars": 3072,
+  "first": "22"
+ },
+ {
+  "pdf_page": 30,
+  "printed": null,
+  "zone": null,
+  "chars": 58,
+  "first": "TAFEL II: Aus dem Manuskript „ / . Feuerbach\" ; s.S. 22—25"
+ },
+ {
+  "pdf_page": 31,
+  "printed": 23,
+  "zone": "head",
+  "chars": 2982,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 32,
+  "printed": 24,
+  "zone": "head",
+  "chars": 2904,
+  "first": "24"
+ },
+ {
+  "pdf_page": 33,
+  "printed": 25,
+  "zone": "head",
+  "chars": 2903,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 34,
+  "printed": 26,
+  "zone": "head",
+  "chars": 2532,
+  "first": "26"
+ },
+ {
+  "pdf_page": 35,
+  "printed": 27,
+  "zone": "head",
+  "chars": 2960,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 36,
+  "printed": 28,
+  "zone": "head",
+  "chars": 2964,
+  "first": "28"
+ },
+ {
+  "pdf_page": 37,
+  "printed": 29,
+  "zone": "head",
+  "chars": 2967,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 38,
+  "printed": 30,
+  "zone": "head",
+  "chars": 2919,
+  "first": "30"
+ },
+ {
+  "pdf_page": 39,
+  "printed": 31,
+  "zone": "head",
+  "chars": 2925,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 40,
+  "printed": 32,
+  "zone": "head",
+  "chars": 3103,
+  "first": "32"
+ },
+ {
+  "pdf_page": 41,
+  "printed": 33,
+  "zone": "head",
+  "chars": 3087,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 42,
+  "printed": null,
+  "zone": null,
+  "chars": 2996,
+  "first": "Deutsche Ideologie."
+ },
+ {
+  "pdf_page": 43,
+  "printed": 35,
+  "zone": "head",
+  "chars": 2911,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 44,
+  "printed": 36,
+  "zone": "head",
+  "chars": 3007,
+  "first": "36"
+ },
+ {
+  "pdf_page": 45,
+  "printed": 37,
+  "zone": "head",
+  "chars": 2999,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 46,
+  "printed": 38,
+  "zone": "head",
+  "chars": 2841,
+  "first": "38"
+ },
+ {
+  "pdf_page": 47,
+  "printed": 39,
+  "zone": "head",
+  "chars": 2276,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 48,
+  "printed": 40,
+  "zone": "head",
+  "chars": 2909,
+  "first": "40"
+ },
+ {
+  "pdf_page": 49,
+  "printed": 41,
+  "zone": "head",
+  "chars": 2888,
+  "first": "I. Feaerbaeh"
+ },
+ {
+  "pdf_page": 50,
+  "printed": 42,
+  "zone": "head",
+  "chars": 2837,
+  "first": "42"
+ },
+ {
+  "pdf_page": 51,
+  "printed": 43,
+  "zone": "head",
+  "chars": 2823,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 52,
+  "printed": 44,
+  "zone": "head",
+  "chars": 2811,
+  "first": "44"
+ },
+ {
+  "pdf_page": 53,
+  "printed": 45,
+  "zone": "head",
+  "chars": 2859,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 54,
+  "printed": 46,
+  "zone": "head",
+  "chars": 2647,
+  "first": "46"
+ },
+ {
+  "pdf_page": 55,
+  "printed": 47,
+  "zone": "head",
+  "chars": 2847,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 56,
+  "printed": 48,
+  "zone": "head",
+  "chars": 2908,
+  "first": "48"
+ },
+ {
+  "pdf_page": 57,
+  "printed": 49,
+  "zone": "head",
+  "chars": 2866,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 58,
+  "printed": 50,
+  "zone": "head",
+  "chars": 2859,
+  "first": "50"
+ },
+ {
+  "pdf_page": 59,
+  "printed": 51,
+  "zone": "head",
+  "chars": 2490,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 60,
+  "printed": 52,
+  "zone": "head",
+  "chars": 2908,
+  "first": "52"
+ },
+ {
+  "pdf_page": 61,
+  "printed": 53,
+  "zone": "head",
+  "chars": 2946,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 62,
+  "printed": 54,
+  "zone": "head",
+  "chars": 2580,
+  "first": "54"
+ },
+ {
+  "pdf_page": 63,
+  "printed": 55,
+  "zone": "head",
+  "chars": 2701,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 64,
+  "printed": 56,
+  "zone": "head",
+  "chars": 2848,
+  "first": "56"
+ },
+ {
+  "pdf_page": 65,
+  "printed": 57,
+  "zone": "head",
+  "chars": 2883,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 66,
+  "printed": 58,
+  "zone": "head",
+  "chars": 2975,
+  "first": "58"
+ },
+ {
+  "pdf_page": 67,
+  "printed": 59,
+  "zone": "head",
+  "chars": 2771,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 68,
+  "printed": 60,
+  "zone": "head",
+  "chars": 2401,
+  "first": "60"
+ },
+ {
+  "pdf_page": 69,
+  "printed": 61,
+  "zone": "head",
+  "chars": 2899,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 70,
+  "printed": 62,
+  "zone": "head",
+  "chars": 2929,
+  "first": "62"
+ },
+ {
+  "pdf_page": 71,
+  "printed": 63,
+  "zone": "head",
+  "chars": 2772,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 72,
+  "printed": 64,
+  "zone": "head",
+  "chars": 2988,
+  "first": "64"
+ },
+ {
+  "pdf_page": 73,
+  "printed": 65,
+  "zone": "head",
+  "chars": 2974,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 74,
+  "printed": 66,
+  "zone": "head",
+  "chars": 3075,
+  "first": "66"
+ },
+ {
+  "pdf_page": 75,
+  "printed": null,
+  "zone": null,
+  "chars": 896,
+  "first": "I. Feuerbach"
+ },
+ {
+  "pdf_page": 76,
+  "printed": null,
+  "zone": null,
+  "chars": 20,
+  "first": "DAS LEIPZIGER KONZIL"
+ },
+ {
+  "pdf_page": 77,
+  "printed": null,
+  "zone": null,
+  "chars": 85,
+  "first": "D a s L e i p z i g e r K o n z i l"
+ },
+ {
+  "pdf_page": 78,
+  "printed": null,
+  "zone": null,
+  "chars": 2502,
+  "first": "/[1]/"
+ },
+ {
+  "pdf_page": 79,
+  "printed": 72,
+  "zone": "head",
+  "chars": 2924,
+  "first": "72"
+ },
+ {
+  "pdf_page": 80,
+  "printed": null,
+  "zone": null,
+  "chars": 15,
+  "first": "II"
+ },
+ {
+  "pdf_page": 81,
+  "printed": null,
+  "zone": null,
+  "chars": 97,
+  "first": "Π . S a n k t B r u n o"
+ },
+ {
+  "pdf_page": 82,
+  "printed": null,
+  "zone": null,
+  "chars": 1813,
+  "first": "/ 1 /"
+ },
+ {
+  "pdf_page": 83,
+  "printed": 76,
+  "zone": "head",
+  "chars": 2982,
+  "first": "76"
+ },
+ {
+  "pdf_page": 84,
+  "printed": 77,
+  "zone": "head",
+  "chars": 3141,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 85,
+  "printed": 78,
+  "zone": "head",
+  "chars": 2971,
+  "first": "78"
+ },
+ {
+  "pdf_page": 86,
+  "printed": 79,
+  "zone": "head",
+  "chars": 2840,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 87,
+  "printed": 80,
+  "zone": "head",
+  "chars": 3019,
+  "first": "80"
+ },
+ {
+  "pdf_page": 88,
+  "printed": 81,
+  "zone": "head",
+  "chars": 3050,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 89,
+  "printed": 82,
+  "zone": "head",
+  "chars": 3045,
+  "first": "82"
+ },
+ {
+  "pdf_page": 90,
+  "printed": 83,
+  "zone": "head",
+  "chars": 2464,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 91,
+  "printed": 84,
+  "zone": "head",
+  "chars": 2932,
+  "first": "84"
+ },
+ {
+  "pdf_page": 92,
+  "printed": 85,
+  "zone": "head",
+  "chars": 2436,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 93,
+  "printed": 86,
+  "zone": "head",
+  "chars": 3058,
+  "first": "86"
+ },
+ {
+  "pdf_page": 94,
+  "printed": 87,
+  "zone": "head",
+  "chars": 3151,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 95,
+  "printed": 88,
+  "zone": "head",
+  "chars": 2994,
+  "first": "88"
+ },
+ {
+  "pdf_page": 96,
+  "printed": 89,
+  "zone": "head",
+  "chars": 3076,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 97,
+  "printed": 90,
+  "zone": "head",
+  "chars": 2891,
+  "first": "90"
+ },
+ {
+  "pdf_page": 98,
+  "printed": 91,
+  "zone": "head",
+  "chars": 2852,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 99,
+  "printed": 92,
+  "zone": "head",
+  "chars": 2436,
+  "first": "92"
+ },
+ {
+  "pdf_page": 100,
+  "printed": 93,
+  "zone": "head",
+  "chars": 3104,
+  "first": "II. Sankt Bruno"
+ },
+ {
+  "pdf_page": 101,
+  "printed": 94,
+  "zone": "head",
+  "chars": 2517,
+  "first": "94"
+ },
+ {
+  "pdf_page": 102,
+  "printed": null,
+  "zone": null,
+  "chars": 12,
+  "first": "m"
+ },
+ {
+  "pdf_page": 103,
+  "printed": null,
+  "zone": null,
+  "chars": 98,
+  "first": "III. S a n k t M a x"
+ },
+ {
+  "pdf_page": 104,
+  "printed": null,
+  "zone": null,
+  "chars": 2217,
+  "first": "/ 1 /"
+ },
+ {
+  "pdf_page": 105,
+  "printed": null,
+  "zone": null,
+  "chars": 2173,
+  "first": "/ [ l a ] /"
+ },
+ {
+  "pdf_page": 106,
+  "printed": 99,
+  "zone": "head",
+  "chars": 2174,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 107,
+  "printed": null,
+  "zone": null,
+  "chars": 2360,
+  "first": "Altes Testament: Der Mensch"
+ },
+ {
+  "pdf_page": 108,
+  "printed": 101,
+  "zone": "head",
+  "chars": 3054,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 109,
+  "printed": 102,
+  "zone": "head",
+  "chars": 3055,
+  "first": "102"
+ },
+ {
+  "pdf_page": 110,
+  "printed": 103,
+  "zone": "head",
+  "chars": 2973,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 111,
+  "printed": 104,
+  "zone": "head",
+  "chars": 3026,
+  "first": "104"
+ },
+ {
+  "pdf_page": 112,
+  "printed": 105,
+  "zone": "head",
+  "chars": 3027,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 113,
+  "printed": 106,
+  "zone": "head",
+  "chars": 2987,
+  "first": "106"
+ },
+ {
+  "pdf_page": 114,
+  "printed": 107,
+  "zone": "head",
+  "chars": 2646,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 115,
+  "printed": 108,
+  "zone": "head",
+  "chars": 3070,
+  "first": "108"
+ },
+ {
+  "pdf_page": 116,
+  "printed": 109,
+  "zone": "head",
+  "chars": 2221,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 117,
+  "printed": 110,
+  "zone": "head",
+  "chars": 2958,
+  "first": "110"
+ },
+ {
+  "pdf_page": 118,
+  "printed": 111,
+  "zone": "head",
+  "chars": 1606,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 119,
+  "printed": 112,
+  "zone": "head",
+  "chars": 1699,
+  "first": "112"
+ },
+ {
+  "pdf_page": 120,
+  "printed": 113,
+  "zone": "head",
+  "chars": 1910,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 121,
+  "printed": 114,
+  "zone": "head",
+  "chars": 2537,
+  "first": "114"
+ },
+ {
+  "pdf_page": 122,
+  "printed": 115,
+  "zone": "head",
+  "chars": 1534,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 123,
+  "printed": 116,
+  "zone": "head",
+  "chars": 1700,
+  "first": "116"
+ },
+ {
+  "pdf_page": 124,
+  "printed": 117,
+  "zone": "head",
+  "chars": 2973,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 125,
+  "printed": 118,
+  "zone": "head",
+  "chars": 2943,
+  "first": "118"
+ },
+ {
+  "pdf_page": 126,
+  "printed": 119,
+  "zone": "head",
+  "chars": 2858,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 127,
+  "printed": 120,
+  "zone": "head",
+  "chars": 2896,
+  "first": "120"
+ },
+ {
+  "pdf_page": 128,
+  "printed": 121,
+  "zone": "head",
+  "chars": 3006,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 129,
+  "printed": 122,
+  "zone": "head",
+  "chars": 2935,
+  "first": "122"
+ },
+ {
+  "pdf_page": 130,
+  "printed": 123,
+  "zone": "head",
+  "chars": 2975,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 131,
+  "printed": 124,
+  "zone": "head",
+  "chars": 2185,
+  "first": "124"
+ },
+ {
+  "pdf_page": 132,
+  "printed": 125,
+  "zone": "head",
+  "chars": 3050,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 133,
+  "printed": 126,
+  "zone": "head",
+  "chars": 3033,
+  "first": "126"
+ },
+ {
+  "pdf_page": 134,
+  "printed": 127,
+  "zone": "head",
+  "chars": 2990,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 135,
+  "printed": 128,
+  "zone": "head",
+  "chars": 2196,
+  "first": "128"
+ },
+ {
+  "pdf_page": 136,
+  "printed": 129,
+  "zone": "head",
+  "chars": 2875,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 137,
+  "printed": 130,
+  "zone": "head",
+  "chars": 3012,
+  "first": "130"
+ },
+ {
+  "pdf_page": 138,
+  "printed": 131,
+  "zone": "head",
+  "chars": 2939,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 139,
+  "printed": 132,
+  "zone": "head",
+  "chars": 2739,
+  "first": "132"
+ },
+ {
+  "pdf_page": 140,
+  "printed": 133,
+  "zone": "head",
+  "chars": 2597,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 141,
+  "printed": 134,
+  "zone": "head",
+  "chars": 2911,
+  "first": "134"
+ },
+ {
+  "pdf_page": 142,
+  "printed": 135,
+  "zone": "head",
+  "chars": 2743,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 143,
+  "printed": 136,
+  "zone": "head",
+  "chars": 2851,
+  "first": "136"
+ },
+ {
+  "pdf_page": 144,
+  "printed": 137,
+  "zone": "head",
+  "chars": 3043,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 145,
+  "printed": 138,
+  "zone": "head",
+  "chars": 2713,
+  "first": "138"
+ },
+ {
+  "pdf_page": 146,
+  "printed": 139,
+  "zone": "head",
+  "chars": 2905,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 147,
+  "printed": 140,
+  "zone": "head",
+  "chars": 2969,
+  "first": "140"
+ },
+ {
+  "pdf_page": 148,
+  "printed": 141,
+  "zone": "head",
+  "chars": 2542,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 149,
+  "printed": 142,
+  "zone": "head",
+  "chars": 2952,
+  "first": "142"
+ },
+ {
+  "pdf_page": 150,
+  "printed": 143,
+  "zone": "head",
+  "chars": 2528,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 151,
+  "printed": 144,
+  "zone": "head",
+  "chars": 2802,
+  "first": "144"
+ },
+ {
+  "pdf_page": 152,
+  "printed": 145,
+  "zone": "head",
+  "chars": 3037,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 153,
+  "printed": 146,
+  "zone": "head",
+  "chars": 2767,
+  "first": "146"
+ },
+ {
+  "pdf_page": 154,
+  "printed": 147,
+  "zone": "head",
+  "chars": 2575,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 155,
+  "printed": 148,
+  "zone": "head",
+  "chars": 3055,
+  "first": "148"
+ },
+ {
+  "pdf_page": 156,
+  "printed": 149,
+  "zone": "head",
+  "chars": 3019,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 157,
+  "printed": 150,
+  "zone": "head",
+  "chars": 3024,
+  "first": "150"
+ },
+ {
+  "pdf_page": 158,
+  "printed": 151,
+  "zone": "head",
+  "chars": 2689,
+  "first": "III. S a n k t M a x"
+ },
+ {
+  "pdf_page": 159,
+  "printed": 152,
+  "zone": "head",
+  "chars": 2908,
+  "first": "152"
+ },
+ {
+  "pdf_page": 160,
+  "printed": 153,
+  "zone": "head",
+  "chars": 2911,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 161,
+  "printed": 154,
+  "zone": "head",
+  "chars": 2412,
+  "first": "154"
+ },
+ {
+  "pdf_page": 162,
+  "printed": 155,
+  "zone": "head",
+  "chars": 3111,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 163,
+  "printed": 156,
+  "zone": "head",
+  "chars": 3385,
+  "first": "156"
+ },
+ {
+  "pdf_page": 164,
+  "printed": 157,
+  "zone": "head",
+  "chars": 2992,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 165,
+  "printed": 158,
+  "zone": "head",
+  "chars": 2970,
+  "first": "158"
+ },
+ {
+  "pdf_page": 166,
+  "printed": 159,
+  "zone": "head",
+  "chars": 2908,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 167,
+  "printed": 160,
+  "zone": "head",
+  "chars": 3074,
+  "first": "160"
+ },
+ {
+  "pdf_page": 168,
+  "printed": 161,
+  "zone": "head",
+  "chars": 3004,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 169,
+  "printed": 162,
+  "zone": "head",
+  "chars": 3015,
+  "first": "162"
+ },
+ {
+  "pdf_page": 170,
+  "printed": 163,
+  "zone": "head",
+  "chars": 2924,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 171,
+  "printed": 164,
+  "zone": "head",
+  "chars": 3031,
+  "first": "164"
+ },
+ {
+  "pdf_page": 172,
+  "printed": 165,
+  "zone": "head",
+  "chars": 2867,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 173,
+  "printed": 166,
+  "zone": "head",
+  "chars": 2841,
+  "first": "166"
+ },
+ {
+  "pdf_page": 174,
+  "printed": 167,
+  "zone": "head",
+  "chars": 2455,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 175,
+  "printed": 168,
+  "zone": "head",
+  "chars": 3007,
+  "first": "168"
+ },
+ {
+  "pdf_page": 176,
+  "printed": 169,
+  "zone": "head",
+  "chars": 2965,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 177,
+  "printed": 170,
+  "zone": "head",
+  "chars": 2983,
+  "first": "170"
+ },
+ {
+  "pdf_page": 178,
+  "printed": 171,
+  "zone": "head",
+  "chars": 2939,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 179,
+  "printed": 172,
+  "zone": "head",
+  "chars": 2970,
+  "first": "172"
+ },
+ {
+  "pdf_page": 180,
+  "printed": 173,
+  "zone": "head",
+  "chars": 2841,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 181,
+  "printed": 174,
+  "zone": "head",
+  "chars": 2506,
+  "first": "174"
+ },
+ {
+  "pdf_page": 182,
+  "printed": 175,
+  "zone": "head",
+  "chars": 2149,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 183,
+  "printed": 176,
+  "zone": "head",
+  "chars": 3018,
+  "first": "176"
+ },
+ {
+  "pdf_page": 184,
+  "printed": 177,
+  "zone": "head",
+  "chars": 2932,
+  "first": "III. Sankt M a i"
+ },
+ {
+  "pdf_page": 185,
+  "printed": 178,
+  "zone": "head",
+  "chars": 2871,
+  "first": "178"
+ },
+ {
+  "pdf_page": 186,
+  "printed": 179,
+  "zone": "head",
+  "chars": 2960,
+  "first": "Π Ι . Sankt M a x"
+ },
+ {
+  "pdf_page": 187,
+  "printed": 180,
+  "zone": "head",
+  "chars": 2926,
+  "first": "180"
+ },
+ {
+  "pdf_page": 188,
+  "printed": 181,
+  "zone": "head",
+  "chars": 2870,
+  "first": "HL Sankt Max"
+ },
+ {
+  "pdf_page": 189,
+  "printed": 182,
+  "zone": "head",
+  "chars": 3000,
+  "first": "182"
+ },
+ {
+  "pdf_page": 190,
+  "printed": 183,
+  "zone": "head",
+  "chars": 2965,
+  "first": "ΠΙ. Sankt Max"
+ },
+ {
+  "pdf_page": 191,
+  "printed": 184,
+  "zone": "head",
+  "chars": 3010,
+  "first": "184"
+ },
+ {
+  "pdf_page": 192,
+  "printed": 185,
+  "zone": "head",
+  "chars": 2306,
+  "first": "ΠΙ. Sankt Max"
+ },
+ {
+  "pdf_page": 193,
+  "printed": 186,
+  "zone": "head",
+  "chars": 2926,
+  "first": "186"
+ },
+ {
+  "pdf_page": 194,
+  "printed": 187,
+  "zone": "head",
+  "chars": 2746,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 195,
+  "printed": 188,
+  "zone": "head",
+  "chars": 3039,
+  "first": "188"
+ },
+ {
+  "pdf_page": 196,
+  "printed": 189,
+  "zone": "head",
+  "chars": 2985,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 197,
+  "printed": 190,
+  "zone": "head",
+  "chars": 3068,
+  "first": "190"
+ },
+ {
+  "pdf_page": 198,
+  "printed": 191,
+  "zone": "head",
+  "chars": 2696,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 199,
+  "printed": 192,
+  "zone": "head",
+  "chars": 2719,
+  "first": "192"
+ },
+ {
+  "pdf_page": 200,
+  "printed": 193,
+  "zone": "head",
+  "chars": 2295,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 201,
+  "printed": 194,
+  "zone": "head",
+  "chars": 2913,
+  "first": "194"
+ },
+ {
+  "pdf_page": 202,
+  "printed": 195,
+  "zone": "head",
+  "chars": 2877,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 203,
+  "printed": 196,
+  "zone": "head",
+  "chars": 3012,
+  "first": "196"
+ },
+ {
+  "pdf_page": 204,
+  "printed": 197,
+  "zone": "head",
+  "chars": 2443,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 205,
+  "printed": 198,
+  "zone": "head",
+  "chars": 2688,
+  "first": "198"
+ },
+ {
+  "pdf_page": 206,
+  "printed": 199,
+  "zone": "head",
+  "chars": 2659,
+  "first": "Π Ι . Sankt Max"
+ },
+ {
+  "pdf_page": 207,
+  "printed": 200,
+  "zone": "head",
+  "chars": 2656,
+  "first": "200"
+ },
+ {
+  "pdf_page": 208,
+  "printed": 201,
+  "zone": "head",
+  "chars": 3037,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 209,
+  "printed": 202,
+  "zone": "head",
+  "chars": 2531,
+  "first": "202"
+ },
+ {
+  "pdf_page": 210,
+  "printed": 203,
+  "zone": "head",
+  "chars": 3070,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 211,
+  "printed": 204,
+  "zone": "head",
+  "chars": 2829,
+  "first": "204"
+ },
+ {
+  "pdf_page": 212,
+  "printed": 205,
+  "zone": "head",
+  "chars": 2953,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 213,
+  "printed": 206,
+  "zone": "head",
+  "chars": 3037,
+  "first": "206"
+ },
+ {
+  "pdf_page": 214,
+  "printed": 207,
+  "zone": "head",
+  "chars": 2944,
+  "first": "ΙΠ. Sankt Max"
+ },
+ {
+  "pdf_page": 215,
+  "printed": 208,
+  "zone": "head",
+  "chars": 3048,
+  "first": "208"
+ },
+ {
+  "pdf_page": 216,
+  "printed": 209,
+  "zone": "head",
+  "chars": 2948,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 217,
+  "printed": 210,
+  "zone": "head",
+  "chars": 2567,
+  "first": "210"
+ },
+ {
+  "pdf_page": 218,
+  "printed": 211,
+  "zone": "head",
+  "chars": 2366,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 219,
+  "printed": 212,
+  "zone": "head",
+  "chars": 2722,
+  "first": "212"
+ },
+ {
+  "pdf_page": 220,
+  "printed": 213,
+  "zone": "head",
+  "chars": 2888,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 221,
+  "printed": 214,
+  "zone": "head",
+  "chars": 2968,
+  "first": "214"
+ },
+ {
+  "pdf_page": 222,
+  "printed": 215,
+  "zone": "head",
+  "chars": 2858,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 223,
+  "printed": 216,
+  "zone": "head",
+  "chars": 2908,
+  "first": "216"
+ },
+ {
+  "pdf_page": 224,
+  "printed": 217,
+  "zone": "head",
+  "chars": 2903,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 225,
+  "printed": 218,
+  "zone": "head",
+  "chars": 2954,
+  "first": "218"
+ },
+ {
+  "pdf_page": 226,
+  "printed": 219,
+  "zone": "head",
+  "chars": 1615,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 227,
+  "printed": null,
+  "zone": null,
+  "chars": 1990,
+  "first": "/43 [41]/"
+ },
+ {
+  "pdf_page": 228,
+  "printed": 221,
+  "zone": "head",
+  "chars": 2526,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 229,
+  "printed": 222,
+  "zone": "head",
+  "chars": 2286,
+  "first": "222"
+ },
+ {
+  "pdf_page": 230,
+  "printed": 223,
+  "zone": "head",
+  "chars": 2905,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 231,
+  "printed": 224,
+  "zone": "head",
+  "chars": 2984,
+  "first": "224"
+ },
+ {
+  "pdf_page": 232,
+  "printed": 225,
+  "zone": "head",
+  "chars": 2977,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 233,
+  "printed": 226,
+  "zone": "head",
+  "chars": 2908,
+  "first": "226"
+ },
+ {
+  "pdf_page": 234,
+  "printed": 227,
+  "zone": "head",
+  "chars": 2867,
+  "first": "Ι Π . Sankt Max"
+ },
+ {
+  "pdf_page": 235,
+  "printed": 228,
+  "zone": "head",
+  "chars": 2899,
+  "first": "228"
+ },
+ {
+  "pdf_page": 236,
+  "printed": 229,
+  "zone": "head",
+  "chars": 2920,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 237,
+  "printed": 230,
+  "zone": "head",
+  "chars": 3027,
+  "first": "230"
+ },
+ {
+  "pdf_page": 238,
+  "printed": 231,
+  "zone": "head",
+  "chars": 2886,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 239,
+  "printed": 232,
+  "zone": "head",
+  "chars": 2918,
+  "first": "232"
+ },
+ {
+  "pdf_page": 240,
+  "printed": 233,
+  "zone": "head",
+  "chars": 2941,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 241,
+  "printed": 234,
+  "zone": "head",
+  "chars": 2765,
+  "first": "234"
+ },
+ {
+  "pdf_page": 242,
+  "printed": 235,
+  "zone": "head",
+  "chars": 2863,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 243,
+  "printed": 236,
+  "zone": "head",
+  "chars": 2781,
+  "first": "236"
+ },
+ {
+  "pdf_page": 244,
+  "printed": 237,
+  "zone": "head",
+  "chars": 2867,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 245,
+  "printed": 238,
+  "zone": "head",
+  "chars": 2987,
+  "first": "238"
+ },
+ {
+  "pdf_page": 246,
+  "printed": 239,
+  "zone": "head",
+  "chars": 3038,
+  "first": "IIL Sankt Max"
+ },
+ {
+  "pdf_page": 247,
+  "printed": 240,
+  "zone": "head",
+  "chars": 2918,
+  "first": "240"
+ },
+ {
+  "pdf_page": 248,
+  "printed": 241,
+  "zone": "head",
+  "chars": 3089,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 249,
+  "printed": 242,
+  "zone": "head",
+  "chars": 2997,
+  "first": "242"
+ },
+ {
+  "pdf_page": 250,
+  "printed": 243,
+  "zone": "head",
+  "chars": 2990,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 251,
+  "printed": 244,
+  "zone": "head",
+  "chars": 3026,
+  "first": "244"
+ },
+ {
+  "pdf_page": 252,
+  "printed": 245,
+  "zone": "head",
+  "chars": 2937,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 253,
+  "printed": 246,
+  "zone": "head",
+  "chars": 3058,
+  "first": "246"
+ },
+ {
+  "pdf_page": 254,
+  "printed": null,
+  "zone": null,
+  "chars": 62,
+  "first": "TAFEL III : Aus dem Manuskript „III Sankt Max\"; s. S. 246, 600"
+ },
+ {
+  "pdf_page": 255,
+  "printed": 247,
+  "zone": "head",
+  "chars": 2706,
+  "first": "HL Sankt Max"
+ },
+ {
+  "pdf_page": 256,
+  "printed": 248,
+  "zone": "head",
+  "chars": 3043,
+  "first": "248"
+ },
+ {
+  "pdf_page": 257,
+  "printed": 249,
+  "zone": "head",
+  "chars": 2541,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 258,
+  "printed": 250,
+  "zone": "head",
+  "chars": 2889,
+  "first": "250"
+ },
+ {
+  "pdf_page": 259,
+  "printed": 251,
+  "zone": "head",
+  "chars": 2969,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 260,
+  "printed": 252,
+  "zone": "head",
+  "chars": 2915,
+  "first": "252"
+ },
+ {
+  "pdf_page": 261,
+  "printed": 253,
+  "zone": "head",
+  "chars": 2886,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 262,
+  "printed": 254,
+  "zone": "head",
+  "chars": 2917,
+  "first": "254"
+ },
+ {
+  "pdf_page": 263,
+  "printed": 255,
+  "zone": "head",
+  "chars": 2939,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 264,
+  "printed": 256,
+  "zone": "head",
+  "chars": 2761,
+  "first": "256"
+ },
+ {
+  "pdf_page": 265,
+  "printed": 257,
+  "zone": "head",
+  "chars": 2167,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 266,
+  "printed": 258,
+  "zone": "head",
+  "chars": 2408,
+  "first": "258"
+ },
+ {
+  "pdf_page": 267,
+  "printed": 259,
+  "zone": "head",
+  "chars": 2438,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 268,
+  "printed": 260,
+  "zone": "head",
+  "chars": 3010,
+  "first": "260"
+ },
+ {
+  "pdf_page": 269,
+  "printed": 261,
+  "zone": "head",
+  "chars": 2895,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 270,
+  "printed": 262,
+  "zone": "head",
+  "chars": 2985,
+  "first": "262"
+ },
+ {
+  "pdf_page": 271,
+  "printed": 263,
+  "zone": "head",
+  "chars": 2840,
+  "first": "HL Sankt Max"
+ },
+ {
+  "pdf_page": 272,
+  "printed": 264,
+  "zone": "head",
+  "chars": 2990,
+  "first": "264"
+ },
+ {
+  "pdf_page": 273,
+  "printed": 265,
+  "zone": "head",
+  "chars": 2964,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 274,
+  "printed": 266,
+  "zone": "head",
+  "chars": 2962,
+  "first": "266"
+ },
+ {
+  "pdf_page": 275,
+  "printed": 267,
+  "zone": "head",
+  "chars": 2928,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 276,
+  "printed": 268,
+  "zone": "head",
+  "chars": 2938,
+  "first": "268"
+ },
+ {
+  "pdf_page": 277,
+  "printed": 269,
+  "zone": "head",
+  "chars": 2921,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 278,
+  "printed": 270,
+  "zone": "head",
+  "chars": 3002,
+  "first": "270"
+ },
+ {
+  "pdf_page": 279,
+  "printed": 271,
+  "zone": "head",
+  "chars": 2940,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 280,
+  "printed": 272,
+  "zone": "head",
+  "chars": 2950,
+  "first": "272"
+ },
+ {
+  "pdf_page": 281,
+  "printed": 273,
+  "zone": "head",
+  "chars": 3009,
+  "first": "HI. Sankt Max"
+ },
+ {
+  "pdf_page": 282,
+  "printed": 274,
+  "zone": "head",
+  "chars": 2978,
+  "first": "274"
+ },
+ {
+  "pdf_page": 283,
+  "printed": 275,
+  "zone": "head",
+  "chars": 2943,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 284,
+  "printed": 276,
+  "zone": "head",
+  "chars": 2316,
+  "first": "276"
+ },
+ {
+  "pdf_page": 285,
+  "printed": 277,
+  "zone": "head",
+  "chars": 2746,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 286,
+  "printed": 278,
+  "zone": "head",
+  "chars": 3015,
+  "first": "278"
+ },
+ {
+  "pdf_page": 287,
+  "printed": 279,
+  "zone": "head",
+  "chars": 2535,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 288,
+  "printed": 280,
+  "zone": "head",
+  "chars": 2517,
+  "first": "280"
+ },
+ {
+  "pdf_page": 289,
+  "printed": 281,
+  "zone": "head",
+  "chars": 2895,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 290,
+  "printed": 282,
+  "zone": "head",
+  "chars": 3015,
+  "first": "282"
+ },
+ {
+  "pdf_page": 291,
+  "printed": 283,
+  "zone": "head",
+  "chars": 2702,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 292,
+  "printed": 284,
+  "zone": "head",
+  "chars": 2606,
+  "first": "284"
+ },
+ {
+  "pdf_page": 293,
+  "printed": 285,
+  "zone": "head",
+  "chars": 2769,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 294,
+  "printed": 286,
+  "zone": "head",
+  "chars": 3139,
+  "first": "286"
+ },
+ {
+  "pdf_page": 295,
+  "printed": 287,
+  "zone": "head",
+  "chars": 3024,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 296,
+  "printed": 288,
+  "zone": "head",
+  "chars": 3020,
+  "first": "288"
+ },
+ {
+  "pdf_page": 297,
+  "printed": 289,
+  "zone": "head",
+  "chars": 3176,
+  "first": ".2»"
+ },
+ {
+  "pdf_page": 298,
+  "printed": 290,
+  "zone": "head",
+  "chars": 3142,
+  "first": "290"
+ },
+ {
+  "pdf_page": 299,
+  "printed": 291,
+  "zone": "head",
+  "chars": 3058,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 300,
+  "printed": 292,
+  "zone": "head",
+  "chars": 2919,
+  "first": "292"
+ },
+ {
+  "pdf_page": 301,
+  "printed": 293,
+  "zone": "head",
+  "chars": 2431,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 302,
+  "printed": 294,
+  "zone": "head",
+  "chars": 2302,
+  "first": "294"
+ },
+ {
+  "pdf_page": 303,
+  "printed": 295,
+  "zone": "head",
+  "chars": 2616,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 304,
+  "printed": 296,
+  "zone": "head",
+  "chars": 2937,
+  "first": "296"
+ },
+ {
+  "pdf_page": 305,
+  "printed": 297,
+  "zone": "head",
+  "chars": 2689,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 306,
+  "printed": 298,
+  "zone": "head",
+  "chars": 2985,
+  "first": "298"
+ },
+ {
+  "pdf_page": 307,
+  "printed": 299,
+  "zone": "head",
+  "chars": 3058,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 308,
+  "printed": 300,
+  "zone": "head",
+  "chars": 2612,
+  "first": "300"
+ },
+ {
+  "pdf_page": 309,
+  "printed": 301,
+  "zone": "head",
+  "chars": 2418,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 310,
+  "printed": 302,
+  "zone": "head",
+  "chars": 2905,
+  "first": "302"
+ },
+ {
+  "pdf_page": 311,
+  "printed": 303,
+  "zone": "head",
+  "chars": 2851,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 312,
+  "printed": 304,
+  "zone": "head",
+  "chars": 3088,
+  "first": "304"
+ },
+ {
+  "pdf_page": 313,
+  "printed": 305,
+  "zone": "head",
+  "chars": 3089,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 314,
+  "printed": 306,
+  "zone": "head",
+  "chars": 2925,
+  "first": "306"
+ },
+ {
+  "pdf_page": 315,
+  "printed": 307,
+  "zone": "head",
+  "chars": 2814,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 316,
+  "printed": 308,
+  "zone": "head",
+  "chars": 2973,
+  "first": "308"
+ },
+ {
+  "pdf_page": 317,
+  "printed": 309,
+  "zone": "head",
+  "chars": 2919,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 318,
+  "printed": 310,
+  "zone": "head",
+  "chars": 2119,
+  "first": "310"
+ },
+ {
+  "pdf_page": 319,
+  "printed": 311,
+  "zone": "head",
+  "chars": 2983,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 320,
+  "printed": 312,
+  "zone": "head",
+  "chars": 2568,
+  "first": "312"
+ },
+ {
+  "pdf_page": 321,
+  "printed": 313,
+  "zone": "head",
+  "chars": 2408,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 322,
+  "printed": 314,
+  "zone": "head",
+  "chars": 2688,
+  "first": "314"
+ },
+ {
+  "pdf_page": 323,
+  "printed": 315,
+  "zone": "head",
+  "chars": 2486,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 324,
+  "printed": 316,
+  "zone": "head",
+  "chars": 3031,
+  "first": "316"
+ },
+ {
+  "pdf_page": 325,
+  "printed": 317,
+  "zone": "head",
+  "chars": 2756,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 326,
+  "printed": 318,
+  "zone": "head",
+  "chars": 1812,
+  "first": "318"
+ },
+ {
+  "pdf_page": 327,
+  "printed": 319,
+  "zone": "head",
+  "chars": 2636,
+  "first": "I I I . Sankt M a x"
+ },
+ {
+  "pdf_page": 328,
+  "printed": 320,
+  "zone": "head",
+  "chars": 3123,
+  "first": "320"
+ },
+ {
+  "pdf_page": 329,
+  "printed": 321,
+  "zone": "head",
+  "chars": 2731,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 330,
+  "printed": 322,
+  "zone": "head",
+  "chars": 2456,
+  "first": "322"
+ },
+ {
+  "pdf_page": 331,
+  "printed": 323,
+  "zone": "head",
+  "chars": 3045,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 332,
+  "printed": 324,
+  "zone": "head",
+  "chars": 3052,
+  "first": "324"
+ },
+ {
+  "pdf_page": 333,
+  "printed": 325,
+  "zone": "head",
+  "chars": 2896,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 334,
+  "printed": 326,
+  "zone": "head",
+  "chars": 3005,
+  "first": "326"
+ },
+ {
+  "pdf_page": 335,
+  "printed": 327,
+  "zone": "head",
+  "chars": 2300,
+  "first": "HL Sankt Max"
+ },
+ {
+  "pdf_page": 336,
+  "printed": 328,
+  "zone": "head",
+  "chars": 1330,
+  "first": "328"
+ },
+ {
+  "pdf_page": 337,
+  "printed": 329,
+  "zone": "head",
+  "chars": 1737,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 338,
+  "printed": 330,
+  "zone": "head",
+  "chars": 2952,
+  "first": "330"
+ },
+ {
+  "pdf_page": 339,
+  "printed": 331,
+  "zone": "head",
+  "chars": 2928,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 340,
+  "printed": 332,
+  "zone": "head",
+  "chars": 2967,
+  "first": "332"
+ },
+ {
+  "pdf_page": 341,
+  "printed": 333,
+  "zone": "head",
+  "chars": 2999,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 342,
+  "printed": 334,
+  "zone": "head",
+  "chars": 2970,
+  "first": "334"
+ },
+ {
+  "pdf_page": 343,
+  "printed": 335,
+  "zone": "head",
+  "chars": 2992,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 344,
+  "printed": 336,
+  "zone": "head",
+  "chars": 2879,
+  "first": "336"
+ },
+ {
+  "pdf_page": 345,
+  "printed": 337,
+  "zone": "head",
+  "chars": 2996,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 346,
+  "printed": 338,
+  "zone": "head",
+  "chars": 2904,
+  "first": "338"
+ },
+ {
+  "pdf_page": 347,
+  "printed": 339,
+  "zone": "head",
+  "chars": 2930,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 348,
+  "printed": 340,
+  "zone": "head",
+  "chars": 2882,
+  "first": "340"
+ },
+ {
+  "pdf_page": 349,
+  "printed": 341,
+  "zone": "head",
+  "chars": 3013,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 350,
+  "printed": 342,
+  "zone": "head",
+  "chars": 3014,
+  "first": "342"
+ },
+ {
+  "pdf_page": 351,
+  "printed": 343,
+  "zone": "head",
+  "chars": 2915,
+  "first": "Ι Π . Sankt Max"
+ },
+ {
+  "pdf_page": 352,
+  "printed": null,
+  "zone": null,
+  "chars": 2965,
+  "first": "344."
+ },
+ {
+  "pdf_page": 353,
+  "printed": 345,
+  "zone": "head",
+  "chars": 2974,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 354,
+  "printed": 346,
+  "zone": "head",
+  "chars": 2741,
+  "first": "346"
+ },
+ {
+  "pdf_page": 355,
+  "printed": 347,
+  "zone": "head",
+  "chars": 2983,
+  "first": "IIL Sankt Max"
+ },
+ {
+  "pdf_page": 356,
+  "printed": 343,
+  "zone": "head",
+  "chars": 3002,
+  "first": "343"
+ },
+ {
+  "pdf_page": 357,
+  "printed": 349,
+  "zone": "head",
+  "chars": 2950,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 358,
+  "printed": 350,
+  "zone": "head",
+  "chars": 3008,
+  "first": "350"
+ },
+ {
+  "pdf_page": 359,
+  "printed": 351,
+  "zone": "head",
+  "chars": 2948,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 360,
+  "printed": 352,
+  "zone": "head",
+  "chars": 3052,
+  "first": "352"
+ },
+ {
+  "pdf_page": 361,
+  "printed": 353,
+  "zone": "head",
+  "chars": 3012,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 362,
+  "printed": 354,
+  "zone": "head",
+  "chars": 2886,
+  "first": "354"
+ },
+ {
+  "pdf_page": 363,
+  "printed": 355,
+  "zone": "head",
+  "chars": 1926,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 364,
+  "printed": 356,
+  "zone": "head",
+  "chars": 3054,
+  "first": "356"
+ },
+ {
+  "pdf_page": 365,
+  "printed": 357,
+  "zone": "head",
+  "chars": 2936,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 366,
+  "printed": 358,
+  "zone": "head",
+  "chars": 3085,
+  "first": "358"
+ },
+ {
+  "pdf_page": 367,
+  "printed": 359,
+  "zone": "head",
+  "chars": 2920,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 368,
+  "printed": 360,
+  "zone": "head",
+  "chars": 3024,
+  "first": "360"
+ },
+ {
+  "pdf_page": 369,
+  "printed": 361,
+  "zone": "head",
+  "chars": 2943,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 370,
+  "printed": 362,
+  "zone": "head",
+  "chars": 2919,
+  "first": "362"
+ },
+ {
+  "pdf_page": 371,
+  "printed": 363,
+  "zone": "head",
+  "chars": 2850,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 372,
+  "printed": 364,
+  "zone": "head",
+  "chars": 2965,
+  "first": "364"
+ },
+ {
+  "pdf_page": 373,
+  "printed": 365,
+  "zone": "head",
+  "chars": 2682,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 374,
+  "printed": 366,
+  "zone": "head",
+  "chars": 3017,
+  "first": "366"
+ },
+ {
+  "pdf_page": 375,
+  "printed": 367,
+  "zone": "head",
+  "chars": 2123,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 376,
+  "printed": 368,
+  "zone": "head",
+  "chars": 3025,
+  "first": "368"
+ },
+ {
+  "pdf_page": 377,
+  "printed": 369,
+  "zone": "head",
+  "chars": 2849,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 378,
+  "printed": 370,
+  "zone": "head",
+  "chars": 2853,
+  "first": "370"
+ },
+ {
+  "pdf_page": 379,
+  "printed": 371,
+  "zone": "head",
+  "chars": 2975,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 380,
+  "printed": 372,
+  "zone": "head",
+  "chars": 2858,
+  "first": "372"
+ },
+ {
+  "pdf_page": 381,
+  "printed": 373,
+  "zone": "head",
+  "chars": 2890,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 382,
+  "printed": 374,
+  "zone": "head",
+  "chars": 2631,
+  "first": "374"
+ },
+ {
+  "pdf_page": 383,
+  "printed": 375,
+  "zone": "head",
+  "chars": 2980,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 384,
+  "printed": 376,
+  "zone": "head",
+  "chars": 2859,
+  "first": "376"
+ },
+ {
+  "pdf_page": 385,
+  "printed": 377,
+  "zone": "head",
+  "chars": 2897,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 386,
+  "printed": 378,
+  "zone": "head",
+  "chars": 2661,
+  "first": "378"
+ },
+ {
+  "pdf_page": 387,
+  "printed": 379,
+  "zone": "head",
+  "chars": 2719,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 388,
+  "printed": null,
+  "zone": null,
+  "chars": 2987,
+  "first": "Deutsche Ideologie. Das Leipziger Konzil"
+ },
+ {
+  "pdf_page": 389,
+  "printed": 381,
+  "zone": "head",
+  "chars": 2526,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 390,
+  "printed": 382,
+  "zone": "head",
+  "chars": 2382,
+  "first": "382"
+ },
+ {
+  "pdf_page": 391,
+  "printed": 383,
+  "zone": "head",
+  "chars": 2798,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 392,
+  "printed": 384,
+  "zone": "head",
+  "chars": 2909,
+  "first": "384"
+ },
+ {
+  "pdf_page": 393,
+  "printed": 385,
+  "zone": "head",
+  "chars": 2745,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 394,
+  "printed": 386,
+  "zone": "head",
+  "chars": 2661,
+  "first": "386"
+ },
+ {
+  "pdf_page": 395,
+  "printed": 387,
+  "zone": "head",
+  "chars": 2751,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 396,
+  "printed": 388,
+  "zone": "head",
+  "chars": 3068,
+  "first": "388"
+ },
+ {
+  "pdf_page": 397,
+  "printed": 389,
+  "zone": "head",
+  "chars": 2868,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 398,
+  "printed": 390,
+  "zone": "head",
+  "chars": 2981,
+  "first": "390"
+ },
+ {
+  "pdf_page": 399,
+  "printed": 391,
+  "zone": "head",
+  "chars": 2919,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 400,
+  "printed": 392,
+  "zone": "head",
+  "chars": 2993,
+  "first": "392"
+ },
+ {
+  "pdf_page": 401,
+  "printed": 393,
+  "zone": "head",
+  "chars": 2818,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 402,
+  "printed": 394,
+  "zone": "head",
+  "chars": 2971,
+  "first": "394"
+ },
+ {
+  "pdf_page": 403,
+  "printed": 395,
+  "zone": "head",
+  "chars": 2953,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 404,
+  "printed": 396,
+  "zone": "head",
+  "chars": 2405,
+  "first": "396"
+ },
+ {
+  "pdf_page": 405,
+  "printed": 397,
+  "zone": "head",
+  "chars": 2888,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 406,
+  "printed": 398,
+  "zone": "head",
+  "chars": 2812,
+  "first": "398"
+ },
+ {
+  "pdf_page": 407,
+  "printed": 399,
+  "zone": "head",
+  "chars": 2969,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 408,
+  "printed": 400,
+  "zone": "head",
+  "chars": 3055,
+  "first": "400"
+ },
+ {
+  "pdf_page": 409,
+  "printed": 401,
+  "zone": "head",
+  "chars": 2815,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 410,
+  "printed": 402,
+  "zone": "head",
+  "chars": 3083,
+  "first": "402"
+ },
+ {
+  "pdf_page": 411,
+  "printed": 403,
+  "zone": "head",
+  "chars": 2948,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 412,
+  "printed": 404,
+  "zone": "head",
+  "chars": 2754,
+  "first": "404"
+ },
+ {
+  "pdf_page": 413,
+  "printed": 405,
+  "zone": "head",
+  "chars": 2918,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 414,
+  "printed": 406,
+  "zone": "head",
+  "chars": 1637,
+  "first": "406"
+ },
+ {
+  "pdf_page": 415,
+  "printed": 407,
+  "zone": "head",
+  "chars": 2535,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 416,
+  "printed": 408,
+  "zone": "head",
+  "chars": 2895,
+  "first": "408"
+ },
+ {
+  "pdf_page": 417,
+  "printed": 409,
+  "zone": "head",
+  "chars": 2944,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 418,
+  "printed": 410,
+  "zone": "head",
+  "chars": 2900,
+  "first": "410"
+ },
+ {
+  "pdf_page": 419,
+  "printed": 411,
+  "zone": "head",
+  "chars": 2637,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 420,
+  "printed": 412,
+  "zone": "head",
+  "chars": 2913,
+  "first": "412"
+ },
+ {
+  "pdf_page": 421,
+  "printed": 413,
+  "zone": "head",
+  "chars": 2911,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 422,
+  "printed": 414,
+  "zone": "head",
+  "chars": 2987,
+  "first": "414"
+ },
+ {
+  "pdf_page": 423,
+  "printed": 415,
+  "zone": "head",
+  "chars": 2897,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 424,
+  "printed": 416,
+  "zone": "head",
+  "chars": 2967,
+  "first": "416"
+ },
+ {
+  "pdf_page": 425,
+  "printed": 417,
+  "zone": "head",
+  "chars": 2952,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 426,
+  "printed": 418,
+  "zone": "head",
+  "chars": 2980,
+  "first": "418"
+ },
+ {
+  "pdf_page": 427,
+  "printed": 419,
+  "zone": "head",
+  "chars": 2948,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 428,
+  "printed": 420,
+  "zone": "head",
+  "chars": 3060,
+  "first": "420"
+ },
+ {
+  "pdf_page": 429,
+  "printed": 421,
+  "zone": "head",
+  "chars": 2652,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 430,
+  "printed": null,
+  "zone": null,
+  "chars": 2293,
+  "first": "/{115} [106b]/"
+ },
+ {
+  "pdf_page": 431,
+  "printed": 423,
+  "zone": "head",
+  "chars": 3111,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 432,
+  "printed": 424,
+  "zone": "head",
+  "chars": 2752,
+  "first": "424"
+ },
+ {
+  "pdf_page": 433,
+  "printed": 425,
+  "zone": "head",
+  "chars": 2908,
+  "first": "ΙΠ. Sankt Max"
+ },
+ {
+  "pdf_page": 434,
+  "printed": 426,
+  "zone": "head",
+  "chars": 2597,
+  "first": "426"
+ },
+ {
+  "pdf_page": 435,
+  "printed": 427,
+  "zone": "head",
+  "chars": 2611,
+  "first": "III. Sankt Max"
+ },
+ {
+  "pdf_page": 436,
+  "printed": null,
+  "zone": null,
+  "chars": 511,
+  "first": "428"
+ },
+ {
+  "pdf_page": 437,
+  "printed": null,
+  "zone": null,
+  "chars": 29,
+  "first": "SCHLUSS DES LEIPZIGER KONZILS"
+ },
+ {
+  "pdf_page": 438,
+  "printed": null,
+  "zone": null,
+  "chars": 119,
+  "first": "S c h l u ß"
+ },
+ {
+  "pdf_page": 439,
+  "printed": null,
+  "zone": null,
+  "chars": 1524,
+  "first": "/[108c]/ S C H L U S S D E S L E I P Z I G E R K O N Z I L S"
+ },
+ {
+  "pdf_page": 440,
+  "printed": 432,
+  "zone": "head",
+  "chars": 1780,
+  "first": "432"
+ },
+ {
+  "pdf_page": 441,
+  "printed": null,
+  "zone": null,
+  "chars": 27,
+  "first": "D E R W A H R E SOZIALISMÜS"
+ },
+ {
+  "pdf_page": 442,
+  "printed": null,
+  "zone": null,
+  "chars": 91,
+  "first": "D e r w a h r e S o z i a l i s m u s"
+ },
+ {
+  "pdf_page": 443,
+  "printed": null,
+  "zone": null,
+  "chars": 2232,
+  "first": "/(1)/"
+ },
+ {
+  "pdf_page": 444,
+  "printed": 436,
+  "zone": "head",
+  "chars": 2927,
+  "first": "436"
+ },
+ {
+  "pdf_page": 445,
+  "printed": 437,
+  "zone": "head",
+  "chars": 2365,
+  "first": "Der wahre Sozialismus"
+ },
+ {
+  "pdf_page": 446,
+  "printed": null,
+  "zone": null,
+  "chars": 82,
+  "first": "I"
+ },
+ {
+  "pdf_page": 447,
+  "printed": null,
+  "zone": null,
+  "chars": 194,
+  "first": "D i e"
+ },
+ {
+  "pdf_page": 448,
+  "printed": null,
+  "zone": null,
+  "chars": 1714,
+  "first": "/{5}/"
+ },
+ {
+  "pdf_page": 449,
+  "printed": 442,
+  "zone": "head",
+  "chars": 2986,
+  "first": "442"
+ },
+ {
+  "pdf_page": 450,
+  "printed": 443,
+  "zone": "head",
+  "chars": 2864,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 451,
+  "printed": 444,
+  "zone": "head",
+  "chars": 2869,
+  "first": "444"
+ },
+ {
+  "pdf_page": 452,
+  "printed": 445,
+  "zone": "head",
+  "chars": 2879,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 453,
+  "printed": 446,
+  "zone": "head",
+  "chars": 2987,
+  "first": "446"
+ },
+ {
+  "pdf_page": 454,
+  "printed": 447,
+  "zone": "head",
+  "chars": 2854,
+  "first": "I. Die „Rheinischen Jahrbücher'"
+ },
+ {
+  "pdf_page": 455,
+  "printed": 448,
+  "zone": "head",
+  "chars": 2965,
+  "first": "448"
+ },
+ {
+  "pdf_page": 456,
+  "printed": 449,
+  "zone": "head",
+  "chars": 3079,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 457,
+  "printed": 450,
+  "zone": "head",
+  "chars": 2394,
+  "first": "450"
+ },
+ {
+  "pdf_page": 458,
+  "printed": 451,
+  "zone": "head",
+  "chars": 2959,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 459,
+  "printed": 452,
+  "zone": "head",
+  "chars": 2949,
+  "first": "452"
+ },
+ {
+  "pdf_page": 460,
+  "printed": 453,
+  "zone": "head",
+  "chars": 2687,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 461,
+  "printed": 454,
+  "zone": "head",
+  "chars": 2404,
+  "first": "454"
+ },
+ {
+  "pdf_page": 462,
+  "printed": 455,
+  "zone": "head",
+  "chars": 2930,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 463,
+  "printed": 456,
+  "zone": "head",
+  "chars": 2906,
+  "first": "456"
+ },
+ {
+  "pdf_page": 464,
+  "printed": 457,
+  "zone": "head",
+  "chars": 2564,
+  "first": "I. Die „Rheinischen Jahrbücher'"
+ },
+ {
+  "pdf_page": 465,
+  "printed": 458,
+  "zone": "head",
+  "chars": 2794,
+  "first": "458"
+ },
+ {
+  "pdf_page": 466,
+  "printed": 459,
+  "zone": "head",
+  "chars": 2908,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 467,
+  "printed": 460,
+  "zone": "head",
+  "chars": 2939,
+  "first": "460"
+ },
+ {
+  "pdf_page": 468,
+  "printed": 461,
+  "zone": "head",
+  "chars": 2338,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 469,
+  "printed": 462,
+  "zone": "head",
+  "chars": 2689,
+  "first": "462"
+ },
+ {
+  "pdf_page": 470,
+  "printed": 463,
+  "zone": "head",
+  "chars": 2868,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 471,
+  "printed": 464,
+  "zone": "head",
+  "chars": 2997,
+  "first": "464"
+ },
+ {
+  "pdf_page": 472,
+  "printed": 465,
+  "zone": "head",
+  "chars": 2560,
+  "first": "I. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 473,
+  "printed": 466,
+  "zone": "head",
+  "chars": 2687,
+  "first": "466"
+ },
+ {
+  "pdf_page": 474,
+  "printed": 467,
+  "zone": "head",
+  "chars": 2899,
+  "first": "1. Die „Rheinischen Jahrbücher\""
+ },
+ {
+  "pdf_page": 475,
+  "printed": 468,
+  "zone": "head",
+  "chars": 1796,
+  "first": "468"
+ },
+ {
+  "pdf_page": 476,
+  "printed": null,
+  "zone": null,
+  "chars": 154,
+  "first": "IV"
+ },
+ {
+  "pdf_page": 477,
+  "printed": null,
+  "zone": null,
+  "chars": 304,
+  "first": "IV."
+ },
+ {
+  "pdf_page": 478,
+  "printed": null,
+  "zone": null,
+  "chars": 1750,
+  "first": "/ 1 /"
+ },
+ {
+  "pdf_page": 479,
+  "printed": 472,
+  "zone": "head",
+  "chars": 2704,
+  "first": "472"
+ },
+ {
+  "pdf_page": 480,
+  "printed": 473,
+  "zone": "head",
+  "chars": 2728,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 481,
+  "printed": 474,
+  "zone": "head",
+  "chars": 2765,
+  "first": "474"
+ },
+ {
+  "pdf_page": 482,
+  "printed": 475,
+  "zone": "head",
+  "chars": 2962,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 483,
+  "printed": 476,
+  "zone": "head",
+  "chars": 2893,
+  "first": "476"
+ },
+ {
+  "pdf_page": 484,
+  "printed": 477,
+  "zone": "head",
+  "chars": 2996,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 485,
+  "printed": 478,
+  "zone": "head",
+  "chars": 2586,
+  "first": "478"
+ },
+ {
+  "pdf_page": 486,
+  "printed": 479,
+  "zone": "head",
+  "chars": 2702,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 487,
+  "printed": 480,
+  "zone": "head",
+  "chars": 2866,
+  "first": "480"
+ },
+ {
+  "pdf_page": 488,
+  "printed": 481,
+  "zone": "head",
+  "chars": 2967,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 489,
+  "printed": 482,
+  "zone": "head",
+  "chars": 3093,
+  "first": "482"
+ },
+ {
+  "pdf_page": 490,
+  "printed": 483,
+  "zone": "head",
+  "chars": 2416,
+  "first": "rV. Karl Grün"
+ },
+ {
+  "pdf_page": 491,
+  "printed": 484,
+  "zone": "head",
+  "chars": 2985,
+  "first": "484"
+ },
+ {
+  "pdf_page": 492,
+  "printed": 485,
+  "zone": "head",
+  "chars": 2890,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 493,
+  "printed": 486,
+  "zone": "head",
+  "chars": 2598,
+  "first": "486"
+ },
+ {
+  "pdf_page": 494,
+  "printed": 487,
+  "zone": "head",
+  "chars": 3040,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 495,
+  "printed": 488,
+  "zone": "head",
+  "chars": 2906,
+  "first": "488"
+ },
+ {
+  "pdf_page": 496,
+  "printed": 489,
+  "zone": "head",
+  "chars": 2559,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 497,
+  "printed": 490,
+  "zone": "head",
+  "chars": 2840,
+  "first": "490"
+ },
+ {
+  "pdf_page": 498,
+  "printed": 491,
+  "zone": "head",
+  "chars": 2511,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 499,
+  "printed": 492,
+  "zone": "head",
+  "chars": 2804,
+  "first": "492"
+ },
+ {
+  "pdf_page": 500,
+  "printed": 493,
+  "zone": "head",
+  "chars": 2793,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 501,
+  "printed": 494,
+  "zone": "head",
+  "chars": 2858,
+  "first": "494"
+ },
+ {
+  "pdf_page": 502,
+  "printed": 495,
+  "zone": "head",
+  "chars": 2535,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 503,
+  "printed": 496,
+  "zone": "head",
+  "chars": 2956,
+  "first": "496"
+ },
+ {
+  "pdf_page": 504,
+  "printed": 497,
+  "zone": "head",
+  "chars": 2979,
+  "first": "I.V. Karl Grün"
+ },
+ {
+  "pdf_page": 505,
+  "printed": 498,
+  "zone": "head",
+  "chars": 3019,
+  "first": "498"
+ },
+ {
+  "pdf_page": 506,
+  "printed": 499,
+  "zone": "head",
+  "chars": 2840,
+  "first": "1Ύ. Karl Grün"
+ },
+ {
+  "pdf_page": 507,
+  "printed": 500,
+  "zone": "head",
+  "chars": 2911,
+  "first": "500"
+ },
+ {
+  "pdf_page": 508,
+  "printed": 501,
+  "zone": "head",
+  "chars": 3018,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 509,
+  "printed": 502,
+  "zone": "head",
+  "chars": 2901,
+  "first": "502"
+ },
+ {
+  "pdf_page": 510,
+  "printed": 503,
+  "zone": "head",
+  "chars": 2929,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 511,
+  "printed": 504,
+  "zone": "head",
+  "chars": 2366,
+  "first": "504"
+ },
+ {
+  "pdf_page": 512,
+  "printed": 505,
+  "zone": "head",
+  "chars": 2575,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 513,
+  "printed": 506,
+  "zone": "head",
+  "chars": 2615,
+  "first": "506"
+ },
+ {
+  "pdf_page": 514,
+  "printed": 507,
+  "zone": "head",
+  "chars": 2885,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 515,
+  "printed": 508,
+  "zone": "head",
+  "chars": 2879,
+  "first": "508"
+ },
+ {
+  "pdf_page": 516,
+  "printed": 509,
+  "zone": "head",
+  "chars": 2875,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 517,
+  "printed": 510,
+  "zone": "head",
+  "chars": 2788,
+  "first": "510"
+ },
+ {
+  "pdf_page": 518,
+  "printed": 511,
+  "zone": "head",
+  "chars": 2842,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 519,
+  "printed": 512,
+  "zone": "head",
+  "chars": 2590,
+  "first": "512"
+ },
+ {
+  "pdf_page": 520,
+  "printed": 513,
+  "zone": "head",
+  "chars": 2717,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 521,
+  "printed": 514,
+  "zone": "head",
+  "chars": 2327,
+  "first": "514"
+ },
+ {
+  "pdf_page": 522,
+  "printed": 515,
+  "zone": "head",
+  "chars": 2728,
+  "first": "IV. Karl Grün"
+ },
+ {
+  "pdf_page": 523,
+  "printed": 516,
+  "zone": "head",
+  "chars": 524,
+  "first": "516"
+ },
+ {
+  "pdf_page": 524,
+  "printed": null,
+  "zone": null,
+  "chars": 102,
+  "first": "ν"
+ },
+ {
+  "pdf_page": 525,
+  "printed": null,
+  "zone": null,
+  "chars": 264,
+  "first": "V ."
+ },
+ {
+  "pdf_page": 526,
+  "printed": null,
+  "zone": null,
+  "chars": 1748,
+  "first": "/[11/"
+ },
+ {
+  "pdf_page": 527,
+  "printed": 520,
+  "zone": "head",
+  "chars": 2986,
+  "first": "520"
+ },
+ {
+  "pdf_page": 528,
+  "printed": 521,
+  "zone": "head",
+  "chars": 2854,
+  "first": "V. Der Dr. Georg Kuhlmann"
+ },
+ {
+  "pdf_page": 529,
+  "printed": 522,
+  "zone": "head",
+  "chars": 2637,
+  "first": "522"
+ },
+ {
+  "pdf_page": 530,
+  "printed": 523,
+  "zone": "head",
+  "chars": 2905,
+  "first": "V. Der Dr. Georg Kuhlmann"
+ },
+ {
+  "pdf_page": 531,
+  "printed": 524,
+  "zone": "head",
+  "chars": 2984,
+  "first": "524"
+ },
+ {
+  "pdf_page": 532,
+  "printed": 525,
+  "zone": "head",
+  "chars": 2850,
+  "first": "V. Der Dr. Georg Kulilmann"
+ },
+ {
+  "pdf_page": 533,
+  "printed": 526,
+  "zone": "head",
+  "chars": 3079,
+  "first": "526"
+ },
+ {
+  "pdf_page": 534,
+  "printed": 527,
+  "zone": "head",
+  "chars": 2924,
+  "first": "V. Der Dr. Georg Kuhlmann"
+ },
+ {
+  "pdf_page": 535,
+  "printed": 528,
+  "zone": "head",
+  "chars": 2504,
+  "first": "528"
+ },
+ {
+  "pdf_page": 536,
+  "printed": null,
+  "zone": null,
+  "chars": 11,
+  "first": "A N H A N G"
+ },
+ {
+  "pdf_page": 537,
+  "printed": null,
+  "zone": null,
+  "chars": 900,
+  "first": "[ M a r x"
+ },
+ {
+  "pdf_page": 538,
+  "printed": null,
+  "zone": null,
+  "chars": 1175,
+  "first": "[MARX Ü B E R S E I N V E R H Ä L T N I S Z U H E G E L U N D"
+ },
+ {
+  "pdf_page": 539,
+  "printed": null,
+  "zone": null,
+  "chars": 1838,
+  "first": "[ D I E B Ü R G E R L I C H E G E S E L L S C H A F T U N D D I E K O "
+ },
+ {
+  "pdf_page": 540,
+  "printed": null,
+  "zone": null,
+  "chars": 1567,
+  "first": "[MARX Ü B E R F E U E R B A C H ]"
+ },
+ {
+  "pdf_page": 541,
+  "printed": 534,
+  "zone": "head",
+  "chars": 1913,
+  "first": "534"
+ },
+ {
+  "pdf_page": 542,
+  "printed": 535,
+  "zone": "head",
+  "chars": 1720,
+  "first": "Marx über Feuerbach"
+ },
+ {
+  "pdf_page": 543,
+  "printed": null,
+  "zone": null,
+  "chars": 2092,
+  "first": "[AUS"
+ },
+ {
+  "pdf_page": 544,
+  "printed": 537,
+  "zone": "head",
+  "chars": 958,
+  "first": "A u s :"
+ },
+ {
+  "pdf_page": 545,
+  "printed": null,
+  "zone": null,
+  "chars": 2105,
+  "first": "[ENGELS"
+ },
+ {
+  "pdf_page": 546,
+  "printed": 539,
+  "zone": "head",
+  "chars": 2524,
+  "first": "[Engels über Feuerbach] Feuerbach"
+ },
+ {
+  "pdf_page": 547,
+  "printed": 540,
+  "zone": "head",
+  "chars": 2184,
+  "first": "540"
+ },
+ {
+  "pdf_page": 548,
+  "printed": null,
+  "zone": null,
+  "chars": 2268,
+  "first": "[SANKT B R U N O C O N T R A D I E V E R F A S S E R D E R"
+ },
+ {
+  "pdf_page": 549,
+  "printed": 542,
+  "zone": "head",
+  "chars": 3052,
+  "first": "542"
+ },
+ {
+  "pdf_page": 550,
+  "printed": 543,
+  "zone": "head",
+  "chars": 3160,
+  "first": "[Sankt Bruno contra die Verfasser der „Heiligen Familie\"]"
+ },
+ {
+  "pdf_page": 551,
+  "printed": null,
+  "zone": null,
+  "chars": 871,
+  "first": "544"
+ },
+ {
+  "pdf_page": 552,
+  "printed": null,
+  "zone": null,
+  "chars": 43,
+  "first": "BESCHREIBUNG DER MANUSKRIPTE"
+ },
+ {
+  "pdf_page": 553,
+  "printed": null,
+  "zone": null,
+  "chars": 828,
+  "first": "In der Sammlung der Textvarianten geben wir alle stilistisch und inhal"
+ },
+ {
+  "pdf_page": 554,
+  "printed": null,
+  "zone": null,
+  "chars": 3194,
+  "first": "M a r x e n s"
+ },
+ {
+  "pdf_page": 555,
+  "printed": 548,
+  "zone": "head",
+  "chars": 2716,
+  "first": "548"
+ },
+ {
+  "pdf_page": 556,
+  "printed": 549,
+  "zone": "head",
+  "chars": 2674,
+  "first": "Marxens Notizbuch"
+ },
+ {
+  "pdf_page": 557,
+  "printed": 550,
+  "zone": "head",
+  "chars": 2673,
+  "first": "550"
+ },
+ {
+  "pdf_page": 558,
+  "printed": null,
+  "zone": null,
+  "chars": 2354,
+  "first": "1 . P a g i n i e r u n g s s c h e m a"
+ },
+ {
+  "pdf_page": 559,
+  "printed": 552,
+  "zone": "head",
+  "chars": 2349,
+  "first": "552"
+ },
+ {
+  "pdf_page": 560,
+  "printed": null,
+  "zone": null,
+  "chars": 2404,
+  "first": "Paginierungsschema der Manuskripte der „Deutschen Ideologie\""
+ },
+ {
+  "pdf_page": 561,
+  "printed": 554,
+  "zone": "head",
+  "chars": 2923,
+  "first": "554"
+ },
+ {
+  "pdf_page": 562,
+  "printed": 555,
+  "zone": "head",
+  "chars": 2706,
+  "first": "Paginierungsschema der Manuskripte der „Deutschen Ideologie\""
+ },
+ {
+  "pdf_page": 563,
+  "printed": 556,
+  "zone": "head",
+  "chars": 2928,
+  "first": "556"
+ },
+ {
+  "pdf_page": 564,
+  "printed": 557,
+  "zone": "head",
+  "chars": 2472,
+  "first": "Paginierungsschema der Manuskripte der „Deutschen Ideologie\""
+ },
+ {
+  "pdf_page": 565,
+  "printed": 558,
+  "zone": "head",
+  "chars": 3016,
+  "first": "558"
+ },
+ {
+  "pdf_page": 566,
+  "printed": 559,
+  "zone": "head",
+  "chars": 2404,
+  "first": "Paginierungsschema der Manuskripte der „Deutschen Ideologie\""
+ },
+ {
+  "pdf_page": 567,
+  "printed": 560,
+  "zone": "head",
+  "chars": 1832,
+  "first": "560"
+ },
+ {
+  "pdf_page": 568,
+  "printed": null,
+  "zone": null,
+  "chars": 4204,
+  "first": "2 . D i e R i c h t l i n i e n"
+ },
+ {
+  "pdf_page": 569,
+  "printed": 562,
+  "zone": "head",
+  "chars": 4302,
+  "first": "562"
+ },
+ {
+  "pdf_page": 570,
+  "printed": 563,
+  "zone": "head",
+  "chars": 4373,
+  "first": "Richtlinien der Redigierung"
+ },
+ {
+  "pdf_page": 571,
+  "printed": 564,
+  "zone": "head",
+  "chars": 4089,
+  "first": "564"
+ },
+ {
+  "pdf_page": 572,
+  "printed": null,
+  "zone": null,
+  "chars": 45,
+  "first": "TAFEL IV: Schluß der „Vorrede\"; s. S. 565-566"
+ },
+ {
+  "pdf_page": 573,
+  "printed": 565,
+  "zone": "head",
+  "chars": 3954,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 574,
+  "printed": 566,
+  "zone": "head",
+  "chars": 4311,
+  "first": "566"
+ },
+ {
+  "pdf_page": 575,
+  "printed": 567,
+  "zone": "head",
+  "chars": 4541,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 576,
+  "printed": 568,
+  "zone": "head",
+  "chars": 4434,
+  "first": "568"
+ },
+ {
+  "pdf_page": 577,
+  "printed": 569,
+  "zone": "head",
+  "chars": 4712,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 578,
+  "printed": 570,
+  "zone": "head",
+  "chars": 4172,
+  "first": "570"
+ },
+ {
+  "pdf_page": 579,
+  "printed": 571,
+  "zone": "head",
+  "chars": 4319,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 580,
+  "printed": 572,
+  "zone": "head",
+  "chars": 4519,
+  "first": "572"
+ },
+ {
+  "pdf_page": 581,
+  "printed": 573,
+  "zone": "head",
+  "chars": 4586,
+  "first": "Textvariariten"
+ },
+ {
+  "pdf_page": 582,
+  "printed": 574,
+  "zone": "head",
+  "chars": 4712,
+  "first": "574"
+ },
+ {
+  "pdf_page": 583,
+  "printed": 575,
+  "zone": "head",
+  "chars": 4531,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 584,
+  "printed": 576,
+  "zone": "head",
+  "chars": 4409,
+  "first": "576"
+ },
+ {
+  "pdf_page": 585,
+  "printed": 577,
+  "zone": "head",
+  "chars": 4565,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 586,
+  "printed": 578,
+  "zone": "head",
+  "chars": 4511,
+  "first": "578"
+ },
+ {
+  "pdf_page": 587,
+  "printed": 579,
+  "zone": "head",
+  "chars": 4220,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 588,
+  "printed": 580,
+  "zone": "head",
+  "chars": 4109,
+  "first": "580"
+ },
+ {
+  "pdf_page": 589,
+  "printed": 581,
+  "zone": "head",
+  "chars": 4037,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 590,
+  "printed": 582,
+  "zone": "head",
+  "chars": 3707,
+  "first": "582"
+ },
+ {
+  "pdf_page": 591,
+  "printed": 583,
+  "zone": "head",
+  "chars": 3609,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 592,
+  "printed": 584,
+  "zone": "head",
+  "chars": 4097,
+  "first": "584"
+ },
+ {
+  "pdf_page": 593,
+  "printed": 585,
+  "zone": "head",
+  "chars": 3394,
+  "first": "Textvarianteri"
+ },
+ {
+  "pdf_page": 594,
+  "printed": 586,
+  "zone": "head",
+  "chars": 4188,
+  "first": "586"
+ },
+ {
+  "pdf_page": 595,
+  "printed": 587,
+  "zone": "head",
+  "chars": 4050,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 596,
+  "printed": 588,
+  "zone": "head",
+  "chars": 4105,
+  "first": "588"
+ },
+ {
+  "pdf_page": 597,
+  "printed": 589,
+  "zone": "head",
+  "chars": 3854,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 598,
+  "printed": 590,
+  "zone": "head",
+  "chars": 4148,
+  "first": "590"
+ },
+ {
+  "pdf_page": 599,
+  "printed": 591,
+  "zone": "head",
+  "chars": 4250,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 600,
+  "printed": 592,
+  "zone": "head",
+  "chars": 4363,
+  "first": "592"
+ },
+ {
+  "pdf_page": 601,
+  "printed": 593,
+  "zone": "head",
+  "chars": 4174,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 602,
+  "printed": 594,
+  "zone": "head",
+  "chars": 4436,
+  "first": "594"
+ },
+ {
+  "pdf_page": 603,
+  "printed": 595,
+  "zone": "head",
+  "chars": 4370,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 604,
+  "printed": 596,
+  "zone": "head",
+  "chars": 4303,
+  "first": "596"
+ },
+ {
+  "pdf_page": 605,
+  "printed": 597,
+  "zone": "head",
+  "chars": 4228,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 606,
+  "printed": 598,
+  "zone": "head",
+  "chars": 4426,
+  "first": "598"
+ },
+ {
+  "pdf_page": 607,
+  "printed": 599,
+  "zone": "head",
+  "chars": 4426,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 608,
+  "printed": 600,
+  "zone": "head",
+  "chars": 4435,
+  "first": "600"
+ },
+ {
+  "pdf_page": 609,
+  "printed": 601,
+  "zone": "head",
+  "chars": 4333,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 610,
+  "printed": 602,
+  "zone": "head",
+  "chars": 4040,
+  "first": "602"
+ },
+ {
+  "pdf_page": 611,
+  "printed": 603,
+  "zone": "head",
+  "chars": 4395,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 612,
+  "printed": 604,
+  "zone": "head",
+  "chars": 4501,
+  "first": "604"
+ },
+ {
+  "pdf_page": 613,
+  "printed": 605,
+  "zone": "head",
+  "chars": 4283,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 614,
+  "printed": 606,
+  "zone": "head",
+  "chars": 4859,
+  "first": "606"
+ },
+ {
+  "pdf_page": 615,
+  "printed": 607,
+  "zone": "head",
+  "chars": 4341,
+  "first": "Textvarianteri"
+ },
+ {
+  "pdf_page": 616,
+  "printed": 608,
+  "zone": "head",
+  "chars": 4422,
+  "first": "608"
+ },
+ {
+  "pdf_page": 617,
+  "printed": 609,
+  "zone": "head",
+  "chars": 4307,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 618,
+  "printed": 610,
+  "zone": "head",
+  "chars": 4113,
+  "first": "610"
+ },
+ {
+  "pdf_page": 619,
+  "printed": 611,
+  "zone": "head",
+  "chars": 4060,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 620,
+  "printed": 612,
+  "zone": "head",
+  "chars": 4141,
+  "first": "612"
+ },
+ {
+  "pdf_page": 621,
+  "printed": 613,
+  "zone": "head",
+  "chars": 4327,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 622,
+  "printed": 614,
+  "zone": "head",
+  "chars": 4562,
+  "first": "614"
+ },
+ {
+  "pdf_page": 623,
+  "printed": 615,
+  "zone": "head",
+  "chars": 4388,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 624,
+  "printed": 616,
+  "zone": "head",
+  "chars": 4444,
+  "first": "616"
+ },
+ {
+  "pdf_page": 625,
+  "printed": 617,
+  "zone": "head",
+  "chars": 4622,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 626,
+  "printed": 618,
+  "zone": "head",
+  "chars": 4499,
+  "first": "618"
+ },
+ {
+  "pdf_page": 627,
+  "printed": 619,
+  "zone": "head",
+  "chars": 4561,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 628,
+  "printed": 620,
+  "zone": "head",
+  "chars": 4372,
+  "first": "620"
+ },
+ {
+  "pdf_page": 629,
+  "printed": 621,
+  "zone": "head",
+  "chars": 4037,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 630,
+  "printed": 622,
+  "zone": "head",
+  "chars": 4081,
+  "first": "622"
+ },
+ {
+  "pdf_page": 631,
+  "printed": 623,
+  "zone": "head",
+  "chars": 4742,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 632,
+  "printed": 624,
+  "zone": "head",
+  "chars": 4524,
+  "first": "624"
+ },
+ {
+  "pdf_page": 633,
+  "printed": 625,
+  "zone": "head",
+  "chars": 4811,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 634,
+  "printed": 626,
+  "zone": "head",
+  "chars": 4356,
+  "first": "626"
+ },
+ {
+  "pdf_page": 635,
+  "printed": 627,
+  "zone": "head",
+  "chars": 4185,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 636,
+  "printed": 628,
+  "zone": "head",
+  "chars": 4534,
+  "first": "628"
+ },
+ {
+  "pdf_page": 637,
+  "printed": 629,
+  "zone": "head",
+  "chars": 4087,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 638,
+  "printed": 630,
+  "zone": "head",
+  "chars": 4421,
+  "first": "630"
+ },
+ {
+  "pdf_page": 639,
+  "printed": 631,
+  "zone": "head",
+  "chars": 3789,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 640,
+  "printed": null,
+  "zone": null,
+  "chars": 4090,
+  "first": "C32"
+ },
+ {
+  "pdf_page": 641,
+  "printed": 633,
+  "zone": "head",
+  "chars": 4391,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 642,
+  "printed": 634,
+  "zone": "head",
+  "chars": 3792,
+  "first": "634"
+ },
+ {
+  "pdf_page": 643,
+  "printed": 635,
+  "zone": "head",
+  "chars": 4336,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 644,
+  "printed": 636,
+  "zone": "head",
+  "chars": 4294,
+  "first": "636"
+ },
+ {
+  "pdf_page": 645,
+  "printed": 637,
+  "zone": "head",
+  "chars": 4476,
+  "first": "Textvarianten"
+ },
+ {
+  "pdf_page": 646,
+  "printed": 638,
+  "zone": "head",
+  "chars": 4495,
+  "first": "638"
+ },
+ {
+  "pdf_page": 647,
+  "printed": 639,
+  "zone": "head",
+  "chars": 3739,
+  "first": "Sammlung der im Original getilgten Stellen"
+ },
+ {
+  "pdf_page": 648,
+  "printed": null,
+  "zone": null,
+  "chars": 416,
+  "first": "640"
+ },
+ {
+  "pdf_page": 649,
+  "printed": null,
+  "zone": null,
+  "chars": 36,
+  "first": "QUELLENNACHWEIS UND TITELTERZEICHNIS"
+ },
+ {
+  "pdf_page": 650,
+  "printed": null,
+  "zone": null,
+  "chars": 1025,
+  "first": "Quellennachweis und Titelverzeichnis enthalten alle in dem vorliegende"
+ },
+ {
+  "pdf_page": 651,
+  "printed": null,
+  "zone": null,
+  "chars": 3247,
+  "first": "Q U E L L E N N A C H W E I S U N D T I T E L V E R Z E I C H N I S"
+ },
+ {
+  "pdf_page": 652,
+  "printed": 644,
+  "zone": "head",
+  "chars": 3346,
+  "first": "644"
+ },
+ {
+  "pdf_page": 653,
+  "printed": 645,
+  "zone": "head",
+  "chars": 3840,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 654,
+  "printed": 646,
+  "zone": "head",
+  "chars": 3659,
+  "first": "646"
+ },
+ {
+  "pdf_page": 655,
+  "printed": 647,
+  "zone": "head",
+  "chars": 2915,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 656,
+  "printed": 648,
+  "zone": "head",
+  "chars": 4073,
+  "first": "648"
+ },
+ {
+  "pdf_page": 657,
+  "printed": 649,
+  "zone": "head",
+  "chars": 4067,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 658,
+  "printed": 650,
+  "zone": "head",
+  "chars": 3628,
+  "first": "650"
+ },
+ {
+  "pdf_page": 659,
+  "printed": 651,
+  "zone": "head",
+  "chars": 3069,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 660,
+  "printed": 652,
+  "zone": "head",
+  "chars": 2653,
+  "first": "652"
+ },
+ {
+  "pdf_page": 661,
+  "printed": 653,
+  "zone": "head",
+  "chars": 2701,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 662,
+  "printed": 654,
+  "zone": "head",
+  "chars": 3771,
+  "first": "654"
+ },
+ {
+  "pdf_page": 663,
+  "printed": 655,
+  "zone": "head",
+  "chars": 3785,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 664,
+  "printed": 656,
+  "zone": "head",
+  "chars": 3366,
+  "first": "656"
+ },
+ {
+  "pdf_page": 665,
+  "printed": 657,
+  "zone": "head",
+  "chars": 3448,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 666,
+  "printed": 658,
+  "zone": "head",
+  "chars": 3195,
+  "first": "658"
+ },
+ {
+  "pdf_page": 667,
+  "printed": 659,
+  "zone": "head",
+  "chars": 2718,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 668,
+  "printed": 660,
+  "zone": "head",
+  "chars": 3233,
+  "first": "660"
+ },
+ {
+  "pdf_page": 669,
+  "printed": 661,
+  "zone": "head",
+  "chars": 3098,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 670,
+  "printed": 662,
+  "zone": "head",
+  "chars": 3333,
+  "first": "662"
+ },
+ {
+  "pdf_page": 671,
+  "printed": 663,
+  "zone": "head",
+  "chars": 3386,
+  "first": "Quellennachweis u n d Titelverzeichnis"
+ },
+ {
+  "pdf_page": 672,
+  "printed": 664,
+  "zone": "head",
+  "chars": 3261,
+  "first": "664"
+ },
+ {
+  "pdf_page": 673,
+  "printed": 665,
+  "zone": "head",
+  "chars": 3020,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 674,
+  "printed": 666,
+  "zone": "head",
+  "chars": 3265,
+  "first": "666"
+ },
+ {
+  "pdf_page": 675,
+  "printed": 667,
+  "zone": "head",
+  "chars": 3008,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 676,
+  "printed": 668,
+  "zone": "head",
+  "chars": 3218,
+  "first": "668"
+ },
+ {
+  "pdf_page": 677,
+  "printed": 669,
+  "zone": "head",
+  "chars": 3396,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 678,
+  "printed": 670,
+  "zone": "head",
+  "chars": 3752,
+  "first": "670"
+ },
+ {
+  "pdf_page": 679,
+  "printed": 671,
+  "zone": "head",
+  "chars": 3410,
+  "first": "Quellennachweis und Titelverzeichnis"
+ },
+ {
+  "pdf_page": 680,
+  "printed": null,
+  "zone": null,
+  "chars": 15,
+  "first": "R E G I S T E R"
+ },
+ {
+  "pdf_page": 681,
+  "printed": null,
+  "zone": null,
+  "chars": 1747,
+  "first": "Namenregister"
+ },
+ {
+  "pdf_page": 682,
+  "printed": null,
+  "zone": null,
+  "chars": 3471,
+  "first": "NAMENREGISTER"
+ },
+ {
+  "pdf_page": 683,
+  "printed": 676,
+  "zone": "head",
+  "chars": 3771,
+  "first": "676"
+ },
+ {
+  "pdf_page": 684,
+  "printed": 677,
+  "zone": "head",
+  "chars": 3706,
+  "first": "Namenregister"
+ },
+ {
+  "pdf_page": 685,
+  "printed": 678,
+  "zone": "head",
+  "chars": 3503,
+  "first": "678"
+ },
+ {
+  "pdf_page": 686,
+  "printed": 679,
+  "zone": "head",
+  "chars": 3841,
+  "first": "Namenregister"
+ },
+ {
+  "pdf_page": 687,
+  "printed": 680,
+  "zone": "head",
+  "chars": 3576,
+  "first": "680"
+ },
+ {
+  "pdf_page": 688,
+  "printed": null,
+  "zone": null,
+  "chars": 1459,
+  "first": "Namenregister"
+ },
+ {
+  "pdf_page": 689,
+  "printed": null,
+  "zone": null,
+  "chars": 3812,
+  "first": "SACHREGISTER"
+ },
+ {
+  "pdf_page": 690,
+  "printed": 683,
+  "zone": "head",
+  "chars": 4393,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 691,
+  "printed": 684,
+  "zone": "head",
+  "chars": 4431,
+  "first": "684"
+ },
+ {
+  "pdf_page": 692,
+  "printed": 685,
+  "zone": "head",
+  "chars": 4106,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 693,
+  "printed": 686,
+  "zone": "head",
+  "chars": 4439,
+  "first": "686"
+ },
+ {
+  "pdf_page": 694,
+  "printed": 687,
+  "zone": "head",
+  "chars": 4398,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 695,
+  "printed": 688,
+  "zone": "head",
+  "chars": 4184,
+  "first": "688"
+ },
+ {
+  "pdf_page": 696,
+  "printed": 689,
+  "zone": "head",
+  "chars": 4364,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 697,
+  "printed": 690,
+  "zone": "head",
+  "chars": 4292,
+  "first": "690"
+ },
+ {
+  "pdf_page": 698,
+  "printed": 691,
+  "zone": "head",
+  "chars": 4269,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 699,
+  "printed": 692,
+  "zone": "head",
+  "chars": 4218,
+  "first": "692"
+ },
+ {
+  "pdf_page": 700,
+  "printed": 693,
+  "zone": "head",
+  "chars": 4191,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 701,
+  "printed": 694,
+  "zone": "head",
+  "chars": 4100,
+  "first": "694"
+ },
+ {
+  "pdf_page": 702,
+  "printed": 695,
+  "zone": "head",
+  "chars": 4230,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 703,
+  "printed": 696,
+  "zone": "head",
+  "chars": 4241,
+  "first": "696"
+ },
+ {
+  "pdf_page": 704,
+  "printed": 697,
+  "zone": "head",
+  "chars": 4259,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 705,
+  "printed": 698,
+  "zone": "head",
+  "chars": 4187,
+  "first": "698"
+ },
+ {
+  "pdf_page": 706,
+  "printed": 699,
+  "zone": "head",
+  "chars": 4171,
+  "first": "Sachregister"
+ },
+ {
+  "pdf_page": 707,
+  "printed": 700,
+  "zone": "head",
+  "chars": 3565,
+  "first": "700"
+ },
+ {
+  "pdf_page": 708,
+  "printed": null,
+  "zone": null,
+  "chars": 6,
+  "first": "INHALT"
+ },
+ {
+  "pdf_page": 709,
+  "printed": null,
+  "zone": null,
+  "chars": 1640,
+  "first": "I n h a l t"
+ },
+ {
+  "pdf_page": 710,
+  "printed": null,
+  "zone": null,
+  "chars": 2034,
+  "first": "7 0 4"
+ },
+ {
+  "pdf_page": 711,
+  "printed": 705,
+  "zone": "head",
+  "chars": 2059,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 712,
+  "printed": 706,
+  "zone": "head",
+  "chars": 1412,
+  "first": "706"
+ },
+ {
+  "pdf_page": 713,
+  "printed": null,
+  "zone": null,
+  "chars": 333,
+  "first": "B e i l a g e n"
+ },
+ {
+  "pdf_page": 714,
+  "printed": null,
+  "zone": null,
+  "chars": 608,
+  "first": "D r u c k f e h l e r"
+ }
+]

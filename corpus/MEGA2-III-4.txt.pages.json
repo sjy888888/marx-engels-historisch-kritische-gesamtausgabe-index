@@ -1,0 +1,3859 @@
+[
+ {
+  "pdf_page": 1,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 2,
+  "printed": null,
+  "zone": null,
+  "chars": 334,
+  "first": "KARL MARX"
+ },
+ {
+  "pdf_page": 3,
+  "printed": null,
+  "zone": null,
+  "chars": 101,
+  "first": "KARL MARX"
+ },
+ {
+  "pdf_page": 4,
+  "printed": null,
+  "zone": null,
+  "chars": 1173,
+  "first": "Redaktionskommission"
+ },
+ {
+  "pdf_page": 5,
+  "printed": null,
+  "zone": null,
+  "chars": 1278,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 6,
+  "printed": null,
+  "zone": null,
+  "chars": 2430,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 7,
+  "printed": null,
+  "zone": null,
+  "chars": 2556,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 8,
+  "printed": null,
+  "zone": null,
+  "chars": 2365,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 9,
+  "printed": null,
+  "zone": null,
+  "chars": 2585,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 10,
+  "printed": null,
+  "zone": null,
+  "chars": 2600,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 11,
+  "printed": null,
+  "zone": null,
+  "chars": 2435,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 12,
+  "printed": null,
+  "zone": null,
+  "chars": 1277,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 13,
+  "printed": null,
+  "zone": null,
+  "chars": 1424,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 14,
+  "printed": null,
+  "zone": null,
+  "chars": 760,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 15,
+  "printed": null,
+  "zone": null,
+  "chars": 1791,
+  "first": "Einleitung"
+ },
+ {
+  "pdf_page": 16,
+  "printed": null,
+  "zone": null,
+  "chars": 111,
+  "first": "KARL M A R X"
+ },
+ {
+  "pdf_page": 17,
+  "printed": null,
+  "zone": null,
+  "chars": 108,
+  "first": "BRIEFE"
+ },
+ {
+  "pdf_page": 18,
+  "printed": 5,
+  "zone": "foot",
+  "chars": 619,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 19,
+  "printed": 6,
+  "zone": "foot",
+  "chars": 1999,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 20,
+  "printed": null,
+  "zone": null,
+  "chars": 45,
+  "first": "Marx an Engels, 7. Januar 1851"
+ },
+ {
+  "pdf_page": 21,
+  "printed": 9,
+  "zone": "foot",
+  "chars": 2864,
+  "first": "Marx an Engels · 7. Januar 1851"
+ },
+ {
+  "pdf_page": 22,
+  "printed": 10,
+  "zone": "foot",
+  "chars": 2594,
+  "first": "Marx an Engels · 7. Januar 1851"
+ },
+ {
+  "pdf_page": 23,
+  "printed": 11,
+  "zone": "foot",
+  "chars": 2247,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 24,
+  "printed": 12,
+  "zone": "foot",
+  "chars": 1925,
+  "first": "Engels an Marx · 8. Januar 1851"
+ },
+ {
+  "pdf_page": 25,
+  "printed": 13,
+  "zone": "foot",
+  "chars": 1686,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 26,
+  "printed": 14,
+  "zone": "foot",
+  "chars": 2233,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 27,
+  "printed": 15,
+  "zone": "foot",
+  "chars": 1726,
+  "first": "Engels an Marx · 25. Januar 1851"
+ },
+ {
+  "pdf_page": 28,
+  "printed": 16,
+  "zone": "foot",
+  "chars": 1818,
+  "first": "Karl Marx und Wilhelm Pieper an Friedrich Engels"
+ },
+ {
+  "pdf_page": 29,
+  "printed": 17,
+  "zone": "foot",
+  "chars": 946,
+  "first": "Marx und Wilhelm Pieper an Engels • 27. Januar 1851"
+ },
+ {
+  "pdf_page": 30,
+  "printed": 18,
+  "zone": "foot",
+  "chars": 2256,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 31,
+  "printed": null,
+  "zone": null,
+  "chars": 46,
+  "first": "Engels an Marx, 29. Januar 1851"
+ },
+ {
+  "pdf_page": 32,
+  "printed": 21,
+  "zone": "foot",
+  "chars": 2865,
+  "first": "Engels an Marx · 29. Januar 1851"
+ },
+ {
+  "pdf_page": 33,
+  "printed": 22,
+  "zone": "foot",
+  "chars": 504,
+  "first": "Engels an Marx · 29. Januar 1851"
+ },
+ {
+  "pdf_page": 34,
+  "printed": 23,
+  "zone": "foot",
+  "chars": 1084,
+  "first": "Karl Marx an Hermann Heinrich Becker"
+ },
+ {
+  "pdf_page": 35,
+  "printed": 24,
+  "zone": "foot",
+  "chars": 2108,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 36,
+  "printed": null,
+  "zone": null,
+  "chars": 46,
+  "first": "Marx an Engels, 3. Februar 1851"
+ },
+ {
+  "pdf_page": 37,
+  "printed": 27,
+  "zone": "foot",
+  "chars": 2969,
+  "first": "Marx an Engels · 3. Februar 1851"
+ },
+ {
+  "pdf_page": 38,
+  "printed": 28,
+  "zone": "foot",
+  "chars": 2509,
+  "first": "Marx an Engels · 3. Februar 1851"
+ },
+ {
+  "pdf_page": 39,
+  "printed": 29,
+  "zone": "foot",
+  "chars": 2611,
+  "first": "Marx an Engels · 3. Februar 1851"
+ },
+ {
+  "pdf_page": 40,
+  "printed": 30,
+  "zone": "foot",
+  "chars": 685,
+  "first": "Marx an Engels · 3. Februar 1851"
+ },
+ {
+  "pdf_page": 41,
+  "printed": 31,
+  "zone": "foot",
+  "chars": 2204,
+  "first": "Friedrich Engeis an Karl Marx"
+ },
+ {
+  "pdf_page": 42,
+  "printed": 32,
+  "zone": "foot",
+  "chars": 3100,
+  "first": "Engels an Marx · 5. Februar 1851"
+ },
+ {
+  "pdf_page": 43,
+  "printed": 33,
+  "zone": "foot",
+  "chars": 2073,
+  "first": "Engels an Marx • 5. Februar 1851"
+ },
+ {
+  "pdf_page": 44,
+  "printed": 34,
+  "zone": "foot",
+  "chars": 1074,
+  "first": "Karl Marx an Hermann Heinrich Becker"
+ },
+ {
+  "pdf_page": 45,
+  "printed": 35,
+  "zone": "foot",
+  "chars": 2052,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 46,
+  "printed": 36,
+  "zone": "foot",
+  "chars": 1787,
+  "first": "Marx an Engels · 10. Februar 1851"
+ },
+ {
+  "pdf_page": 47,
+  "printed": 37,
+  "zone": "foot",
+  "chars": 2254,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 48,
+  "printed": 38,
+  "zone": "foot",
+  "chars": 414,
+  "first": "Marx an Engels · 11. Februar 1851"
+ },
+ {
+  "pdf_page": 49,
+  "printed": 39,
+  "zone": "foot",
+  "chars": 2315,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 50,
+  "printed": 40,
+  "zone": "foot",
+  "chars": 2661,
+  "first": "Engels an Marx · 12. Februar 1851"
+ },
+ {
+  "pdf_page": 51,
+  "printed": 41,
+  "zone": "foot",
+  "chars": 2115,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 52,
+  "printed": 42,
+  "zone": "foot",
+  "chars": 3021,
+  "first": "Engels an Marx · 13. Februar 1851"
+ },
+ {
+  "pdf_page": 53,
+  "printed": 43,
+  "zone": "foot",
+  "chars": 304,
+  "first": "Engels an Marx · 13. Februar 1851"
+ },
+ {
+  "pdf_page": 54,
+  "printed": 44,
+  "zone": "foot",
+  "chars": 2327,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 55,
+  "printed": 45,
+  "zone": "foot",
+  "chars": 3065,
+  "first": "Marx an Engels • 23. Februar 1851"
+ },
+ {
+  "pdf_page": 56,
+  "printed": 46,
+  "zone": "foot",
+  "chars": 2748,
+  "first": "Marx an Engels · 23. Februar 1851"
+ },
+ {
+  "pdf_page": 57,
+  "printed": 47,
+  "zone": "foot",
+  "chars": 2975,
+  "first": "Marx an Engels · 23. Februar 1851"
+ },
+ {
+  "pdf_page": 58,
+  "printed": 48,
+  "zone": "foot",
+  "chars": 1957,
+  "first": "Marx an Engels · 23. Februar 1851"
+ },
+ {
+  "pdf_page": 59,
+  "printed": 49,
+  "zone": "foot",
+  "chars": 2148,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 60,
+  "printed": 50,
+  "zone": "foot",
+  "chars": 265,
+  "first": "Marx an Engels · 25. Februar 1851"
+ },
+ {
+  "pdf_page": 61,
+  "printed": null,
+  "zone": null,
+  "chars": 47,
+  "first": "Marx an Engels, 25. Februar 1851"
+ },
+ {
+  "pdf_page": 62,
+  "printed": null,
+  "zone": null,
+  "chars": 47,
+  "first": "Engels an Marx, 25. Februar 1851"
+ },
+ {
+  "pdf_page": 63,
+  "printed": 53,
+  "zone": "foot",
+  "chars": 2251,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 64,
+  "printed": 54,
+  "zone": "foot",
+  "chars": 2534,
+  "first": "I"
+ },
+ {
+  "pdf_page": 65,
+  "printed": 55,
+  "zone": "foot",
+  "chars": 2344,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 66,
+  "printed": 56,
+  "zone": "foot",
+  "chars": 2533,
+  "first": "Engels an Marx · 26. Februar 1851"
+ },
+ {
+  "pdf_page": 67,
+  "printed": 57,
+  "zone": "foot",
+  "chars": 2810,
+  "first": "Wilhelm Pieper und Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 68,
+  "printed": 58,
+  "zone": "foot",
+  "chars": 3761,
+  "first": "Wilhelm Pieper und Marx an Engels -26. Februar 1851"
+ },
+ {
+  "pdf_page": 69,
+  "printed": 59,
+  "zone": "foot",
+  "chars": 2723,
+  "first": "Wilhelm Pieper und Marx an Engels · 26. Februar 1851"
+ },
+ {
+  "pdf_page": 70,
+  "printed": 60,
+  "zone": "foot",
+  "chars": 1130,
+  "first": "Wilhelm Pieper und Marx an Engels · 26. Februar 1851"
+ },
+ {
+  "pdf_page": 71,
+  "printed": 61,
+  "zone": "foot",
+  "chars": 859,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 72,
+  "printed": 62,
+  "zone": "foot",
+  "chars": 1779,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 73,
+  "printed": 63,
+  "zone": "foot",
+  "chars": 2263,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 74,
+  "printed": 64,
+  "zone": "foot",
+  "chars": 376,
+  "first": "Engels an Marx · 28. Februar 1851"
+ },
+ {
+  "pdf_page": 75,
+  "printed": 65,
+  "zone": "foot",
+  "chars": 2221,
+  "first": "Karl Marx an Hermann Heinrich Becker"
+ },
+ {
+  "pdf_page": 76,
+  "printed": 66,
+  "zone": "foot",
+  "chars": 2872,
+  "first": "Marx an Hermann Heinrich Becker · 28. Februar 1851"
+ },
+ {
+  "pdf_page": 77,
+  "printed": 67,
+  "zone": "foot",
+  "chars": 420,
+  "first": "Marx an Hermann Heinrich Becker · 28. Februar 1851"
+ },
+ {
+  "pdf_page": 78,
+  "printed": 68,
+  "zone": "foot",
+  "chars": 2109,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 79,
+  "printed": 69,
+  "zone": "foot",
+  "chars": 1210,
+  "first": "Marx an Engels · I.März 1851"
+ },
+ {
+  "pdf_page": 80,
+  "printed": 70,
+  "zone": "foot",
+  "chars": 1953,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 81,
+  "printed": 71,
+  "zone": "foot",
+  "chars": 1121,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 82,
+  "printed": 72,
+  "zone": "foot",
+  "chars": 2148,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 83,
+  "printed": 73,
+  "zone": "foot",
+  "chars": 254,
+  "first": "Engels an Marx · 17. März 1851"
+ },
+ {
+  "pdf_page": 84,
+  "printed": 74,
+  "zone": "foot",
+  "chars": 2109,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 85,
+  "printed": 75,
+  "zone": "foot",
+  "chars": 2476,
+  "first": "Marx an Engels · 17. März 1851"
+ },
+ {
+  "pdf_page": 86,
+  "printed": 76,
+  "zone": "foot",
+  "chars": 2259,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 87,
+  "printed": 77,
+  "zone": "foot",
+  "chars": 1712,
+  "first": "Engels an Marx 19. März 1851"
+ },
+ {
+  "pdf_page": 88,
+  "printed": 78,
+  "zone": "foot",
+  "chars": 616,
+  "first": "Karl Marx an Roland Daniels"
+ },
+ {
+  "pdf_page": 89,
+  "printed": 79,
+  "zone": "foot",
+  "chars": 2502,
+  "first": "Wilhelm Pieper und Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 90,
+  "printed": 80,
+  "zone": "foot",
+  "chars": 3077,
+  "first": "Wilhelm Pieper und Marx an Engels · 22. März 1851"
+ },
+ {
+  "pdf_page": 91,
+  "printed": 81,
+  "zone": "foot",
+  "chars": 2259,
+  "first": "Wilhelm Pieper und Marx an Engels · 22. März 1851"
+ },
+ {
+  "pdf_page": 92,
+  "printed": 82,
+  "zone": "foot",
+  "chars": 1320,
+  "first": "Wilhelm Pieper und Marx an Engels · 22. März 1851"
+ },
+ {
+  "pdf_page": 93,
+  "printed": 83,
+  "zone": "foot",
+  "chars": 2132,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 94,
+  "printed": 84,
+  "zone": "foot",
+  "chars": 2246,
+  "first": "Marx an Engels • 31. März 1851"
+ },
+ {
+  "pdf_page": 95,
+  "printed": 85,
+  "zone": "foot",
+  "chars": 2176,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 96,
+  "printed": 86,
+  "zone": "foot",
+  "chars": 471,
+  "first": "Marx an Engels · 2. April 1851"
+ },
+ {
+  "pdf_page": 97,
+  "printed": 87,
+  "zone": "foot",
+  "chars": 2315,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 98,
+  "printed": 88,
+  "zone": "foot",
+  "chars": 2750,
+  "first": "Engels an Marx · 3. April 1851"
+ },
+ {
+  "pdf_page": 99,
+  "printed": 89,
+  "zone": "foot",
+  "chars": 2972,
+  "first": "φτ"
+ },
+ {
+  "pdf_page": 100,
+  "printed": 90,
+  "zone": "foot",
+  "chars": 2778,
+  "first": "Engels an Marx · 3. April 1851"
+ },
+ {
+  "pdf_page": 101,
+  "printed": 91,
+  "zone": "foot",
+  "chars": 501,
+  "first": "Karl Marx an Hermann Heinrich Becker"
+ },
+ {
+  "pdf_page": 102,
+  "printed": 92,
+  "zone": "foot",
+  "chars": 2254,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 103,
+  "printed": null,
+  "zone": null,
+  "chars": 45,
+  "first": "Engels an Marx, 11. April 1851"
+ },
+ {
+  "pdf_page": 104,
+  "printed": 95,
+  "zone": "foot",
+  "chars": 1072,
+  "first": "Engels an Marx · 11. April 1851"
+ },
+ {
+  "pdf_page": 105,
+  "printed": 96,
+  "zone": "foot",
+  "chars": 1139,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 106,
+  "printed": 97,
+  "zone": "foot",
+  "chars": 2067,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 107,
+  "printed": 98,
+  "zone": "foot",
+  "chars": 250,
+  "first": "Marx an Engels · 15. April 1851"
+ },
+ {
+  "pdf_page": 108,
+  "printed": 99,
+  "zone": "foot",
+  "chars": 2243,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 109,
+  "printed": 100,
+  "zone": "foot",
+  "chars": 2877,
+  "first": "Engels an Marx · I.Mai 1851"
+ },
+ {
+  "pdf_page": 110,
+  "printed": 101,
+  "zone": "foot",
+  "chars": 1816,
+  "first": "ummmer"
+ },
+ {
+  "pdf_page": 111,
+  "printed": 102,
+  "zone": "foot",
+  "chars": 2344,
+  "first": "Friedrich Engels an Wilhelm Wolff"
+ },
+ {
+  "pdf_page": 112,
+  "printed": 103,
+  "zone": "foot",
+  "chars": 2861,
+  "first": "F"
+ },
+ {
+  "pdf_page": 113,
+  "printed": 104,
+  "zone": "foot",
+  "chars": 2217,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 114,
+  "printed": 105,
+  "zone": "foot",
+  "chars": 1815,
+  "first": "r"
+ },
+ {
+  "pdf_page": 115,
+  "printed": 106,
+  "zone": "foot",
+  "chars": 1276,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 116,
+  "printed": 107,
+  "zone": "foot",
+  "chars": 2777,
+  "first": "Marx an Engels • 5. Mai 1851"
+ },
+ {
+  "pdf_page": 117,
+  "printed": 108,
+  "zone": "foot",
+  "chars": 356,
+  "first": "Marx an Engels · 5. Mai 1851"
+ },
+ {
+  "pdf_page": 118,
+  "printed": 109,
+  "zone": "foot",
+  "chars": 2186,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 119,
+  "printed": 110,
+  "zone": "foot",
+  "chars": 1278,
+  "first": "Engels an Marx · 6. oder 7. Mai 1851"
+ },
+ {
+  "pdf_page": 120,
+  "printed": 111,
+  "zone": "foot",
+  "chars": 1964,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 121,
+  "printed": 112,
+  "zone": "foot",
+  "chars": 721,
+  "first": "Engels an Marx · 8. Mai 1851"
+ },
+ {
+  "pdf_page": 122,
+  "printed": 113,
+  "zone": "foot",
+  "chars": 2085,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 123,
+  "printed": 114,
+  "zone": "foot",
+  "chars": 2839,
+  "first": "Engels an Marx · 9. Mai 1851"
+ },
+ {
+  "pdf_page": 124,
+  "printed": 115,
+  "zone": "foot",
+  "chars": 2817,
+  "first": "Engels an Marx · 9. Mai 1851"
+ },
+ {
+  "pdf_page": 125,
+  "printed": 116,
+  "zone": "foot",
+  "chars": 1224,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 126,
+  "printed": 117,
+  "zone": "foot",
+  "chars": 2169,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 127,
+  "printed": 118,
+  "zone": "foot",
+  "chars": 1865,
+  "first": "Marx an Engels · 16. Mai 1851"
+ },
+ {
+  "pdf_page": 128,
+  "printed": 119,
+  "zone": "foot",
+  "chars": 2231,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 129,
+  "printed": 120,
+  "zone": "foot",
+  "chars": 2603,
+  "first": "Engels an Marx · 19. Mai 1851"
+ },
+ {
+  "pdf_page": 130,
+  "printed": 121,
+  "zone": "foot",
+  "chars": 2317,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 131,
+  "printed": 122,
+  "zone": "foot",
+  "chars": 2761,
+  "first": "Marx an Engels -21. Mai 1851"
+ },
+ {
+  "pdf_page": 132,
+  "printed": 123,
+  "zone": "foot",
+  "chars": 2271,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 133,
+  "printed": 124,
+  "zone": "foot",
+  "chars": 2942,
+  "first": "Engels an Marx • 23. Mai 1851"
+ },
+ {
+  "pdf_page": 134,
+  "printed": 125,
+  "zone": "foot",
+  "chars": 2886,
+  "first": "Engels an Marx • 23. Mai 1851"
+ },
+ {
+  "pdf_page": 135,
+  "printed": 126,
+  "zone": "foot",
+  "chars": 628,
+  "first": "Engels an Marx · 23. Mai 1851"
+ },
+ {
+  "pdf_page": 136,
+  "printed": 127,
+  "zone": "foot",
+  "chars": 807,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 137,
+  "printed": 128,
+  "zone": "foot",
+  "chars": 2352,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 138,
+  "printed": 129,
+  "zone": "foot",
+  "chars": 2655,
+  "first": "Marx an Engels · 28. Mai 1851"
+ },
+ {
+  "pdf_page": 139,
+  "printed": 130,
+  "zone": "foot",
+  "chars": 228,
+  "first": "Karl Marx an Roland Daniels"
+ },
+ {
+  "pdf_page": 140,
+  "printed": 131,
+  "zone": "foot",
+  "chars": 1327,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 141,
+  "printed": 132,
+  "zone": "foot",
+  "chars": 2357,
+  "first": "Friedrich Engels an Joseph Weydemeyer"
+ },
+ {
+  "pdf_page": 142,
+  "printed": null,
+  "zone": null,
+  "chars": 57,
+  "first": "Engels an Joseph Weydemeyer, 19. Juni 1851"
+ },
+ {
+  "pdf_page": 143,
+  "printed": 135,
+  "zone": "foot",
+  "chars": 2910,
+  "first": "Engels an Joseph Weydemeyer · 19. Juni 1851"
+ },
+ {
+  "pdf_page": 144,
+  "printed": 136,
+  "zone": "foot",
+  "chars": 2631,
+  "first": "Engels an Joseph Weydemeyer · 19. Juni 1851"
+ },
+ {
+  "pdf_page": 145,
+  "printed": 137,
+  "zone": "foot",
+  "chars": 2289,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 146,
+  "printed": 138,
+  "zone": "foot",
+  "chars": 2158,
+  "first": "Karl Marx an Joseph Weydemeyer"
+ },
+ {
+  "pdf_page": 147,
+  "printed": 139,
+  "zone": "foot",
+  "chars": 2749,
+  "first": "Marx an Joseph Weydemeyer · 27. Juni 1851"
+ },
+ {
+  "pdf_page": 148,
+  "printed": 140,
+  "zone": "foot",
+  "chars": 1085,
+  "first": "Marx an Joseph Weydemeyer • 27. Juni 1851"
+ },
+ {
+  "pdf_page": 149,
+  "printed": 141,
+  "zone": "foot",
+  "chars": 2271,
+  "first": "Friedrich Engeis an Karl Marx"
+ },
+ {
+  "pdf_page": 150,
+  "printed": 142,
+  "zone": "foot",
+  "chars": 1424,
+  "first": "Engels an Marx · um den 6. Juli 1851"
+ },
+ {
+  "pdf_page": 151,
+  "printed": 143,
+  "zone": "foot",
+  "chars": 2204,
+  "first": "Friedrich Engels an Ernst Dronke"
+ },
+ {
+  "pdf_page": 152,
+  "printed": 144,
+  "zone": "foot",
+  "chars": 2990,
+  "first": "Engels an Ernst Dronke · 9. Juli 1851"
+ },
+ {
+  "pdf_page": 153,
+  "printed": 145,
+  "zone": "foot",
+  "chars": 2604,
+  "first": "ψ"
+ },
+ {
+  "pdf_page": 154,
+  "printed": 146,
+  "zone": "foot",
+  "chars": 2270,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 155,
+  "printed": 147,
+  "zone": "foot",
+  "chars": 2572,
+  "first": "Marx an Engels · 13. Juli 1851"
+ },
+ {
+  "pdf_page": 156,
+  "printed": 148,
+  "zone": "foot",
+  "chars": 2255,
+  "first": "Marx an Engels · 13. Juli 1851"
+ },
+ {
+  "pdf_page": 157,
+  "printed": 149,
+  "zone": "foot",
+  "chars": 2449,
+  "first": "w"
+ },
+ {
+  "pdf_page": 158,
+  "printed": 150,
+  "zone": "foot",
+  "chars": 1390,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 159,
+  "printed": 151,
+  "zone": "foot",
+  "chars": 2253,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 160,
+  "printed": 152,
+  "zone": "foot",
+  "chars": 2769,
+  "first": "Engels an Marx · 17. Juli 1851"
+ },
+ {
+  "pdf_page": 161,
+  "printed": 153,
+  "zone": "foot",
+  "chars": 1445,
+  "first": "r"
+ },
+ {
+  "pdf_page": 162,
+  "printed": 154,
+  "zone": "foot",
+  "chars": 2214,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 163,
+  "printed": 155,
+  "zone": "foot",
+  "chars": 2993,
+  "first": "w"
+ },
+ {
+  "pdf_page": 164,
+  "printed": 156,
+  "zone": "foot",
+  "chars": 928,
+  "first": "Engels an Marx • um den 20. Juli 1851"
+ },
+ {
+  "pdf_page": 165,
+  "printed": 157,
+  "zone": "foot",
+  "chars": 2031,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 166,
+  "printed": 158,
+  "zone": "foot",
+  "chars": 2158,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 167,
+  "printed": 159,
+  "zone": "foot",
+  "chars": 2941,
+  "first": "w"
+ },
+ {
+  "pdf_page": 168,
+  "printed": 160,
+  "zone": "foot",
+  "chars": 1746,
+  "first": "Marx an Engels · 31. Juli 1851"
+ },
+ {
+  "pdf_page": 169,
+  "printed": 161,
+  "zone": "foot",
+  "chars": 2226,
+  "first": "w"
+ },
+ {
+  "pdf_page": 170,
+  "printed": 162,
+  "zone": "foot",
+  "chars": 1651,
+  "first": "Engels an Marx · I.August 1851"
+ },
+ {
+  "pdf_page": 171,
+  "printed": 163,
+  "zone": "foot",
+  "chars": 2026,
+  "first": "w"
+ },
+ {
+  "pdf_page": 172,
+  "printed": 164,
+  "zone": "foot",
+  "chars": 2654,
+  "first": "Marx an Joseph Weydemeyer · 2. August 1851"
+ },
+ {
+  "pdf_page": 173,
+  "printed": 165,
+  "zone": "foot",
+  "chars": 894,
+  "first": "Marx an Joseph Weydemeyer · 2. August 1851"
+ },
+ {
+  "pdf_page": 174,
+  "printed": 166,
+  "zone": "foot",
+  "chars": 1552,
+  "first": "Friedrich Engels an Wilhelm Wolff"
+ },
+ {
+  "pdf_page": 175,
+  "printed": 167,
+  "zone": "foot",
+  "chars": 2271,
+  "first": "Friedrich Engels an Joseph Weydemeyer"
+ },
+ {
+  "pdf_page": 176,
+  "printed": 168,
+  "zone": "foot",
+  "chars": 2971,
+  "first": "Engels an Joseph Weydemeyer · 7. August 1851"
+ },
+ {
+  "pdf_page": 177,
+  "printed": 169,
+  "zone": "foot",
+  "chars": 888,
+  "first": "Engels an Joseph Weydemeyer · 7. August 1851"
+ },
+ {
+  "pdf_page": 178,
+  "printed": 170,
+  "zone": "foot",
+  "chars": 2149,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 179,
+  "printed": 171,
+  "zone": "foot",
+  "chars": 2957,
+  "first": "Marx an Engels · 8. August 1851"
+ },
+ {
+  "pdf_page": 180,
+  "printed": 172,
+  "zone": "foot",
+  "chars": 2893,
+  "first": "Marx an Engels · 8. August 1851"
+ },
+ {
+  "pdf_page": 181,
+  "printed": 173,
+  "zone": "foot",
+  "chars": 3092,
+  "first": "r"
+ },
+ {
+  "pdf_page": 182,
+  "printed": 174,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "Marx an Engels · 8. August 1851"
+ },
+ {
+  "pdf_page": 183,
+  "printed": 175,
+  "zone": "foot",
+  "chars": 2108,
+  "first": "Marx an Engels · 8. August 1851"
+ },
+ {
+  "pdf_page": 184,
+  "printed": 176,
+  "zone": "foot",
+  "chars": 2272,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 185,
+  "printed": 177,
+  "zone": "foot",
+  "chars": 2624,
+  "first": "Engels an Marx · um den 10. August 1851"
+ },
+ {
+  "pdf_page": 186,
+  "printed": 178,
+  "zone": "foot",
+  "chars": 2387,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 187,
+  "printed": 179,
+  "zone": "foot",
+  "chars": 2915,
+  "first": "Engels an Marx · um den 11. August 1851"
+ },
+ {
+  "pdf_page": 188,
+  "printed": 180,
+  "zone": "foot",
+  "chars": 2310,
+  "first": "Engels an Marx - um den 11. August 1851"
+ },
+ {
+  "pdf_page": 189,
+  "printed": 181,
+  "zone": "foot",
+  "chars": 2188,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 190,
+  "printed": 182,
+  "zone": "foot",
+  "chars": 2987,
+  "first": "Marx an Engels · 14. August 1851"
+ },
+ {
+  "pdf_page": 191,
+  "printed": 183,
+  "zone": "foot",
+  "chars": 2628,
+  "first": "Marx an Engels • 14. August 1851"
+ },
+ {
+  "pdf_page": 192,
+  "printed": 184,
+  "zone": "foot",
+  "chars": 575,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 193,
+  "printed": 185,
+  "zone": "foot",
+  "chars": 2266,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 194,
+  "printed": 186,
+  "zone": "foot",
+  "chars": 2809,
+  "first": "Engels an Marx · 21. August 1851"
+ },
+ {
+  "pdf_page": 195,
+  "printed": 187,
+  "zone": "foot",
+  "chars": 2266,
+  "first": "r"
+ },
+ {
+  "pdf_page": 196,
+  "printed": 188,
+  "zone": "foot",
+  "chars": 2881,
+  "first": "Marx an Engels · 25. August 1851"
+ },
+ {
+  "pdf_page": 197,
+  "printed": 189,
+  "zone": "foot",
+  "chars": 3110,
+  "first": "F"
+ },
+ {
+  "pdf_page": 198,
+  "printed": 190,
+  "zone": "foot",
+  "chars": 3059,
+  "first": "Marx an Engels · 25. August 1851"
+ },
+ {
+  "pdf_page": 199,
+  "printed": 191,
+  "zone": "foot",
+  "chars": 3019,
+  "first": "w"
+ },
+ {
+  "pdf_page": 200,
+  "printed": 192,
+  "zone": "foot",
+  "chars": 2969,
+  "first": "Marx an Engels · 25. August 1851"
+ },
+ {
+  "pdf_page": 201,
+  "printed": 193,
+  "zone": "foot",
+  "chars": 1425,
+  "first": "Marx an Engels · 25. August 1851"
+ },
+ {
+  "pdf_page": 202,
+  "printed": 194,
+  "zone": "foot",
+  "chars": 2053,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 203,
+  "printed": 195,
+  "zone": "foot",
+  "chars": 2203,
+  "first": "r"
+ },
+ {
+  "pdf_page": 204,
+  "printed": 196,
+  "zone": "foot",
+  "chars": 2915,
+  "first": "Marx an Engels • 31. August 1851"
+ },
+ {
+  "pdf_page": 205,
+  "printed": 197,
+  "zone": "foot",
+  "chars": 2836,
+  "first": "r"
+ },
+ {
+  "pdf_page": 206,
+  "printed": 198,
+  "zone": "foot",
+  "chars": 1660,
+  "first": "Marx an Engels • 31. August 1851"
+ },
+ {
+  "pdf_page": 207,
+  "printed": 199,
+  "zone": "foot",
+  "chars": 2089,
+  "first": "r"
+ },
+ {
+  "pdf_page": 208,
+  "printed": 200,
+  "zone": "foot",
+  "chars": 2262,
+  "first": "Engels an Marx • I.September 1851"
+ },
+ {
+  "pdf_page": 209,
+  "printed": 201,
+  "zone": "foot",
+  "chars": 2175,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 210,
+  "printed": 202,
+  "zone": "foot",
+  "chars": 553,
+  "first": "Engels an Marx · 8. September 1851"
+ },
+ {
+  "pdf_page": 211,
+  "printed": 203,
+  "zone": "foot",
+  "chars": 823,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 212,
+  "printed": 204,
+  "zone": "foot",
+  "chars": 2250,
+  "first": "Karl Marx an Joseph Weydemeyer"
+ },
+ {
+  "pdf_page": 213,
+  "printed": 205,
+  "zone": "foot",
+  "chars": 1432,
+  "first": "Marx an Joseph Weydemeyer · 11. September 1851"
+ },
+ {
+  "pdf_page": 214,
+  "printed": 206,
+  "zone": "foot",
+  "chars": 2275,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 215,
+  "printed": null,
+  "zone": null,
+  "chars": 49,
+  "first": "Marx an Engels, 13. September 1851"
+ },
+ {
+  "pdf_page": 216,
+  "printed": 209,
+  "zone": "foot",
+  "chars": 1069,
+  "first": "Marx an Engels · 13. September 1851"
+ },
+ {
+  "pdf_page": 217,
+  "printed": 210,
+  "zone": "foot",
+  "chars": 1329,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 218,
+  "printed": 211,
+  "zone": "foot",
+  "chars": 2341,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 219,
+  "printed": 212,
+  "zone": "foot",
+  "chars": 3066,
+  "first": "Engels an Marx · 23. September 1851"
+ },
+ {
+  "pdf_page": 220,
+  "printed": 213,
+  "zone": "foot",
+  "chars": 3026,
+  "first": "Engels an Marx · 23. September 1851"
+ },
+ {
+  "pdf_page": 221,
+  "printed": 214,
+  "zone": "foot",
+  "chars": 1411,
+  "first": "Engels an Marx · 23. September 1851"
+ },
+ {
+  "pdf_page": 222,
+  "printed": 215,
+  "zone": "foot",
+  "chars": 2137,
+  "first": "r"
+ },
+ {
+  "pdf_page": 223,
+  "printed": null,
+  "zone": null,
+  "chars": 49,
+  "first": "Marx an Engels, 23. September 1851"
+ },
+ {
+  "pdf_page": 224,
+  "printed": 216,
+  "zone": "foot",
+  "chars": 2509,
+  "first": "Marx an Engels · 23. September 1851"
+ },
+ {
+  "pdf_page": 225,
+  "printed": 219,
+  "zone": "foot",
+  "chars": 2158,
+  "first": "r"
+ },
+ {
+  "pdf_page": 226,
+  "printed": 220,
+  "zone": "foot",
+  "chars": 2261,
+  "first": "Marx an Engels · 23. September 1851"
+ },
+ {
+  "pdf_page": 227,
+  "printed": 221,
+  "zone": "foot",
+  "chars": 1696,
+  "first": "r"
+ },
+ {
+  "pdf_page": 228,
+  "printed": 222,
+  "zone": "foot",
+  "chars": 1351,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 229,
+  "printed": 223,
+  "zone": "foot",
+  "chars": 2182,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 230,
+  "printed": 224,
+  "zone": "foot",
+  "chars": 2818,
+  "first": "Engels an Marx · 26. September 1851"
+ },
+ {
+  "pdf_page": 231,
+  "printed": 225,
+  "zone": "foot",
+  "chars": 914,
+  "first": "Engels an Marx · 26. September 1851"
+ },
+ {
+  "pdf_page": 232,
+  "printed": 226,
+  "zone": "foot",
+  "chars": 504,
+  "first": "Karl Marx an die Redaktion der"
+ },
+ {
+  "pdf_page": 233,
+  "printed": 227,
+  "zone": "foot",
+  "chars": 1689,
+  "first": "Jenny Marx und Karl Marx an Amalie Daniels"
+ },
+ {
+  "pdf_page": 234,
+  "printed": null,
+  "zone": null,
+  "chars": 47,
+  "first": "Marx an Engels, 13. Oktober 1851"
+ },
+ {
+  "pdf_page": 235,
+  "printed": 228,
+  "zone": "foot",
+  "chars": 2259,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 236,
+  "printed": 231,
+  "zone": "foot",
+  "chars": 3062,
+  "first": "F—"
+ },
+ {
+  "pdf_page": 237,
+  "printed": 232,
+  "zone": "foot",
+  "chars": 2947,
+  "first": "1"
+ },
+ {
+  "pdf_page": 238,
+  "printed": 233,
+  "zone": "foot",
+  "chars": 827,
+  "first": "Marx an Engels · 13. Oktober 1851"
+ },
+ {
+  "pdf_page": 239,
+  "printed": 234,
+  "zone": "foot",
+  "chars": 2185,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 240,
+  "printed": 235,
+  "zone": "foot",
+  "chars": 2898,
+  "first": "Engels an Marx · 15. Oktober 1851"
+ },
+ {
+  "pdf_page": 241,
+  "printed": 236,
+  "zone": "foot",
+  "chars": 1841,
+  "first": "Engels an Marx • 15. Oktober 1851"
+ },
+ {
+  "pdf_page": 242,
+  "printed": 237,
+  "zone": "foot",
+  "chars": 2099,
+  "first": "Karl Marx und Jenny Marx an Joseph Weydemeyer"
+ },
+ {
+  "pdf_page": 243,
+  "printed": 238,
+  "zone": "foot",
+  "chars": 1359,
+  "first": "Karl Marx und Jenny Marx an Joseph Weydemeyer • 16. Oktober 1851"
+ },
+ {
+  "pdf_page": 244,
+  "printed": 239,
+  "zone": "foot",
+  "chars": 2231,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 245,
+  "printed": 240,
+  "zone": "foot",
+  "chars": 3056,
+  "first": "Marx an Engels · 19. Oktober 1851"
+ },
+ {
+  "pdf_page": 246,
+  "printed": 241,
+  "zone": "foot",
+  "chars": 1814,
+  "first": "w"
+ },
+ {
+  "pdf_page": 247,
+  "printed": 242,
+  "zone": "foot",
+  "chars": 1753,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 248,
+  "printed": 243,
+  "zone": "foot",
+  "chars": 2292,
+  "first": "w"
+ },
+ {
+  "pdf_page": 249,
+  "printed": 244,
+  "zone": "foot",
+  "chars": 2627,
+  "first": "Engels an Marx · um den 27. Oktober 1851"
+ },
+ {
+  "pdf_page": 250,
+  "printed": 245,
+  "zone": "foot",
+  "chars": 2151,
+  "first": "¥'"
+ },
+ {
+  "pdf_page": 251,
+  "printed": 246,
+  "zone": "foot",
+  "chars": 577,
+  "first": "Marx an Joseph Weydemeyer · 31. Oktober 1851"
+ },
+ {
+  "pdf_page": 252,
+  "printed": 247,
+  "zone": "foot",
+  "chars": 2214,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 253,
+  "printed": 248,
+  "zone": "foot",
+  "chars": 2347,
+  "first": "Marx an Engels · 24. November 1851"
+ },
+ {
+  "pdf_page": 254,
+  "printed": 249,
+  "zone": "foot",
+  "chars": 2304,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 255,
+  "printed": 250,
+  "zone": "foot",
+  "chars": 2906,
+  "first": "Engels an Marx · 27. November 1851"
+ },
+ {
+  "pdf_page": 256,
+  "printed": 251,
+  "zone": "foot",
+  "chars": 885,
+  "first": "Engels an Marx · 27. November 1851"
+ },
+ {
+  "pdf_page": 257,
+  "printed": 252,
+  "zone": "foot",
+  "chars": 613,
+  "first": "Karl Marx an Adolf Cluß"
+ },
+ {
+  "pdf_page": 258,
+  "printed": 253,
+  "zone": "foot",
+  "chars": 2209,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 259,
+  "printed": 254,
+  "zone": "foot",
+  "chars": 2380,
+  "first": "Marx an Engels · 1. Dezember 1851"
+ },
+ {
+  "pdf_page": 260,
+  "printed": 255,
+  "zone": "foot",
+  "chars": 2218,
+  "first": "Karl Marx an Hermann Ebner"
+ },
+ {
+  "pdf_page": 261,
+  "printed": 256,
+  "zone": "foot",
+  "chars": 2927,
+  "first": "Marx an Hermann Ebner · 2. Dezember 1851"
+ },
+ {
+  "pdf_page": 262,
+  "printed": 257,
+  "zone": "foot",
+  "chars": 2999,
+  "first": "w"
+ },
+ {
+  "pdf_page": 263,
+  "printed": 258,
+  "zone": "foot",
+  "chars": 2491,
+  "first": "Marx an Hermann Ebner · 2. Dezember 1851"
+ },
+ {
+  "pdf_page": 264,
+  "printed": 259,
+  "zone": "foot",
+  "chars": 2179,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 265,
+  "printed": 260,
+  "zone": "foot",
+  "chars": 2954,
+  "first": "Engels an Marx · 3. Dezember 1851"
+ },
+ {
+  "pdf_page": 266,
+  "printed": null,
+  "zone": null,
+  "chars": 47,
+  "first": "Engels an Marx, 3. Dezember 1851"
+ },
+ {
+  "pdf_page": 267,
+  "printed": 263,
+  "zone": "foot",
+  "chars": 2724,
+  "first": "Engels an Marx • 3. Dezember 1851"
+ },
+ {
+  "pdf_page": 268,
+  "printed": 264,
+  "zone": "foot",
+  "chars": 2268,
+  "first": "Karl Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 269,
+  "printed": 265,
+  "zone": "foot",
+  "chars": 900,
+  "first": "Marx an Engels · 9. Dezember 1851"
+ },
+ {
+  "pdf_page": 270,
+  "printed": 266,
+  "zone": "foot",
+  "chars": 2301,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 271,
+  "printed": 267,
+  "zone": "foot",
+  "chars": 1496,
+  "first": "Engels an Marx • 10. Dezember 1851"
+ },
+ {
+  "pdf_page": 272,
+  "printed": 268,
+  "zone": "foot",
+  "chars": 2385,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 273,
+  "printed": 269,
+  "zone": "foot",
+  "chars": 3057,
+  "first": "Engels an Marx · 11. Dezember 1851"
+ },
+ {
+  "pdf_page": 274,
+  "printed": 270,
+  "zone": "foot",
+  "chars": 2909,
+  "first": "Engels an Marx · 11. Dezember 1851"
+ },
+ {
+  "pdf_page": 275,
+  "printed": 271,
+  "zone": "foot",
+  "chars": 2180,
+  "first": "Friedrich Engels an Marie Blank"
+ },
+ {
+  "pdf_page": 276,
+  "printed": 272,
+  "zone": "foot",
+  "chars": 534,
+  "first": "Engels an Marie Blank · 15. Dezember 1851"
+ },
+ {
+  "pdf_page": 277,
+  "printed": 273,
+  "zone": "foot",
+  "chars": 2327,
+  "first": "Friedrich Engels an Karl Marx"
+ },
+ {
+  "pdf_page": 278,
+  "printed": 274,
+  "zone": "foot",
+  "chars": 1648,
+  "first": "Engels an Marx · 16. Dezember 1851"
+ },
+ {
+  "pdf_page": 279,
+  "printed": 275,
+  "zone": "foot",
+  "chars": 1175,
+  "first": "Friedrich Engels an Jenny Marx"
+ },
+ {
+  "pdf_page": 280,
+  "printed": 276,
+  "zone": "foot",
+  "chars": 2039,
+  "first": "Karl Marx an Joseph Weydemeyer"
+ },
+ {
+  "pdf_page": 281,
+  "printed": 277,
+  "zone": "foot",
+  "chars": 507,
+  "first": "Marx an Joseph Weydemeyer · 19. Dezember 1851"
+ },
+ {
+  "pdf_page": 282,
+  "printed": 278,
+  "zone": "foot",
+  "chars": 2072,
+  "first": "Karl Marx an Ferdinand Freiligrath"
+ },
+ {
+  "pdf_page": 283,
+  "printed": 279,
+  "zone": "foot",
+  "chars": 876,
+  "first": "Marx an Ferdinand Freiligrath · 27. Dezember 1851"
+ },
+ {
+  "pdf_page": 284,
+  "printed": null,
+  "zone": null,
+  "chars": 11,
+  "first": "A N H A N G"
+ },
+ {
+  "pdf_page": 285,
+  "printed": null,
+  "zone": null,
+  "chars": 84,
+  "first": "ERSTER TEIL"
+ },
+ {
+  "pdf_page": 286,
+  "printed": 285,
+  "zone": "foot",
+  "chars": 1650,
+  "first": "George Julian Harney an Friedrich Engels"
+ },
+ {
+  "pdf_page": 287,
+  "printed": 286,
+  "zone": "foot",
+  "chars": 2323,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 288,
+  "printed": 287,
+  "zone": "foot",
+  "chars": 638,
+  "first": "John M. Cameron an Friedrich Engels"
+ },
+ {
+  "pdf_page": 289,
+  "printed": 288,
+  "zone": "foot",
+  "chars": 2720,
+  "first": "Hermann Wilhelm Haupt an Karl Marx"
+ },
+ {
+  "pdf_page": 290,
+  "printed": 289,
+  "zone": "foot",
+  "chars": 1501,
+  "first": "Hermann Wilhelm Haupt an Marx · 12. Januar 1851"
+ },
+ {
+  "pdf_page": 291,
+  "printed": 290,
+  "zone": "foot",
+  "chars": 642,
+  "first": "Louis Bamberger an Karl Marx"
+ },
+ {
+  "pdf_page": 292,
+  "printed": 291,
+  "zone": "foot",
+  "chars": 2915,
+  "first": "Friedrich Engels (senior) an Friedrich Engels"
+ },
+ {
+  "pdf_page": 293,
+  "printed": 292,
+  "zone": "foot",
+  "chars": 3666,
+  "first": "Friedrich Engels (senior) an Engels · 22. Januar 1851"
+ },
+ {
+  "pdf_page": 294,
+  "printed": 293,
+  "zone": "foot",
+  "chars": 2060,
+  "first": "Friedrich Engels (senior) an Engels · 22. Januar 1851"
+ },
+ {
+  "pdf_page": 295,
+  "printed": 294,
+  "zone": "foot",
+  "chars": 561,
+  "first": "Jenny Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 296,
+  "printed": 295,
+  "zone": "foot",
+  "chars": 2877,
+  "first": "ψ'"
+ },
+ {
+  "pdf_page": 297,
+  "printed": 296,
+  "zone": "foot",
+  "chars": 2458,
+  "first": "Henryk Ludwik Miskowski an Marx · 24. Januar 1851"
+ },
+ {
+  "pdf_page": 298,
+  "printed": 297,
+  "zone": "foot",
+  "chars": 1095,
+  "first": "George Julian Harney an Friedrich Engels"
+ },
+ {
+  "pdf_page": 299,
+  "printed": 298,
+  "zone": "foot",
+  "chars": 2875,
+  "first": "Wilhelm Wolff an Karl Marx"
+ },
+ {
+  "pdf_page": 300,
+  "printed": 299,
+  "zone": "foot",
+  "chars": 3173,
+  "first": "Wilhelm Wolff an Marx · 25. Januar 1851"
+ },
+ {
+  "pdf_page": 301,
+  "printed": 300,
+  "zone": "foot",
+  "chars": 2753,
+  "first": "Hermann Heinrich Becker an Karl Marx"
+ },
+ {
+  "pdf_page": 302,
+  "printed": 301,
+  "zone": "foot",
+  "chars": 1136,
+  "first": "Hermann Heinrich Becker an Marx · 27. Januar 1851"
+ },
+ {
+  "pdf_page": 303,
+  "printed": 302,
+  "zone": "foot",
+  "chars": 1339,
+  "first": "Louis Bamberger an Karl Marx"
+ },
+ {
+  "pdf_page": 304,
+  "printed": 303,
+  "zone": "foot",
+  "chars": 374,
+  "first": "Hermann Heinrich Becker an Karl Marx"
+ },
+ {
+  "pdf_page": 305,
+  "printed": 304,
+  "zone": "foot",
+  "chars": 2754,
+  "first": "Hermann Wilhelm Haupt an Karl Marx"
+ },
+ {
+  "pdf_page": 306,
+  "printed": 305,
+  "zone": "foot",
+  "chars": 2611,
+  "first": "Hermann Wilhelm Haupt an Marx · 3. Februar 1851"
+ },
+ {
+  "pdf_page": 307,
+  "printed": 306,
+  "zone": "foot",
+  "chars": 562,
+  "first": "Pierre-François Landolphe an Karl Marx"
+ },
+ {
+  "pdf_page": 308,
+  "printed": 307,
+  "zone": "foot",
+  "chars": 2715,
+  "first": "Ernst Dronke an Karl Marx"
+ },
+ {
+  "pdf_page": 309,
+  "printed": 308,
+  "zone": "foot",
+  "chars": 2768,
+  "first": "Roland Daniels an Karl Marx"
+ },
+ {
+  "pdf_page": 310,
+  "printed": 309,
+  "zone": "foot",
+  "chars": 1650,
+  "first": "Roland Daniels an Marx • 8. Februar 1851"
+ },
+ {
+  "pdf_page": 311,
+  "printed": 310,
+  "zone": "foot",
+  "chars": 2671,
+  "first": "Johannes Miquel an Karl Marx"
+ },
+ {
+  "pdf_page": 312,
+  "printed": 311,
+  "zone": "foot",
+  "chars": 2007,
+  "first": "Johannes Miquel an Marx · 10. Februar 1851"
+ },
+ {
+  "pdf_page": 313,
+  "printed": 312,
+  "zone": "foot",
+  "chars": 2717,
+  "first": "Friedrich Engels (senior) an Friedrich Engels"
+ },
+ {
+  "pdf_page": 314,
+  "printed": 313,
+  "zone": "foot",
+  "chars": 310,
+  "first": "Friedrich Engels (senior) an Engels · 13. Februar 1851"
+ },
+ {
+  "pdf_page": 315,
+  "printed": 314,
+  "zone": "foot",
+  "chars": 2745,
+  "first": "Ferdinand Wolff an Friedrich Engels"
+ },
+ {
+  "pdf_page": 316,
+  "printed": 315,
+  "zone": "foot",
+  "chars": 3175,
+  "first": "Ferdinand Wolff an Engels · 25. Februar 1851"
+ },
+ {
+  "pdf_page": 317,
+  "printed": 316,
+  "zone": "foot",
+  "chars": 993,
+  "first": "Ferdinand Wolff an Engels · 25. Februar 1851"
+ },
+ {
+  "pdf_page": 318,
+  "printed": 317,
+  "zone": "foot",
+  "chars": 1152,
+  "first": "Eduard Ignaz Koch an Karl Marx"
+ },
+ {
+  "pdf_page": 319,
+  "printed": 318,
+  "zone": "foot",
+  "chars": 2775,
+  "first": "Conrad Schramm an Friedrich Engels"
+ },
+ {
+  "pdf_page": 320,
+  "printed": 319,
+  "zone": "foot",
+  "chars": 356,
+  "first": "Conrad Schramm an Engels • 26. Februar 1851"
+ },
+ {
+  "pdf_page": 321,
+  "printed": 320,
+  "zone": "foot",
+  "chars": 1549,
+  "first": "Roland Daniels an Karl Marx"
+ },
+ {
+  "pdf_page": 322,
+  "printed": 321,
+  "zone": "foot",
+  "chars": 535,
+  "first": "George Joseph Mantle an Friedrich Engels"
+ },
+ {
+  "pdf_page": 323,
+  "printed": 322,
+  "zone": "foot",
+  "chars": 1036,
+  "first": "Hermann Heinrich Becker an Karl Marx"
+ },
+ {
+  "pdf_page": 324,
+  "printed": 323,
+  "zone": "foot",
+  "chars": 728,
+  "first": "August Hermann Ewerbeck an Karl Marx"
+ },
+ {
+  "pdf_page": 325,
+  "printed": 324,
+  "zone": "foot",
+  "chars": 2620,
+  "first": "1"
+ },
+ {
+  "pdf_page": 326,
+  "printed": 325,
+  "zone": "foot",
+  "chars": 1909,
+  "first": "Fischer an Engels · 2. März 1851"
+ },
+ {
+  "pdf_page": 327,
+  "printed": 326,
+  "zone": "foot",
+  "chars": 2660,
+  "first": "Hermann Heinrich Becker an Karl Marx"
+ },
+ {
+  "pdf_page": 328,
+  "printed": 327,
+  "zone": "foot",
+  "chars": 1042,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 329,
+  "printed": 328,
+  "zone": "foot",
+  "chars": 2599,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 330,
+  "printed": 329,
+  "zone": "foot",
+  "chars": 763,
+  "first": "Georg Weerth an Engels · 3. März 1851"
+ },
+ {
+  "pdf_page": 331,
+  "printed": 330,
+  "zone": "foot",
+  "chars": 2590,
+  "first": "Georg Weerth an Karl Marx"
+ },
+ {
+  "pdf_page": 332,
+  "printed": 331,
+  "zone": "foot",
+  "chars": 3373,
+  "first": "Georg Weerth an Marx · 3. März 1851"
+ },
+ {
+  "pdf_page": 333,
+  "printed": 332,
+  "zone": "foot",
+  "chars": 3152,
+  "first": "Georg Weerth an Marx · 3. März 1851"
+ },
+ {
+  "pdf_page": 334,
+  "printed": 333,
+  "zone": "foot",
+  "chars": 807,
+  "first": "Georg Weerth an Marx • 3. März 1851"
+ },
+ {
+  "pdf_page": 335,
+  "printed": 334,
+  "zone": "foot",
+  "chars": 2694,
+  "first": "Hermann Heinrich Becker an Karl Marx"
+ },
+ {
+  "pdf_page": 336,
+  "printed": 335,
+  "zone": "foot",
+  "chars": 527,
+  "first": "Hermann Heinrich Becker an Marx · 16. März 1851"
+ },
+ {
+  "pdf_page": 337,
+  "printed": null,
+  "zone": null,
+  "chars": 53,
+  "first": "Roland Daniels an Marx, 25. März 1851"
+ },
+ {
+  "pdf_page": 338,
+  "printed": 336,
+  "zone": "foot",
+  "chars": 2746,
+  "first": "Roland Daniels an Karl Marx"
+ },
+ {
+  "pdf_page": 339,
+  "printed": 339,
+  "zone": "foot",
+  "chars": 3565,
+  "first": "Roland Daniels an Marx · 25. März 1851"
+ },
+ {
+  "pdf_page": 340,
+  "printed": 340,
+  "zone": "foot",
+  "chars": 3208,
+  "first": "Roland Daniels an Marx · 25. März 1851"
+ },
+ {
+  "pdf_page": 341,
+  "printed": 341,
+  "zone": "foot",
+  "chars": 432,
+  "first": "Roland Daniels an Marx · 25. März 1851"
+ },
+ {
+  "pdf_page": 342,
+  "printed": 342,
+  "zone": "foot",
+  "chars": 2635,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 343,
+  "printed": 343,
+  "zone": "foot",
+  "chars": 1579,
+  "first": "w"
+ },
+ {
+  "pdf_page": 344,
+  "printed": 344,
+  "zone": "foot",
+  "chars": 1519,
+  "first": "Hermann Heinrich Becker an Karl Marx"
+ },
+ {
+  "pdf_page": 345,
+  "printed": 345,
+  "zone": "foot",
+  "chars": 2719,
+  "first": "ψ"
+ },
+ {
+  "pdf_page": 346,
+  "printed": 346,
+  "zone": "foot",
+  "chars": 898,
+  "first": "Roland Daniels an Marx · 5. April 1851"
+ },
+ {
+  "pdf_page": 347,
+  "printed": 347,
+  "zone": "foot",
+  "chars": 2717,
+  "first": "Wilhelm Wolff an Friedrich Engels"
+ },
+ {
+  "pdf_page": 348,
+  "printed": 348,
+  "zone": "foot",
+  "chars": 1059,
+  "first": "Wilhelm Wolff an Engels • 5. April 1851"
+ },
+ {
+  "pdf_page": 349,
+  "printed": 349,
+  "zone": "foot",
+  "chars": 2610,
+  "first": "Wilhelm Wolff an Karl Marx"
+ },
+ {
+  "pdf_page": 350,
+  "printed": 350,
+  "zone": "foot",
+  "chars": 263,
+  "first": "Wilhelm Wolff an Marx · 5. April 1851"
+ },
+ {
+  "pdf_page": 351,
+  "printed": 351,
+  "zone": "foot",
+  "chars": 2755,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 352,
+  "printed": 352,
+  "zone": "foot",
+  "chars": 687,
+  "first": "Elisabeth Engels an Engels · 10. April 1851"
+ },
+ {
+  "pdf_page": 353,
+  "printed": 353,
+  "zone": "foot",
+  "chars": 287,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 354,
+  "printed": 354,
+  "zone": "foot",
+  "chars": 890,
+  "first": "Georg Weerth an Karl Marx"
+ },
+ {
+  "pdf_page": 355,
+  "printed": 355,
+  "zone": "foot",
+  "chars": 2511,
+  "first": "Roland Daniels an Karl Marx"
+ },
+ {
+  "pdf_page": 356,
+  "printed": 356,
+  "zone": "foot",
+  "chars": 3407,
+  "first": "Roland Daniels an Marx · 12.-13. April 1851"
+ },
+ {
+  "pdf_page": 357,
+  "printed": 357,
+  "zone": "foot",
+  "chars": 1642,
+  "first": "Roland Daniels an Marx · 12.-13. April 1851"
+ },
+ {
+  "pdf_page": 358,
+  "printed": 358,
+  "zone": "foot",
+  "chars": 451,
+  "first": "S. Bergel an Karl Marx"
+ },
+ {
+  "pdf_page": 359,
+  "printed": 359,
+  "zone": "foot",
+  "chars": 2040,
+  "first": "r"
+ },
+ {
+  "pdf_page": 360,
+  "printed": 360,
+  "zone": "foot",
+  "chars": 2891,
+  "first": "Roland Daniels an Karl Marx"
+ },
+ {
+  "pdf_page": 361,
+  "printed": 361,
+  "zone": "foot",
+  "chars": 3700,
+  "first": "Roland Daniels an Marx • 24. April 1851"
+ },
+ {
+  "pdf_page": 362,
+  "printed": 362,
+  "zone": "foot",
+  "chars": 3335,
+  "first": "Roland Daniels an Marx · 24. April 1851"
+ },
+ {
+  "pdf_page": 363,
+  "printed": 363,
+  "zone": "foot",
+  "chars": 3553,
+  "first": "Roland Daniels an Marx • 24. April 1851"
+ },
+ {
+  "pdf_page": 364,
+  "printed": 364,
+  "zone": "foot",
+  "chars": 2518,
+  "first": "Roland Daniels an Marx · 24. April 1851"
+ },
+ {
+  "pdf_page": 365,
+  "printed": 365,
+  "zone": "foot",
+  "chars": 1332,
+  "first": "Roland Daniels an Karl Marx"
+ },
+ {
+  "pdf_page": 366,
+  "printed": 366,
+  "zone": "foot",
+  "chars": 2654,
+  "first": "Georg Weerth an Karl Marx"
+ },
+ {
+  "pdf_page": 367,
+  "printed": 367,
+  "zone": "foot",
+  "chars": 1490,
+  "first": "r"
+ },
+ {
+  "pdf_page": 368,
+  "printed": 368,
+  "zone": "foot",
+  "chars": 1532,
+  "first": "Hermann Heinrich Becker an Karl Marx"
+ },
+ {
+  "pdf_page": 369,
+  "printed": 369,
+  "zone": "foot",
+  "chars": 2794,
+  "first": "Friedrich Engels (senior) an Friedrich Engels"
+ },
+ {
+  "pdf_page": 370,
+  "printed": 370,
+  "zone": "foot",
+  "chars": 3478,
+  "first": "Friedrich Engels (senior) an Engels · I.Mai 1851"
+ },
+ {
+  "pdf_page": 371,
+  "printed": 371,
+  "zone": "foot",
+  "chars": 1362,
+  "first": "Friedrich Engels (senior) an Engels · I.Mai 1851"
+ },
+ {
+  "pdf_page": 372,
+  "printed": 372,
+  "zone": "foot",
+  "chars": 2672,
+  "first": "Wilhelm Pieper an Friedrich Engels"
+ },
+ {
+  "pdf_page": 373,
+  "printed": 373,
+  "zone": "foot",
+  "chars": 3415,
+  "first": "Wilhelm Pieper an Engels · 4. Mai 1851"
+ },
+ {
+  "pdf_page": 374,
+  "printed": 374,
+  "zone": "foot",
+  "chars": 233,
+  "first": "Wilhelm Pieper an Engels -4. Mai 1851"
+ },
+ {
+  "pdf_page": 375,
+  "printed": 375,
+  "zone": "foot",
+  "chars": 1788,
+  "first": "Hermann Heinrich Becker an Karl Marx"
+ },
+ {
+  "pdf_page": 376,
+  "printed": 376,
+  "zone": "foot",
+  "chars": 2107,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 377,
+  "printed": 377,
+  "zone": "foot",
+  "chars": 2750,
+  "first": "Ferdinand Lassalle an Karl Marx"
+ },
+ {
+  "pdf_page": 378,
+  "printed": 378,
+  "zone": "foot",
+  "chars": 2661,
+  "first": "Ferdinand Lassalle an Marx · 12. Mai 1851"
+ },
+ {
+  "pdf_page": 379,
+  "printed": 379,
+  "zone": "foot",
+  "chars": 508,
+  "first": "Louis Bamberger an Karl Marx"
+ },
+ {
+  "pdf_page": 380,
+  "printed": 380,
+  "zone": "foot",
+  "chars": 2014,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 381,
+  "printed": 381,
+  "zone": "foot",
+  "chars": 1105,
+  "first": "Hermann Wilhelm Haupt an Karl Marx"
+ },
+ {
+  "pdf_page": 382,
+  "printed": 382,
+  "zone": "foot",
+  "chars": 608,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 383,
+  "printed": null,
+  "zone": null,
+  "chars": 49,
+  "first": "Ernest Jones an Marx, 23. Mai 1851"
+ },
+ {
+  "pdf_page": 384,
+  "printed": null,
+  "zone": null,
+  "chars": 2664,
+  "first": "Roland Daniels an Karl Marx"
+ },
+ {
+  "pdf_page": 385,
+  "printed": null,
+  "zone": null,
+  "chars": 3445,
+  "first": "Roland Daniels an Marx · 25. Mai 1851"
+ },
+ {
+  "pdf_page": 386,
+  "printed": null,
+  "zone": null,
+  "chars": 1011,
+  "first": "Roland Daniels an Marx · 25. Mai 1851"
+ },
+ {
+  "pdf_page": 387,
+  "printed": null,
+  "zone": null,
+  "chars": 816,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 388,
+  "printed": null,
+  "zone": null,
+  "chars": 1862,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 389,
+  "printed": null,
+  "zone": null,
+  "chars": 482,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 390,
+  "printed": null,
+  "zone": null,
+  "chars": 2473,
+  "first": "Roland Daniels an Karl Marx"
+ },
+ {
+  "pdf_page": 391,
+  "printed": null,
+  "zone": null,
+  "chars": 52,
+  "first": "Roland Daniels an Marx, 1. Juni 1851"
+ },
+ {
+  "pdf_page": 392,
+  "printed": 392,
+  "zone": "foot",
+  "chars": 3493,
+  "first": "Roland Daniels an Marx · 1. Juni 1851"
+ },
+ {
+  "pdf_page": 393,
+  "printed": null,
+  "zone": null,
+  "chars": 3000,
+  "first": "Roland Daniels an Marx · I.Juni 1851"
+ },
+ {
+  "pdf_page": 394,
+  "printed": null,
+  "zone": null,
+  "chars": 504,
+  "first": "Roland Daniels an Marx · 1. Juni 1851"
+ },
+ {
+  "pdf_page": 395,
+  "printed": null,
+  "zone": null,
+  "chars": 916,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 396,
+  "printed": null,
+  "zone": null,
+  "chars": 2810,
+  "first": "Joseph Weydemeyer an Karl Marx"
+ },
+ {
+  "pdf_page": 397,
+  "printed": null,
+  "zone": null,
+  "chars": 2167,
+  "first": "Joseph Weydemeyer an Marx · lO.Juni 1851"
+ },
+ {
+  "pdf_page": 398,
+  "printed": null,
+  "zone": null,
+  "chars": 1715,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 399,
+  "printed": null,
+  "zone": null,
+  "chars": 2726,
+  "first": "p.:"
+ },
+ {
+  "pdf_page": 400,
+  "printed": null,
+  "zone": null,
+  "chars": 632,
+  "first": "Wilhelm Pieper an Engels · 21. Juni 1851"
+ },
+ {
+  "pdf_page": 401,
+  "printed": 403,
+  "zone": "foot",
+  "chars": 2582,
+  "first": "Adolf Bermbach an Karl Marx"
+ },
+ {
+  "pdf_page": 402,
+  "printed": 404,
+  "zone": "foot",
+  "chars": 3596,
+  "first": "Adolf Bermbach an Marx -24. Juni 1851"
+ },
+ {
+  "pdf_page": 403,
+  "printed": 405,
+  "zone": "foot",
+  "chars": 3136,
+  "first": "Adolf Bermbach an Marx · 24. Juni 1851"
+ },
+ {
+  "pdf_page": 404,
+  "printed": 406,
+  "zone": "foot",
+  "chars": 2652,
+  "first": "Ferdinand Lassalle an Karl Marx"
+ },
+ {
+  "pdf_page": 405,
+  "printed": 407,
+  "zone": "foot",
+  "chars": 3641,
+  "first": "Ferdinand Lassalle an Marx · 26. Juni 1851"
+ },
+ {
+  "pdf_page": 406,
+  "printed": 408,
+  "zone": "foot",
+  "chars": 1773,
+  "first": "Ferdinand Lassalle an Marx · 26. Juni 1851"
+ },
+ {
+  "pdf_page": 407,
+  "printed": 409,
+  "zone": "foot",
+  "chars": 1964,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 408,
+  "printed": 410,
+  "zone": "foot",
+  "chars": 1274,
+  "first": "Friedrich Engels (senior) an Friedrich Engels"
+ },
+ {
+  "pdf_page": 409,
+  "printed": 411,
+  "zone": "foot",
+  "chars": 669,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 410,
+  "printed": 412,
+  "zone": "foot",
+  "chars": 2561,
+  "first": "Ferdinand Lassalle an Karl Marx"
+ },
+ {
+  "pdf_page": 411,
+  "printed": 413,
+  "zone": "foot",
+  "chars": 761,
+  "first": "Ferdinand Lassalle an Marx · 3. Juli 1851"
+ },
+ {
+  "pdf_page": 412,
+  "printed": 414,
+  "zone": "foot",
+  "chars": 2852,
+  "first": "Joseph Weydemeyer an Karl Marx"
+ },
+ {
+  "pdf_page": 413,
+  "printed": 415,
+  "zone": "foot",
+  "chars": 3629,
+  "first": "Joseph Weydemeyer an Marx · 5. Juli 1851"
+ },
+ {
+  "pdf_page": 414,
+  "printed": 416,
+  "zone": "foot",
+  "chars": 3315,
+  "first": "Joseph Weydemeyer an Marx · 5. Juli 1851"
+ },
+ {
+  "pdf_page": 415,
+  "printed": 417,
+  "zone": "foot",
+  "chars": 801,
+  "first": "Γ"
+ },
+ {
+  "pdf_page": 416,
+  "printed": 418,
+  "zone": "foot",
+  "chars": 2526,
+  "first": "Wilhelm Strohn an Karl Marx"
+ },
+ {
+  "pdf_page": 417,
+  "printed": 419,
+  "zone": "foot",
+  "chars": 264,
+  "first": "Wilhelm Strohn an Marx · 7. Juli 1851"
+ },
+ {
+  "pdf_page": 418,
+  "printed": 420,
+  "zone": "foot",
+  "chars": 1509,
+  "first": "f f"
+ },
+ {
+  "pdf_page": 419,
+  "printed": 421,
+  "zone": "foot",
+  "chars": 2968,
+  "first": "Adolf Bermbach an Karl Marx"
+ },
+ {
+  "pdf_page": 420,
+  "printed": 422,
+  "zone": "foot",
+  "chars": 3317,
+  "first": "Adolf Bermbach an Marx · um den 10. Juli 1851"
+ },
+ {
+  "pdf_page": 421,
+  "printed": 423,
+  "zone": "foot",
+  "chars": 1027,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 422,
+  "printed": 424,
+  "zone": "foot",
+  "chars": 2748,
+  "first": "Ferdinand Lassalle an Karl Marx"
+ },
+ {
+  "pdf_page": 423,
+  "printed": 425,
+  "zone": "foot",
+  "chars": 1813,
+  "first": "Ferdinand Lassalle an Marx · 19. Juli 1851"
+ },
+ {
+  "pdf_page": 424,
+  "printed": 426,
+  "zone": "foot",
+  "chars": 684,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 425,
+  "printed": 427,
+  "zone": "foot",
+  "chars": 981,
+  "first": "Louis Bamberger an Karl Marx"
+ },
+ {
+  "pdf_page": 426,
+  "printed": 428,
+  "zone": "foot",
+  "chars": 2741,
+  "first": "Richard Reinhardt an Karl Marx"
+ },
+ {
+  "pdf_page": 427,
+  "printed": 429,
+  "zone": "foot",
+  "chars": 1836,
+  "first": "Richard Reinhardt an Marx · 23. Juli 1851"
+ },
+ {
+  "pdf_page": 428,
+  "printed": 430,
+  "zone": "foot",
+  "chars": 2029,
+  "first": "Joseph Weydemeyer an Karl Marx"
+ },
+ {
+  "pdf_page": 429,
+  "printed": 431,
+  "zone": "foot",
+  "chars": 659,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 430,
+  "printed": 432,
+  "zone": "foot",
+  "chars": 2506,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 431,
+  "printed": 433,
+  "zone": "foot",
+  "chars": 642,
+  "first": "August Hain an Friedrich Engels"
+ },
+ {
+  "pdf_page": 432,
+  "printed": 434,
+  "zone": "foot",
+  "chars": 1633,
+  "first": "Wilhelm Wolff an Friedrich Engels"
+ },
+ {
+  "pdf_page": 433,
+  "printed": 435,
+  "zone": "foot",
+  "chars": 245,
+  "first": "Edward Pindar an Karl Marx"
+ },
+ {
+  "pdf_page": 434,
+  "printed": 436,
+  "zone": "foot",
+  "chars": 2805,
+  "first": "Adolf Bermbach an Karl Marx"
+ },
+ {
+  "pdf_page": 435,
+  "printed": 437,
+  "zone": "foot",
+  "chars": 3730,
+  "first": "Adolf Bermbach an Marx · 18. August 1851"
+ },
+ {
+  "pdf_page": 436,
+  "printed": 438,
+  "zone": "foot",
+  "chars": 1187,
+  "first": "f"
+ },
+ {
+  "pdf_page": 437,
+  "printed": 439,
+  "zone": "foot",
+  "chars": 743,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 438,
+  "printed": 440,
+  "zone": "foot",
+  "chars": 1250,
+  "first": "Georg Weerth an Karl Marx"
+ },
+ {
+  "pdf_page": 439,
+  "printed": 441,
+  "zone": "foot",
+  "chars": 1488,
+  "first": "Georg Weerth an Karl Marx"
+ },
+ {
+  "pdf_page": 440,
+  "printed": 442,
+  "zone": "foot",
+  "chars": 622,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 441,
+  "printed": 443,
+  "zone": "foot",
+  "chars": 1088,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 442,
+  "printed": 444,
+  "zone": "foot",
+  "chars": 659,
+  "first": "Hoffmann & Campe an Karl Marx"
+ },
+ {
+  "pdf_page": 443,
+  "printed": 445,
+  "zone": "foot",
+  "chars": 1320,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 444,
+  "printed": 446,
+  "zone": "foot",
+  "chars": 511,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 445,
+  "printed": 447,
+  "zone": "foot",
+  "chars": 2786,
+  "first": "Ernst Dronke an Karl Marx"
+ },
+ {
+  "pdf_page": 446,
+  "printed": 448,
+  "zone": "foot",
+  "chars": 3693,
+  "first": "Ernst Dronke an Marx · vor dem 30. August 1851"
+ },
+ {
+  "pdf_page": 447,
+  "printed": 449,
+  "zone": "foot",
+  "chars": 1786,
+  "first": "Ernst Dronke an Marx · vor dem 30. August 1851"
+ },
+ {
+  "pdf_page": 448,
+  "printed": 450,
+  "zone": "foot",
+  "chars": 2825,
+  "first": "Joseph Weydemeyer an Karl Marx"
+ },
+ {
+  "pdf_page": 449,
+  "printed": null,
+  "zone": null,
+  "chars": 57,
+  "first": "Joseph Weydemeyer an Marx, 30. August 1851"
+ },
+ {
+  "pdf_page": 450,
+  "printed": 453,
+  "zone": "foot",
+  "chars": 655,
+  "first": "Joseph Weydemeyer an Marx · 30. August 1851"
+ },
+ {
+  "pdf_page": 451,
+  "printed": 454,
+  "zone": "foot",
+  "chars": 2831,
+  "first": "Joseph Weydemeyer an Friedrich Engels"
+ },
+ {
+  "pdf_page": 452,
+  "printed": 455,
+  "zone": "foot",
+  "chars": 1677,
+  "first": "Joseph Weydemeyer an Engels · 30. August—1. September 1851"
+ },
+ {
+  "pdf_page": 453,
+  "printed": 456,
+  "zone": "foot",
+  "chars": 2734,
+  "first": "Johannes Miquel an Karl Marx"
+ },
+ {
+  "pdf_page": 454,
+  "printed": 457,
+  "zone": "foot",
+  "chars": 3630,
+  "first": "Johannes Miquel an Marx - nicht früher als August 1851"
+ },
+ {
+  "pdf_page": 455,
+  "printed": 458,
+  "zone": "foot",
+  "chars": 1862,
+  "first": "Johannes Miquel an Marx - nicht früher als August 1851"
+ },
+ {
+  "pdf_page": 456,
+  "printed": 459,
+  "zone": "foot",
+  "chars": 2269,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 457,
+  "printed": 460,
+  "zone": "foot",
+  "chars": 2983,
+  "first": "Nikolai Iwanowitsch Sasonow an Karl Marx"
+ },
+ {
+  "pdf_page": 458,
+  "printed": 461,
+  "zone": "foot",
+  "chars": 804,
+  "first": "Nikolai Iwanowitsch Sasonow an Marx · 10. September 1851"
+ },
+ {
+  "pdf_page": 459,
+  "printed": 462,
+  "zone": "foot",
+  "chars": 1655,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 460,
+  "printed": 463,
+  "zone": "foot",
+  "chars": 880,
+  "first": "Werner von Veltheim an Karl Marx"
+ },
+ {
+  "pdf_page": 461,
+  "printed": 464,
+  "zone": "foot",
+  "chars": 2868,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 462,
+  "printed": 465,
+  "zone": "foot",
+  "chars": 1133,
+  "first": "Elisabeth Engels an Engels • 26. September 1851"
+ },
+ {
+  "pdf_page": 463,
+  "printed": 466,
+  "zone": "foot",
+  "chars": 627,
+  "first": "G.C. Lorenz Meyer an Karl Marx"
+ },
+ {
+  "pdf_page": 464,
+  "printed": 467,
+  "zone": "foot",
+  "chars": 2812,
+  "first": "Fischer an Friedrich Engels"
+ },
+ {
+  "pdf_page": 465,
+  "printed": 468,
+  "zone": "foot",
+  "chars": 1029,
+  "first": "Fischer an Engels · 28. September 1851"
+ },
+ {
+  "pdf_page": 466,
+  "printed": null,
+  "zone": null,
+  "chars": 52,
+  "first": "Fischer an Engels, 28. September 1851"
+ },
+ {
+  "pdf_page": 467,
+  "printed": 471,
+  "zone": "foot",
+  "chars": 2636,
+  "first": "Joseph Weydemeyer an Karl Marx"
+ },
+ {
+  "pdf_page": 468,
+  "printed": 472,
+  "zone": "foot",
+  "chars": 988,
+  "first": "Joseph Weydemeyer an Marx • 28. September 1851"
+ },
+ {
+  "pdf_page": 469,
+  "printed": 473,
+  "zone": "foot",
+  "chars": 2600,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 470,
+  "printed": 474,
+  "zone": "foot",
+  "chars": 858,
+  "first": "Ferdinand Freiligrath an Marx • 2. Oktober 1851"
+ },
+ {
+  "pdf_page": 471,
+  "printed": 475,
+  "zone": "foot",
+  "chars": 929,
+  "first": "Ernest Charles Jones an Karl Marx"
+ },
+ {
+  "pdf_page": 472,
+  "printed": 476,
+  "zone": "foot",
+  "chars": 1333,
+  "first": "Ernst Dronke an Karl Marx"
+ },
+ {
+  "pdf_page": 473,
+  "printed": 477,
+  "zone": "foot",
+  "chars": 890,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 474,
+  "printed": 478,
+  "zone": "foot",
+  "chars": 1408,
+  "first": "August Hermann Ewerbeck an Karl Marx"
+ },
+ {
+  "pdf_page": 475,
+  "printed": 479,
+  "zone": "foot",
+  "chars": 612,
+  "first": "Karl Blind an Karl Marx"
+ },
+ {
+  "pdf_page": 476,
+  "printed": 480,
+  "zone": "foot",
+  "chars": 1637,
+  "first": "Jean-Ambroise Lyaz an Karl Marx"
+ },
+ {
+  "pdf_page": 477,
+  "printed": 481,
+  "zone": "foot",
+  "chars": 522,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 478,
+  "printed": 482,
+  "zone": "foot",
+  "chars": 602,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 479,
+  "printed": 483,
+  "zone": "foot",
+  "chars": 2783,
+  "first": "Adolf Bermbach an Karl Marx"
+ },
+ {
+  "pdf_page": 480,
+  "printed": 484,
+  "zone": "foot",
+  "chars": 2650,
+  "first": "Adolf Bermbach an Marx · 22. Oktober 1851"
+ },
+ {
+  "pdf_page": 481,
+  "printed": 485,
+  "zone": "foot",
+  "chars": 546,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 482,
+  "printed": 486,
+  "zone": "foot",
+  "chars": 2821,
+  "first": "Wilhelm Pieper an Karl Marx"
+ },
+ {
+  "pdf_page": 483,
+  "printed": 487,
+  "zone": "foot",
+  "chars": 3667,
+  "first": "Wilhelm Pieper an Marx • 24. Oktober 1851"
+ },
+ {
+  "pdf_page": 484,
+  "printed": 488,
+  "zone": "foot",
+  "chars": 2477,
+  "first": "Wilhelm Pieper an Marx · 24. Oktober 1851"
+ },
+ {
+  "pdf_page": 485,
+  "printed": 489,
+  "zone": "foot",
+  "chars": 1107,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 486,
+  "printed": 490,
+  "zone": "foot",
+  "chars": 3090,
+  "first": "Hermann Ebner an Karl Marx"
+ },
+ {
+  "pdf_page": 487,
+  "printed": 491,
+  "zone": "foot",
+  "chars": 2731,
+  "first": "Wilhelm Pieper an Karl Marx"
+ },
+ {
+  "pdf_page": 488,
+  "printed": 492,
+  "zone": "foot",
+  "chars": 3776,
+  "first": "Wilhelm Pieper an Marx · 6. oder 7. November 1851"
+ },
+ {
+  "pdf_page": 489,
+  "printed": 493,
+  "zone": "foot",
+  "chars": 3694,
+  "first": "Wilhelm Pieper an Marx · 6. oder 7. November 1851"
+ },
+ {
+  "pdf_page": 490,
+  "printed": 494,
+  "zone": "foot",
+  "chars": 3126,
+  "first": "Wilhelm Pieper an Marx • 6. oder 7. November 1851"
+ },
+ {
+  "pdf_page": 491,
+  "printed": 495,
+  "zone": "foot",
+  "chars": 880,
+  "first": "Wilhelm Pieper an Marx · 6. oder 7. November 1851"
+ },
+ {
+  "pdf_page": 492,
+  "printed": 496,
+  "zone": "foot",
+  "chars": 1081,
+  "first": "τ"
+ },
+ {
+  "pdf_page": 493,
+  "printed": 497,
+  "zone": "foot",
+  "chars": 2753,
+  "first": "Wilhelm Pieper an Karl Marx"
+ },
+ {
+  "pdf_page": 494,
+  "printed": 498,
+  "zone": "foot",
+  "chars": 3556,
+  "first": "Wilhelm Pieper an Marx • 17. November 1851"
+ },
+ {
+  "pdf_page": 495,
+  "printed": 499,
+  "zone": "foot",
+  "chars": 1911,
+  "first": "Wilhelm Pieper an Marx · 17. November 1851"
+ },
+ {
+  "pdf_page": 496,
+  "printed": 500,
+  "zone": "foot",
+  "chars": 1451,
+  "first": "Wilhelm Pieper an Marx · 17. November 1851"
+ },
+ {
+  "pdf_page": 497,
+  "printed": 501,
+  "zone": "foot",
+  "chars": 885,
+  "first": "Wilhelm Pieper an Marx · 17. November 1851"
+ },
+ {
+  "pdf_page": 498,
+  "printed": 502,
+  "zone": "foot",
+  "chars": 2841,
+  "first": "Hermann Ebner an Karl Marx"
+ },
+ {
+  "pdf_page": 499,
+  "printed": 503,
+  "zone": "foot",
+  "chars": 1134,
+  "first": "Hermann Ebner an Marx • 18. November 1851"
+ },
+ {
+  "pdf_page": 500,
+  "printed": 504,
+  "zone": "foot",
+  "chars": 1577,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 501,
+  "printed": 505,
+  "zone": "foot",
+  "chars": 852,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 502,
+  "printed": 506,
+  "zone": "foot",
+  "chars": 2866,
+  "first": "Wilhelm Pieper an Karl Marx"
+ },
+ {
+  "pdf_page": 503,
+  "printed": 507,
+  "zone": "foot",
+  "chars": 1211,
+  "first": "Wilhelm Pieper an Marx • 28. November 1851"
+ },
+ {
+  "pdf_page": 504,
+  "printed": 508,
+  "zone": "foot",
+  "chars": 767,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 505,
+  "printed": 509,
+  "zone": "foot",
+  "chars": 2778,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 506,
+  "printed": 510,
+  "zone": "foot",
+  "chars": 2736,
+  "first": "Wilhelm Pieper an Karl Marx"
+ },
+ {
+  "pdf_page": 507,
+  "printed": 511,
+  "zone": "foot",
+  "chars": 693,
+  "first": "Wilhelm Pieper an Marx · 1. Dezember 1851"
+ },
+ {
+  "pdf_page": 508,
+  "printed": 512,
+  "zone": "foot",
+  "chars": 2860,
+  "first": "Joseph Weydemeyer an Friedrich Engels"
+ },
+ {
+  "pdf_page": 509,
+  "printed": 513,
+  "zone": "foot",
+  "chars": 3664,
+  "first": "Joseph Weydemeyer an Engels · 1. Dezember 1851"
+ },
+ {
+  "pdf_page": 510,
+  "printed": 514,
+  "zone": "foot",
+  "chars": 3646,
+  "first": "Joseph Weydemeyer an Engels · 1. Dezember 1851"
+ },
+ {
+  "pdf_page": 511,
+  "printed": 515,
+  "zone": "foot",
+  "chars": 3679,
+  "first": "Joseph Weydemeyer an Engels · 1. Dezember 1851"
+ },
+ {
+  "pdf_page": 512,
+  "printed": 516,
+  "zone": "foot",
+  "chars": 2400,
+  "first": "Joseph Weydemeyer an Engels · 1. Dezember 1851"
+ },
+ {
+  "pdf_page": 513,
+  "printed": 517,
+  "zone": "foot",
+  "chars": 2858,
+  "first": "Richard Reinhardt an Karl Marx"
+ },
+ {
+  "pdf_page": 514,
+  "printed": 518,
+  "zone": "foot",
+  "chars": 3696,
+  "first": "Richard Reinhardt an Marx · 4. Dezember 1851"
+ },
+ {
+  "pdf_page": 515,
+  "printed": 519,
+  "zone": "foot",
+  "chars": 1893,
+  "first": "Richard Reinhardt an Marx · 4. Dezember 1851"
+ },
+ {
+  "pdf_page": 516,
+  "printed": 520,
+  "zone": "foot",
+  "chars": 1313,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 517,
+  "printed": 521,
+  "zone": "foot",
+  "chars": 2796,
+  "first": "Richard Reinhardt an Karl Marx"
+ },
+ {
+  "pdf_page": 518,
+  "printed": 522,
+  "zone": "foot",
+  "chars": 3791,
+  "first": "Richard Reinhardt an Marx · 6. Dezember 1851"
+ },
+ {
+  "pdf_page": 519,
+  "printed": 523,
+  "zone": "foot",
+  "chars": 3097,
+  "first": "Richard Reinhardt an Marx · 6. Dezember 1851"
+ },
+ {
+  "pdf_page": 520,
+  "printed": 524,
+  "zone": "foot",
+  "chars": 2681,
+  "first": "Wilhelm Pieper an Friedrich Engels"
+ },
+ {
+  "pdf_page": 521,
+  "printed": 525,
+  "zone": "foot",
+  "chars": 1336,
+  "first": "Wilhelm Pieper an Engels · 7. Dezember 1851"
+ },
+ {
+  "pdf_page": 522,
+  "printed": 526,
+  "zone": "foot",
+  "chars": 2711,
+  "first": "Joseph Weydemeyer an Karl Marx"
+ },
+ {
+  "pdf_page": 523,
+  "printed": 527,
+  "zone": "foot",
+  "chars": 3272,
+  "first": "Joseph Weydemeyer an Marx · 10. und 13. Dezember 1851"
+ },
+ {
+  "pdf_page": 524,
+  "printed": 528,
+  "zone": "foot",
+  "chars": 3252,
+  "first": "Joseph Weydemeyer an Marx · 10. und 13. Dezember 1851"
+ },
+ {
+  "pdf_page": 525,
+  "printed": 529,
+  "zone": "foot",
+  "chars": 1184,
+  "first": "Joseph Weydemeyer an Marx · 10. und 13. Dezember 1851"
+ },
+ {
+  "pdf_page": 526,
+  "printed": 530,
+  "zone": "foot",
+  "chars": 2702,
+  "first": "Ferdinand Lassalle und Sophie von Hatzfeldt an Karl Marx"
+ },
+ {
+  "pdf_page": 527,
+  "printed": 531,
+  "zone": "foot",
+  "chars": 3710,
+  "first": "Ferdinand Lassalle und Sophie von Hatzfeldt an Marx · 12. Dezember 185"
+ },
+ {
+  "pdf_page": 528,
+  "printed": 532,
+  "zone": "foot",
+  "chars": 3622,
+  "first": "Ferdinand Lassalle und Sophie von Hatzfeldt an Marx · 12. Dezember 185"
+ },
+ {
+  "pdf_page": 529,
+  "printed": 533,
+  "zone": "foot",
+  "chars": 1187,
+  "first": "Ferdinand Lassalle und Sophie von Hatzfeldt an Marx · 12. Dezember 185"
+ },
+ {
+  "pdf_page": 530,
+  "printed": 534,
+  "zone": "foot",
+  "chars": 396,
+  "first": "Georg Weerth an Friedrich Engels"
+ },
+ {
+  "pdf_page": 531,
+  "printed": 535,
+  "zone": "foot",
+  "chars": 2853,
+  "first": "Elisabeth Engels an Friedrich Engels"
+ },
+ {
+  "pdf_page": 532,
+  "printed": 536,
+  "zone": "foot",
+  "chars": 1273,
+  "first": "Elisabeth Engels an Engels · 13. Dezember 1851"
+ },
+ {
+  "pdf_page": 533,
+  "printed": null,
+  "zone": null,
+  "chars": 63,
+  "first": "Charles Anderson Dana an Marx, 16. Dezember 1851"
+ },
+ {
+  "pdf_page": 534,
+  "printed": 538,
+  "zone": "foot",
+  "chars": 1594,
+  "first": "Charles Anderson Dana an Karl Marx"
+ },
+ {
+  "pdf_page": 535,
+  "printed": 539,
+  "zone": "foot",
+  "chars": 746,
+  "first": "jenny Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 536,
+  "printed": 540,
+  "zone": "foot",
+  "chars": 1355,
+  "first": "Jenny Marx an Friedrich Engels"
+ },
+ {
+  "pdf_page": 537,
+  "printed": 541,
+  "zone": "foot",
+  "chars": 2795,
+  "first": "Adolf Cluß an Karl Marx"
+ },
+ {
+  "pdf_page": 538,
+  "printed": 542,
+  "zone": "foot",
+  "chars": 1801,
+  "first": "Adolf Cluß an Marx · etwa 20. Dezember 1851"
+ },
+ {
+  "pdf_page": 539,
+  "printed": null,
+  "zone": null,
+  "chars": 57,
+  "first": "Adolf Cluß an Marx, etwa 20. Dezember 1851"
+ },
+ {
+  "pdf_page": 540,
+  "printed": 545,
+  "zone": "foot",
+  "chars": 309,
+  "first": "John Pettie an Karl Marx"
+ },
+ {
+  "pdf_page": 541,
+  "printed": 546,
+  "zone": "foot",
+  "chars": 2887,
+  "first": "Hermann Ebner an Karl Marx"
+ },
+ {
+  "pdf_page": 542,
+  "printed": 547,
+  "zone": "foot",
+  "chars": 2803,
+  "first": "Richard Reinhardt an Karl Marx"
+ },
+ {
+  "pdf_page": 543,
+  "printed": 548,
+  "zone": "foot",
+  "chars": 3717,
+  "first": "Richard Reinhardt an Marx • 30. Dezember 1851"
+ },
+ {
+  "pdf_page": 544,
+  "printed": 549,
+  "zone": "foot",
+  "chars": 3127,
+  "first": "Richard Reinhardt an Marx · 30. Dezember 1851"
+ },
+ {
+  "pdf_page": 545,
+  "printed": 550,
+  "zone": "foot",
+  "chars": 930,
+  "first": "Ferdinand Freiligrath an Karl Marx"
+ },
+ {
+  "pdf_page": 546,
+  "printed": null,
+  "zone": null,
+  "chars": 147,
+  "first": "ZWEITER TEIL"
+ },
+ {
+  "pdf_page": 547,
+  "printed": 553,
+  "zone": "foot",
+  "chars": 424,
+  "first": "Conrad Schramm an Henryk Ludwik Miskowski"
+ },
+ {
+  "pdf_page": 548,
+  "printed": 554,
+  "zone": "foot",
+  "chars": 765,
+  "first": "Darlegung des Briefes von Karl Marx"
+ },
+ {
+  "pdf_page": 549,
+  "printed": 555,
+  "zone": "foot",
+  "chars": 1397,
+  "first": "Jenny Marx an Karl Schapper"
+ },
+ {
+  "pdf_page": 550,
+  "printed": 556,
+  "zone": "foot",
+  "chars": 1119,
+  "first": "Darlegung des Briefes von Karl Marx an Adolf Cluß"
+ },
+ {
+  "pdf_page": 551,
+  "printed": 557,
+  "zone": "foot",
+  "chars": 1615,
+  "first": "Adolf Cluß an Joseph Weydemeyer"
+ }
+]

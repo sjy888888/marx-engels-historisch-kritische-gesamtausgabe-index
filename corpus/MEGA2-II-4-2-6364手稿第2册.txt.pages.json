@@ -1,0 +1,6414 @@
+[
+ {
+  "pdf_page": 1,
+  "printed": null,
+  "zone": null,
+  "chars": 166,
+  "first": "KARLMARX"
+ },
+ {
+  "pdf_page": 2,
+  "printed": null,
+  "zone": null,
+  "chars": 257,
+  "first": "KARLMARX"
+ },
+ {
+  "pdf_page": 3,
+  "printed": null,
+  "zone": null,
+  "chars": 1004,
+  "first": "Internationale Marx-Engels-Stiftung, Sitz Amsterdam"
+ },
+ {
+  "pdf_page": 4,
+  "printed": null,
+  "zone": null,
+  "chars": 883,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 5,
+  "printed": null,
+  "zone": null,
+  "chars": 1790,
+  "first": "6*"
+ },
+ {
+  "pdf_page": 6,
+  "printed": null,
+  "zone": null,
+  "chars": 1192,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 7,
+  "printed": null,
+  "zone": null,
+  "chars": 455,
+  "first": "Inhalt"
+ },
+ {
+  "pdf_page": 8,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 9,
+  "printed": null,
+  "zone": null,
+  "chars": 52,
+  "first": "KARL MARX"
+ },
+ {
+  "pdf_page": 10,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 11,
+  "printed": null,
+  "zone": null,
+  "chars": 62,
+  "first": "DAS KAPITAL"
+ },
+ {
+  "pdf_page": 12,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 13,
+  "printed": null,
+  "zone": null,
+  "chars": 72,
+  "first": "[Das Kapital]"
+ },
+ {
+  "pdf_page": 14,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 15,
+  "printed": 7,
+  "zone": "foot",
+  "chars": 1456,
+  "first": "5"
+ },
+ {
+  "pdf_page": 16,
+  "printed": 8,
+  "zone": "foot",
+  "chars": 3042,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 17,
+  "printed": null,
+  "zone": null,
+  "chars": 37,
+  "first": "Drittes Buch. Erstes Kapitel. Seite 1"
+ },
+ {
+  "pdf_page": 18,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 19,
+  "printed": 11,
+  "zone": "foot",
+  "chars": 2662,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 20,
+  "printed": 12,
+  "zone": "foot",
+  "chars": 2605,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 21,
+  "printed": 13,
+  "zone": "foot",
+  "chars": 2556,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 22,
+  "printed": 14,
+  "zone": "foot",
+  "chars": 2196,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 23,
+  "printed": null,
+  "zone": null,
+  "chars": 37,
+  "first": "Drittes Buch. Erstes Kapitel. Seite 4"
+ },
+ {
+  "pdf_page": 24,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 25,
+  "printed": 17,
+  "zone": "foot",
+  "chars": 2129,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 26,
+  "printed": 18,
+  "zone": "foot",
+  "chars": 2554,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 27,
+  "printed": 19,
+  "zone": "foot",
+  "chars": 1968,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 28,
+  "printed": 20,
+  "zone": "foot",
+  "chars": 2150,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 29,
+  "printed": 21,
+  "zone": "foot",
+  "chars": 2138,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 30,
+  "printed": 22,
+  "zone": "foot",
+  "chars": 2426,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 31,
+  "printed": 23,
+  "zone": "foot",
+  "chars": 1933,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 32,
+  "printed": 24,
+  "zone": "foot",
+  "chars": 1790,
+  "first": "Erstes Kapitel . Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 33,
+  "printed": 25,
+  "zone": "foot",
+  "chars": 2280,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 34,
+  "printed": 26,
+  "zone": "foot",
+  "chars": 2564,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 35,
+  "printed": 27,
+  "zone": "foot",
+  "chars": 2254,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 36,
+  "printed": 28,
+  "zone": "foot",
+  "chars": 2548,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 37,
+  "printed": 29,
+  "zone": "foot",
+  "chars": 2589,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 38,
+  "printed": 30,
+  "zone": "foot",
+  "chars": 2499,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 39,
+  "printed": 31,
+  "zone": "foot",
+  "chars": 2425,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 40,
+  "printed": 32,
+  "zone": "foot",
+  "chars": 2973,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 41,
+  "printed": 33,
+  "zone": "foot",
+  "chars": 2611,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 42,
+  "printed": 34,
+  "zone": "foot",
+  "chars": 1880,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 43,
+  "printed": 35,
+  "zone": "foot",
+  "chars": 1866,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 44,
+  "printed": 36,
+  "zone": "foot",
+  "chars": 1912,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Prof1t"
+ },
+ {
+  "pdf_page": 45,
+  "printed": 37,
+  "zone": "foot",
+  "chars": 2552,
+  "first": "5"
+ },
+ {
+  "pdf_page": 46,
+  "printed": 38,
+  "zone": "foot",
+  "chars": 2784,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 47,
+  "printed": 39,
+  "zone": "foot",
+  "chars": 2202,
+  "first": "1} Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 48,
+  "printed": 40,
+  "zone": "foot",
+  "chars": 1668,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert m Prof1t"
+ },
+ {
+  "pdf_page": 49,
+  "printed": 41,
+  "zone": "foot",
+  "chars": 1614,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 50,
+  "printed": 42,
+  "zone": "foot",
+  "chars": 2194,
+  "first": "Erstes Kapitel . Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 51,
+  "printed": 43,
+  "zone": "foot",
+  "chars": 2146,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 52,
+  "printed": 44,
+  "zone": "foot",
+  "chars": 1627,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 53,
+  "printed": 45,
+  "zone": "foot",
+  "chars": 2456,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 54,
+  "printed": 46,
+  "zone": "foot",
+  "chars": 1102,
+  "first": "Erstes Kapitel . Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 55,
+  "printed": 47,
+  "zone": "foot",
+  "chars": 2671,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 56,
+  "printed": 48,
+  "zone": "foot",
+  "chars": 2229,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 57,
+  "printed": 49,
+  "zone": "foot",
+  "chars": 2253,
+  "first": "1) Mehrwert und Profit"
+ },
+ {
+  "pdf_page": 58,
+  "printed": 50,
+  "zone": "foot",
+  "chars": 2363,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 59,
+  "printed": 51,
+  "zone": "foot",
+  "chars": 2861,
+  "first": "2) Kostenpreis"
+ },
+ {
+  "pdf_page": 60,
+  "printed": 52,
+  "zone": "foot",
+  "chars": 2756,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 61,
+  "printed": 53,
+  "zone": "foot",
+  "chars": 2766,
+  "first": "2) Kostenpreis"
+ },
+ {
+  "pdf_page": 62,
+  "printed": 54,
+  "zone": "foot",
+  "chars": 3074,
+  "first": "Erstes Kapitel . Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 63,
+  "printed": 55,
+  "zone": "foot",
+  "chars": 3019,
+  "first": "2) Kostenpreis"
+ },
+ {
+  "pdf_page": 64,
+  "printed": 56,
+  "zone": "foot",
+  "chars": 2896,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 65,
+  "printed": 57,
+  "zone": "foot",
+  "chars": 2843,
+  "first": "2) Kostenpreis"
+ },
+ {
+  "pdf_page": 66,
+  "printed": 58,
+  "zone": "foot",
+  "chars": 2827,
+  "first": "Erstes Kapitel . Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 67,
+  "printed": 59,
+  "zone": "foot",
+  "chars": 2947,
+  "first": "2) Kostenpreis"
+ },
+ {
+  "pdf_page": 68,
+  "printed": 60,
+  "zone": "foot",
+  "chars": 2963,
+  "first": "Erstes Kapitel . Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 69,
+  "printed": 61,
+  "zone": "foot",
+  "chars": 2702,
+  "first": "2) Kostenpreis"
+ },
+ {
+  "pdf_page": 70,
+  "printed": 62,
+  "zone": "foot",
+  "chars": 3034,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 71,
+  "printed": 63,
+  "zone": "foot",
+  "chars": 3069,
+  "first": "2) Kostenpreis"
+ },
+ {
+  "pdf_page": 72,
+  "printed": 64,
+  "zone": "foot",
+  "chars": 2942,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 73,
+  "printed": 65,
+  "zone": "foot",
+  "chars": 2958,
+  "first": "2) Kostenpreis"
+ },
+ {
+  "pdf_page": 74,
+  "printed": 66,
+  "zone": "foot",
+  "chars": 2516,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 75,
+  "printed": 67,
+  "zone": "foot",
+  "chars": 2507,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 76,
+  "printed": 68,
+  "zone": "foot",
+  "chars": 2235,
+  "first": "Erstes Kap1tel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 77,
+  "printed": 69,
+  "zone": "foot",
+  "chars": 2028,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 78,
+  "printed": 70,
+  "zone": "foot",
+  "chars": 2230,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 79,
+  "printed": 71,
+  "zone": "foot",
+  "chars": 2466,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 80,
+  "printed": 72,
+  "zone": "foot",
+  "chars": 2596,
+  "first": "Erstes Kapitel . Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 81,
+  "printed": 73,
+  "zone": "foot",
+  "chars": 2974,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 82,
+  "printed": 74,
+  "zone": "foot",
+  "chars": 2782,
+  "first": "Erstes Kap1tel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 83,
+  "printed": 75,
+  "zone": "foot",
+  "chars": 2551,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 84,
+  "printed": 76,
+  "zone": "foot",
+  "chars": 2243,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 85,
+  "printed": 77,
+  "zone": "foot",
+  "chars": 2272,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 86,
+  "printed": 78,
+  "zone": "foot",
+  "chars": 2203,
+  "first": "Erstes Kap1tel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 87,
+  "printed": 79,
+  "zone": "foot",
+  "chars": 2943,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 88,
+  "printed": 80,
+  "zone": "foot",
+  "chars": 2815,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 89,
+  "printed": 81,
+  "zone": "foot",
+  "chars": 2345,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 90,
+  "printed": 82,
+  "zone": "foot",
+  "chars": 2720,
+  "first": "c)"
+ },
+ {
+  "pdf_page": 91,
+  "printed": 83,
+  "zone": "foot",
+  "chars": 1985,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 92,
+  "printed": 84,
+  "zone": "foot",
+  "chars": 2356,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 93,
+  "printed": 85,
+  "zone": "foot",
+  "chars": 2597,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 94,
+  "printed": 86,
+  "zone": "foot",
+  "chars": 2601,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 95,
+  "printed": 87,
+  "zone": "foot",
+  "chars": 2494,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 96,
+  "printed": 88,
+  "zone": "foot",
+  "chars": 2286,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 97,
+  "printed": 89,
+  "zone": "foot",
+  "chars": 2474,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 98,
+  "printed": 90,
+  "zone": "foot",
+  "chars": 2549,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert m Profit"
+ },
+ {
+  "pdf_page": 99,
+  "printed": 91,
+  "zone": "foot",
+  "chars": 2531,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 100,
+  "printed": 92,
+  "zone": "foot",
+  "chars": 2280,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 101,
+  "printed": 93,
+  "zone": "foot",
+  "chars": 2026,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 102,
+  "printed": 94,
+  "zone": "foot",
+  "chars": 2432,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 103,
+  "printed": 95,
+  "zone": "foot",
+  "chars": 2609,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 104,
+  "printed": 96,
+  "zone": "foot",
+  "chars": 1816,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 105,
+  "printed": 97,
+  "zone": "foot",
+  "chars": 2195,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 106,
+  "printed": 98,
+  "zone": "foot",
+  "chars": 2171,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 107,
+  "printed": 99,
+  "zone": "foot",
+  "chars": 2155,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 108,
+  "printed": 100,
+  "zone": "foot",
+  "chars": 2165,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 109,
+  "printed": 101,
+  "zone": "foot",
+  "chars": 1774,
+  "first": "Verhältnis der Mehrwertrate zur Profilrate"
+ },
+ {
+  "pdf_page": 110,
+  "printed": 102,
+  "zone": "foot",
+  "chars": 2034,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 111,
+  "printed": 103,
+  "zone": "foot",
+  "chars": 2962,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 112,
+  "printed": 104,
+  "zone": "foot",
+  "chars": 936,
+  "first": "Erstes Kap1tel"
+ },
+ {
+  "pdf_page": 113,
+  "printed": 105,
+  "zone": "foot",
+  "chars": 1342,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 114,
+  "printed": 106,
+  "zone": "foot",
+  "chars": 1243,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 115,
+  "printed": 107,
+  "zone": "foot",
+  "chars": 1479,
+  "first": "5"
+ },
+ {
+  "pdf_page": 116,
+  "printed": 108,
+  "zone": "foot",
+  "chars": 2857,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 117,
+  "printed": 109,
+  "zone": "foot",
+  "chars": 2558,
+  "first": "Verhältnis der Mehrwertrate zur Profitrate"
+ },
+ {
+  "pdf_page": 118,
+  "printed": 110,
+  "zone": "foot",
+  "chars": 1824,
+  "first": "Erstes Kapitel · Verwandlung von Mel:lrwert in Profit"
+ },
+ {
+  "pdf_page": 119,
+  "printed": 111,
+  "zone": "foot",
+  "chars": 3312,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 120,
+  "printed": 112,
+  "zone": "foot",
+  "chars": 2938,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 121,
+  "printed": 113,
+  "zone": "foot",
+  "chars": 2947,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 122,
+  "printed": 114,
+  "zone": "foot",
+  "chars": 3025,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 123,
+  "printed": 115,
+  "zone": "foot",
+  "chars": 2863,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 124,
+  "printed": 116,
+  "zone": "foot",
+  "chars": 3090,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 125,
+  "printed": 117,
+  "zone": "foot",
+  "chars": 3090,
+  "first": "3) Okonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 126,
+  "printed": 118,
+  "zone": "foot",
+  "chars": 2975,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 127,
+  "printed": 119,
+  "zone": "foot",
+  "chars": 3046,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 128,
+  "printed": 120,
+  "zone": "foot",
+  "chars": 2932,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 129,
+  "printed": null,
+  "zone": null,
+  "chars": 38,
+  "first": "Drittes Buch. Erstes Kapitel. Seite 76"
+ },
+ {
+  "pdf_page": 130,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 131,
+  "printed": 123,
+  "zone": "foot",
+  "chars": 2997,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 132,
+  "printed": 124,
+  "zone": "foot",
+  "chars": 3280,
+  "first": "Erstes Kap1tel"
+ },
+ {
+  "pdf_page": 133,
+  "printed": 125,
+  "zone": "foot",
+  "chars": 2440,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 134,
+  "printed": 126,
+  "zone": "foot",
+  "chars": 2955,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 135,
+  "printed": 127,
+  "zone": "foot",
+  "chars": 3208,
+  "first": "3) Ökonomre rn Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 136,
+  "printed": 128,
+  "zone": "foot",
+  "chars": 2955,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 137,
+  "printed": 129,
+  "zone": "foot",
+  "chars": 2954,
+  "first": "3) Ökonom1e in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 138,
+  "printed": 130,
+  "zone": "foot",
+  "chars": 2724,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 139,
+  "printed": 131,
+  "zone": "foot",
+  "chars": 2902,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 140,
+  "printed": 132,
+  "zone": "foot",
+  "chars": 2946,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 141,
+  "printed": 133,
+  "zone": "foot",
+  "chars": 2945,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 142,
+  "printed": 134,
+  "zone": "foot",
+  "chars": 2960,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 143,
+  "printed": 135,
+  "zone": "foot",
+  "chars": 3092,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 144,
+  "printed": 136,
+  "zone": "foot",
+  "chars": 2875,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 145,
+  "printed": 137,
+  "zone": "foot",
+  "chars": 2765,
+  "first": "3. Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 146,
+  "printed": 138,
+  "zone": "foot",
+  "chars": 2985,
+  "first": "Erstes Kap1tel · Verwandlung von Mehrwert m Prof1t"
+ },
+ {
+  "pdf_page": 147,
+  "printed": 139,
+  "zone": "foot",
+  "chars": 2949,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 148,
+  "printed": 140,
+  "zone": "foot",
+  "chars": 2776,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 149,
+  "printed": 141,
+  "zone": "foot",
+  "chars": 2567,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 150,
+  "printed": 142,
+  "zone": "foot",
+  "chars": 2909,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert 1n Prof1t"
+ },
+ {
+  "pdf_page": 151,
+  "printed": 143,
+  "zone": "foot",
+  "chars": 3026,
+  "first": "5"
+ },
+ {
+  "pdf_page": 152,
+  "printed": 144,
+  "zone": "foot",
+  "chars": 3903,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 153,
+  "printed": 145,
+  "zone": "foot",
+  "chars": 1111,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 154,
+  "printed": 146,
+  "zone": "foot",
+  "chars": 2731,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 155,
+  "printed": 147,
+  "zone": "foot",
+  "chars": 3009,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 156,
+  "printed": 148,
+  "zone": "foot",
+  "chars": 3058,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 157,
+  "printed": 149,
+  "zone": "foot",
+  "chars": 3126,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 158,
+  "printed": 150,
+  "zone": "foot",
+  "chars": 2574,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 159,
+  "printed": 151,
+  "zone": "foot",
+  "chars": 2737,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 160,
+  "printed": 152,
+  "zone": "foot",
+  "chars": 3062,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 161,
+  "printed": 153,
+  "zone": "foot",
+  "chars": 2814,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 162,
+  "printed": 154,
+  "zone": "foot",
+  "chars": 3213,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 163,
+  "printed": 155,
+  "zone": "foot",
+  "chars": 2905,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 164,
+  "printed": 156,
+  "zone": "foot",
+  "chars": 3077,
+  "first": "Erstes Kap1tel · Verwandlung von Mehrwert m Prof1t"
+ },
+ {
+  "pdf_page": 165,
+  "printed": 157,
+  "zone": "foot",
+  "chars": 2711,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 166,
+  "printed": 158,
+  "zone": "foot",
+  "chars": 2611,
+  "first": "Erstes Kapitel . Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 167,
+  "printed": 159,
+  "zone": "foot",
+  "chars": 2823,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 168,
+  "printed": 160,
+  "zone": "foot",
+  "chars": 2849,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 169,
+  "printed": 161,
+  "zone": "foot",
+  "chars": 2694,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 170,
+  "printed": 162,
+  "zone": "foot",
+  "chars": 2569,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 171,
+  "printed": 163,
+  "zone": "foot",
+  "chars": 2806,
+  "first": "3} Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 172,
+  "printed": 164,
+  "zone": "foot",
+  "chars": 2674,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Prof1t"
+ },
+ {
+  "pdf_page": 173,
+  "printed": 165,
+  "zone": "foot",
+  "chars": 2844,
+  "first": "4) Preisschwankungen des Rohmaterials"
+ },
+ {
+  "pdf_page": 174,
+  "printed": 166,
+  "zone": "foot",
+  "chars": 2783,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 175,
+  "printed": 167,
+  "zone": "foot",
+  "chars": 2292,
+  "first": "4) Preisschwankungen des Rohmaterials"
+ },
+ {
+  "pdf_page": 176,
+  "printed": 168,
+  "zone": "foot",
+  "chars": 3054,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 177,
+  "printed": 169,
+  "zone": "foot",
+  "chars": 2533,
+  "first": "4) Preisschwankungen des Rohmaterials"
+ },
+ {
+  "pdf_page": 178,
+  "printed": 170,
+  "zone": "foot",
+  "chars": 2126,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 179,
+  "printed": 171,
+  "zone": "foot",
+  "chars": 1961,
+  "first": "4) Preisschwankungen des Rohmaterials"
+ },
+ {
+  "pdf_page": 180,
+  "printed": 172,
+  "zone": "foot",
+  "chars": 1679,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 181,
+  "printed": 173,
+  "zone": "foot",
+  "chars": 2146,
+  "first": "4) Preisschwankungen des Rohmaterials"
+ },
+ {
+  "pdf_page": 182,
+  "printed": 174,
+  "zone": "foot",
+  "chars": 2944,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 183,
+  "printed": 175,
+  "zone": "foot",
+  "chars": 3145,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 184,
+  "printed": 176,
+  "zone": "foot",
+  "chars": 3251,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert 1n Profit"
+ },
+ {
+  "pdf_page": 185,
+  "printed": 177,
+  "zone": "foot",
+  "chars": 3251,
+  "first": "3) Ökonomie in Anwendung des konstanten Kapitals"
+ },
+ {
+  "pdf_page": 186,
+  "printed": 178,
+  "zone": "foot",
+  "chars": 2751,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 187,
+  "printed": 179,
+  "zone": "foot",
+  "chars": 2928,
+  "first": "5) Freiset.zung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 188,
+  "printed": 180,
+  "zone": "foot",
+  "chars": 2844,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 189,
+  "printed": 181,
+  "zone": "foot",
+  "chars": 2995,
+  "first": "5) Fre1setzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 190,
+  "printed": 182,
+  "zone": "foot",
+  "chars": 2970,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 191,
+  "printed": 183,
+  "zone": "foot",
+  "chars": 2651,
+  "first": "5) Freisetzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 192,
+  "printed": 184,
+  "zone": "foot",
+  "chars": 2488,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 193,
+  "printed": 185,
+  "zone": "foot",
+  "chars": 2478,
+  "first": "5) Freisatzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 194,
+  "printed": 186,
+  "zone": "foot",
+  "chars": 2647,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 195,
+  "printed": 187,
+  "zone": "foot",
+  "chars": 2701,
+  "first": "5) Freisatzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 196,
+  "printed": 188,
+  "zone": "foot",
+  "chars": 3032,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 197,
+  "printed": 189,
+  "zone": "foot",
+  "chars": 3030,
+  "first": "5) Freisetzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 198,
+  "printed": 190,
+  "zone": "foot",
+  "chars": 3078,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 199,
+  "printed": 191,
+  "zone": "foot",
+  "chars": 2898,
+  "first": "5) Freisetzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 200,
+  "printed": 192,
+  "zone": "foot",
+  "chars": 2782,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 201,
+  "printed": 193,
+  "zone": "foot",
+  "chars": 2970,
+  "first": "5} Freisetzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 202,
+  "printed": 194,
+  "zone": "foot",
+  "chars": 2854,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 203,
+  "printed": 195,
+  "zone": "foot",
+  "chars": 3103,
+  "first": "5) Freisatzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 204,
+  "printed": 196,
+  "zone": "foot",
+  "chars": 2900,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 205,
+  "printed": 197,
+  "zone": "foot",
+  "chars": 2830,
+  "first": "5) Freisetzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 206,
+  "printed": 198,
+  "zone": "foot",
+  "chars": 2886,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 207,
+  "printed": 199,
+  "zone": "foot",
+  "chars": 2759,
+  "first": "5) FreisetzunQ und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 208,
+  "printed": 200,
+  "zone": "foot",
+  "chars": 2773,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 209,
+  "printed": 201,
+  "zone": "foot",
+  "chars": 2890,
+  "first": "5) Freisetzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 210,
+  "printed": 202,
+  "zone": "foot",
+  "chars": 2733,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 211,
+  "printed": 203,
+  "zone": "foot",
+  "chars": 2791,
+  "first": "5) Freisatzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 212,
+  "printed": 204,
+  "zone": "foot",
+  "chars": 2877,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Prof1t"
+ },
+ {
+  "pdf_page": 213,
+  "printed": 205,
+  "zone": "foot",
+  "chars": 2958,
+  "first": "5) Freisetzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 214,
+  "printed": 206,
+  "zone": "foot",
+  "chars": 2677,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 215,
+  "printed": 207,
+  "zone": "foot",
+  "chars": 2654,
+  "first": "5) Freisetzung und Bindung, Wertsteigerung und Entwertung von Kapital"
+ },
+ {
+  "pdf_page": 216,
+  "printed": 208,
+  "zone": "foot",
+  "chars": 2553,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 217,
+  "printed": 209,
+  "zone": "foot",
+  "chars": 2956,
+  "first": "Profit (wie er dem Bourgeois erscheint)"
+ },
+ {
+  "pdf_page": 218,
+  "printed": 210,
+  "zone": "foot",
+  "chars": 2846,
+  "first": "Erstes Kapitel · Verwandlung von Mehrwert in Profit"
+ },
+ {
+  "pdf_page": 219,
+  "printed": 211,
+  "zone": "foot",
+  "chars": 1509,
+  "first": "Profit (wie er dem Bourgeois erscheint)"
+ },
+ {
+  "pdf_page": 220,
+  "printed": 212,
+  "zone": "foot",
+  "chars": 1817,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 221,
+  "printed": null,
+  "zone": null,
+  "chars": 40,
+  "first": "Drittes Buch. Zweites Kapitel. Seite 155"
+ },
+ {
+  "pdf_page": 222,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 223,
+  "printed": 215,
+  "zone": "foot",
+  "chars": 3016,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 224,
+  "printed": 216,
+  "zone": "foot",
+  "chars": 3044,
+  "first": "Zweites Kapitel . Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 225,
+  "printed": 217,
+  "zone": "foot",
+  "chars": 2807,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 226,
+  "printed": 218,
+  "zone": "foot",
+  "chars": 3060,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 227,
+  "printed": 219,
+  "zone": "foot",
+  "chars": 3049,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 228,
+  "printed": 220,
+  "zone": "foot",
+  "chars": 2787,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 229,
+  "printed": 221,
+  "zone": "foot",
+  "chars": 2782,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 230,
+  "printed": 222,
+  "zone": "foot",
+  "chars": 3090,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 231,
+  "printed": 223,
+  "zone": "foot",
+  "chars": 2860,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 232,
+  "printed": 224,
+  "zone": "foot",
+  "chars": 2622,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 233,
+  "printed": 225,
+  "zone": "foot",
+  "chars": 2722,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 234,
+  "printed": 226,
+  "zone": "foot",
+  "chars": 2411,
+  "first": "Zwettes Kapttel · Die Verwandlung des Proftts tn Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 235,
+  "printed": 227,
+  "zone": "foot",
+  "chars": 3087,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 236,
+  "printed": 228,
+  "zone": "foot",
+  "chars": 2995,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 237,
+  "printed": 229,
+  "zone": "foot",
+  "chars": 2994,
+  "first": "1) Verschiedene Zusammensetzung der Kapitalien ..."
+ },
+ {
+  "pdf_page": 238,
+  "printed": 230,
+  "zone": "foot",
+  "chars": 2666,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits m Durchschmttsprofit"
+ },
+ {
+  "pdf_page": 239,
+  "printed": 231,
+  "zone": "foot",
+  "chars": 2695,
+  "first": "2) Bildung der allgemeinen Profitrate 0 0 0"
+ },
+ {
+  "pdf_page": 240,
+  "printed": 232,
+  "zone": "foot",
+  "chars": 2904,
+  "first": "Zwe1tes Kapttel · Dre Verwandlung des Prof1ts tn Durchschntttsproflt"
+ },
+ {
+  "pdf_page": 241,
+  "printed": 233,
+  "zone": "foot",
+  "chars": 2386,
+  "first": "5"
+ },
+ {
+  "pdf_page": 242,
+  "printed": 234,
+  "zone": "foot",
+  "chars": 3043,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 243,
+  "printed": 235,
+  "zone": "foot",
+  "chars": 2984,
+  "first": "2) Bildung der allgemeinen Profitrate ..."
+ },
+ {
+  "pdf_page": 244,
+  "printed": 236,
+  "zone": "foot",
+  "chars": 3001,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 245,
+  "printed": 237,
+  "zone": "foot",
+  "chars": 2953,
+  "first": "2) Bildung der allgemeinen Profitrate ..."
+ },
+ {
+  "pdf_page": 246,
+  "printed": 238,
+  "zone": "foot",
+  "chars": 1763,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 247,
+  "printed": 239,
+  "zone": "foot",
+  "chars": 2996,
+  "first": "2) Bildung der allgemeinen Profitrate ..."
+ },
+ {
+  "pdf_page": 248,
+  "printed": 240,
+  "zone": "foot",
+  "chars": 2595,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 249,
+  "printed": 241,
+  "zone": "foot",
+  "chars": 3034,
+  "first": "2) Bildung der allgemeinen Profitrate ..."
+ },
+ {
+  "pdf_page": 250,
+  "printed": 242,
+  "zone": "foot",
+  "chars": 2967,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 251,
+  "printed": 243,
+  "zone": "foot",
+  "chars": 3013,
+  "first": "2) Bildung der allgemeinen Profitrate ..."
+ },
+ {
+  "pdf_page": 252,
+  "printed": 244,
+  "zone": "foot",
+  "chars": 3066,
+  "first": "Zwe1tes Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 253,
+  "printed": 245,
+  "zone": "foot",
+  "chars": 2964,
+  "first": "2) Bildung der allgemeinen Profitrate ..."
+ },
+ {
+  "pdf_page": 254,
+  "printed": 246,
+  "zone": "foot",
+  "chars": 3017,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 255,
+  "printed": 247,
+  "zone": "foot",
+  "chars": 2855,
+  "first": "2) Bildung der allgemeinen Profitrate ..."
+ },
+ {
+  "pdf_page": 256,
+  "printed": 248,
+  "zone": "foot",
+  "chars": 2594,
+  "first": "Zweites Kapitel · D1e Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 257,
+  "printed": 249,
+  "zone": "foot",
+  "chars": 3027,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 258,
+  "printed": 250,
+  "zone": "foot",
+  "chars": 3061,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 259,
+  "printed": 251,
+  "zone": "foot",
+  "chars": 3005,
+  "first": "3) Konkurrenz zur Ausgleichung der allgememen Profitrate"
+ },
+ {
+  "pdf_page": 260,
+  "printed": 252,
+  "zone": "foot",
+  "chars": 2988,
+  "first": "Zwertes Kaprtel · Die Verwandlung des Profrts in Durchschnrttsprofit"
+ },
+ {
+  "pdf_page": 261,
+  "printed": 253,
+  "zone": "foot",
+  "chars": 2987,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 262,
+  "printed": 254,
+  "zone": "foot",
+  "chars": 3093,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 263,
+  "printed": 255,
+  "zone": "foot",
+  "chars": 2951,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 264,
+  "printed": 256,
+  "zone": "foot",
+  "chars": 2961,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 265,
+  "printed": 257,
+  "zone": "foot",
+  "chars": 2815,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 266,
+  "printed": 258,
+  "zone": "foot",
+  "chars": 3442,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 267,
+  "printed": 259,
+  "zone": "foot",
+  "chars": 2941,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 268,
+  "printed": 260,
+  "zone": "foot",
+  "chars": 3067,
+  "first": "Zwertes Kaprtel · Dre Verwandlung des Prof1ts m Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 269,
+  "printed": 261,
+  "zone": "foot",
+  "chars": 3058,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 270,
+  "printed": 262,
+  "zone": "foot",
+  "chars": 3032,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnit!sprofit"
+ },
+ {
+  "pdf_page": 271,
+  "printed": 263,
+  "zone": "foot",
+  "chars": 3071,
+  "first": "3) Konkurrenz zur Ausgletchung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 272,
+  "printed": 264,
+  "zone": "foot",
+  "chars": 2949,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittspr.?f1t"
+ },
+ {
+  "pdf_page": 273,
+  "printed": 265,
+  "zone": "foot",
+  "chars": 2897,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 274,
+  "printed": 266,
+  "zone": "foot",
+  "chars": 4274,
+  "first": "Zweites Kapitel · Die Verwandlung des ProfitS tn Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 275,
+  "printed": 267,
+  "zone": "foot",
+  "chars": 2988,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 276,
+  "printed": 268,
+  "zone": "foot",
+  "chars": 3198,
+  "first": "Zweites Kapitel · D1e Verwandlung des Prof1ts rn Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 277,
+  "printed": 269,
+  "zone": "foot",
+  "chars": 3017,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 278,
+  "printed": 270,
+  "zone": "foot",
+  "chars": 3091,
+  "first": "Zwe1tes Kap1tel"
+ },
+ {
+  "pdf_page": 279,
+  "printed": 271,
+  "zone": "foot",
+  "chars": 3115,
+  "first": "3) Konkurrenz zur Ausgleichung der allgemeinen Profitrate"
+ },
+ {
+  "pdf_page": 280,
+  "printed": 272,
+  "zone": "foot",
+  "chars": 2846,
+  "first": "Zwe1tes Kap1tel"
+ },
+ {
+  "pdf_page": 281,
+  "printed": 273,
+  "zone": "foot",
+  "chars": 2426,
+  "first": "5) Wirkung emer allgememen Erhöhung oder Erniedrigung {Fall) der Salai"
+ },
+ {
+  "pdf_page": 282,
+  "printed": 274,
+  "zone": "foot",
+  "chars": 2519,
+  "first": "Zwe1tes Kap1tel"
+ },
+ {
+  "pdf_page": 283,
+  "printed": 275,
+  "zone": "foot",
+  "chars": 2539,
+  "first": "5} Wirkung einer allgemeinen Erhöhung oder Erniedrigung (Fall} der Sal"
+ },
+ {
+  "pdf_page": 284,
+  "printed": 276,
+  "zone": "foot",
+  "chars": 2620,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 285,
+  "printed": 277,
+  "zone": "foot",
+  "chars": 2011,
+  "first": "5} Wirkung emer allgemeinen Erhöhung oder Erniedrigung (Fall) der Sala"
+ },
+ {
+  "pdf_page": 286,
+  "printed": 278,
+  "zone": "foot",
+  "chars": 2840,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 287,
+  "printed": 279,
+  "zone": "foot",
+  "chars": 3038,
+  "first": "4) Kompensationsgründe des Kapitalisten"
+ },
+ {
+  "pdf_page": 288,
+  "printed": 280,
+  "zone": "foot",
+  "chars": 2962,
+  "first": "Zwettes Kapttel · Dte Verwandlung des Proftts m Durchschntttsproftt"
+ },
+ {
+  "pdf_page": 289,
+  "printed": 281,
+  "zone": "foot",
+  "chars": 2754,
+  "first": "Nachtrag ..."
+ },
+ {
+  "pdf_page": 290,
+  "printed": 282,
+  "zone": "foot",
+  "chars": 2487,
+  "first": "Zwe1tes Kap1tel · D1e Verwandlung des Prof1ts m Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 291,
+  "printed": 283,
+  "zone": "foot",
+  "chars": 2417,
+  "first": "Nachtrag ..."
+ },
+ {
+  "pdf_page": 292,
+  "printed": 284,
+  "zone": "foot",
+  "chars": 1632,
+  "first": "Zweites Kapitel · Die Verwandlung des Profits in Durchschnittsprofit"
+ },
+ {
+  "pdf_page": 293,
+  "printed": 285,
+  "zone": "foot",
+  "chars": 1380,
+  "first": "Drittes Kapitel . Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 294,
+  "printed": 286,
+  "zone": "foot",
+  "chars": 2530,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 295,
+  "printed": 287,
+  "zone": "foot",
+  "chars": 3108,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 296,
+  "printed": 288,
+  "zone": "foot",
+  "chars": 3037,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 297,
+  "printed": 289,
+  "zone": "foot",
+  "chars": 2974,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 298,
+  "printed": 290,
+  "zone": "foot",
+  "chars": 3084,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der a!lgememen Profit"
+ },
+ {
+  "pdf_page": 299,
+  "printed": 291,
+  "zone": "foot",
+  "chars": 3111,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 300,
+  "printed": 292,
+  "zone": "foot",
+  "chars": 3062,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 301,
+  "printed": 293,
+  "zone": "foot",
+  "chars": 3105,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 302,
+  "printed": 294,
+  "zone": "foot",
+  "chars": 3041,
+  "first": "Drittes Kapitel · Gesetz des tendenz•ellen Falls der allgememen Profit"
+ },
+ {
+  "pdf_page": 303,
+  "printed": 295,
+  "zone": "foot",
+  "chars": 3076,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 304,
+  "printed": 296,
+  "zone": "foot",
+  "chars": 2982,
+  "first": "Drittes Kap1tel · Gesetz des tendenz1ellen Falls der allgememen Profit"
+ },
+ {
+  "pdf_page": 305,
+  "printed": 297,
+  "zone": "foot",
+  "chars": 3110,
+  "first": "Dnttes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profit"
+ },
+ {
+  "pdf_page": 306,
+  "printed": 298,
+  "zone": "foot",
+  "chars": 3009,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 307,
+  "printed": 299,
+  "zone": "foot",
+  "chars": 2819,
+  "first": "Drittes Kapitel . Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 308,
+  "printed": 300,
+  "zone": "foot",
+  "chars": 3617,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgememen Profit"
+ },
+ {
+  "pdf_page": 309,
+  "printed": 301,
+  "zone": "foot",
+  "chars": 2973,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 310,
+  "printed": 302,
+  "zone": "foot",
+  "chars": 3131,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 311,
+  "printed": 303,
+  "zone": "foot",
+  "chars": 3062,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 312,
+  "printed": 304,
+  "zone": "foot",
+  "chars": 3129,
+  "first": "Dnttes Kapitel"
+ },
+ {
+  "pdf_page": 313,
+  "printed": 305,
+  "zone": "foot",
+  "chars": 2979,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 314,
+  "printed": 306,
+  "zone": "foot",
+  "chars": 3021,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 315,
+  "printed": 307,
+  "zone": "foot",
+  "chars": 3127,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 316,
+  "printed": 308,
+  "zone": "foot",
+  "chars": 2995,
+  "first": "Drittes Kapttel · Gesetz des tendenzrellen Falls der allgemeinen Profr"
+ },
+ {
+  "pdf_page": 317,
+  "printed": 309,
+  "zone": "foot",
+  "chars": 2982,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 318,
+  "printed": 310,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "Dnttes Kap1tel"
+ },
+ {
+  "pdf_page": 319,
+  "printed": 311,
+  "zone": "foot",
+  "chars": 2737,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 320,
+  "printed": 312,
+  "zone": "foot",
+  "chars": 3017,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 321,
+  "printed": 313,
+  "zone": "foot",
+  "chars": 3085,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 322,
+  "printed": 314,
+  "zone": "foot",
+  "chars": 2916,
+  "first": "Dnttes Kap1tel · Gesetz des tendenziellen Falls der allgememen Profitr"
+ },
+ {
+  "pdf_page": 323,
+  "printed": 315,
+  "zone": "foot",
+  "chars": 3125,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 324,
+  "printed": 316,
+  "zone": "foot",
+  "chars": 3063,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 325,
+  "printed": 317,
+  "zone": "foot",
+  "chars": 2892,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 326,
+  "printed": 318,
+  "zone": "foot",
+  "chars": 3067,
+  "first": "Drittes Kap1tel · Gesetz des tendenziellen Falls der allgememen Profit"
+ },
+ {
+  "pdf_page": 327,
+  "printed": 319,
+  "zone": "foot",
+  "chars": 3019,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 328,
+  "printed": 320,
+  "zone": "foot",
+  "chars": 2957,
+  "first": "Drittes Kapitel"
+ },
+ {
+  "pdf_page": 329,
+  "printed": 321,
+  "zone": "foot",
+  "chars": 3008,
+  "first": "Drittes Kapitel . Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 330,
+  "printed": 322,
+  "zone": "foot",
+  "chars": 2934,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 331,
+  "printed": 323,
+  "zone": "foot",
+  "chars": 2792,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 332,
+  "printed": 324,
+  "zone": "foot",
+  "chars": 2949,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 333,
+  "printed": 325,
+  "zone": "foot",
+  "chars": 3074,
+  "first": "Drittes Kap1tel · Gesetz des tendenziellen Falls der allgememen Profit"
+ },
+ {
+  "pdf_page": 334,
+  "printed": 326,
+  "zone": "foot",
+  "chars": 2748,
+  "first": "Drittes Kapitel · Gesetz des tendenzrellen Falls der allgemeinen Profr"
+ },
+ {
+  "pdf_page": 335,
+  "printed": 327,
+  "zone": "foot",
+  "chars": 2971,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 336,
+  "printed": 328,
+  "zone": "foot",
+  "chars": 3046,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 337,
+  "printed": 329,
+  "zone": "foot",
+  "chars": 3065,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 338,
+  "printed": 330,
+  "zone": "foot",
+  "chars": 3059,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 339,
+  "printed": 331,
+  "zone": "foot",
+  "chars": 3083,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 340,
+  "printed": 332,
+  "zone": "foot",
+  "chars": 2943,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 341,
+  "printed": 333,
+  "zone": "foot",
+  "chars": 3063,
+  "first": "Dnttes Kap1tel · Gesetz des tendenziellen Falls der allgemeinen Profit"
+ },
+ {
+  "pdf_page": 342,
+  "printed": 334,
+  "zone": "foot",
+  "chars": 3055,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 343,
+  "printed": 335,
+  "zone": "foot",
+  "chars": 3066,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 344,
+  "printed": 336,
+  "zone": "foot",
+  "chars": 3013,
+  "first": "Drittes Kapitel . Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 345,
+  "printed": 337,
+  "zone": "foot",
+  "chars": 3035,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 346,
+  "printed": 338,
+  "zone": "foot",
+  "chars": 3003,
+  "first": "Dnttes Kap1tel"
+ },
+ {
+  "pdf_page": 347,
+  "printed": 339,
+  "zone": "foot",
+  "chars": 2619,
+  "first": "Drittes Kapitel . Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 348,
+  "printed": 340,
+  "zone": "foot",
+  "chars": 977,
+  "first": "Drittes Kapitel · Gesetz des tendenziellen Falls der allgemeinen Profi"
+ },
+ {
+  "pdf_page": 349,
+  "printed": 341,
+  "zone": "foot",
+  "chars": 1428,
+  "first": "1) Das Warenhandlungskapital (der kommerz1elle Prof1t)"
+ },
+ {
+  "pdf_page": 350,
+  "printed": 342,
+  "zone": "foot",
+  "chars": 3002,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 351,
+  "printed": 343,
+  "zone": "foot",
+  "chars": 2953,
+  "first": "1) Das Warenhandlungskapital (der kommerzielle Profit)"
+ },
+ {
+  "pdf_page": 352,
+  "printed": 344,
+  "zone": "foot",
+  "chars": 2978,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 353,
+  "printed": 345,
+  "zone": "foot",
+  "chars": 3101,
+  "first": "1) Das Warenhandlungskapital (der kommerzielle Profit)"
+ },
+ {
+  "pdf_page": 354,
+  "printed": 346,
+  "zone": "foot",
+  "chars": 2932,
+  "first": "Vtertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 355,
+  "printed": 347,
+  "zone": "foot",
+  "chars": 3031,
+  "first": "1) Das Warenhandlungskapital (der kommerzielle Profit)"
+ },
+ {
+  "pdf_page": 356,
+  "printed": 348,
+  "zone": "foot",
+  "chars": 2943,
+  "first": "Viertes Kapitel . Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 357,
+  "printed": 349,
+  "zone": "foot",
+  "chars": 2944,
+  "first": "1) Das Warenhandlungskapital (der kommerzielle Profit)"
+ },
+ {
+  "pdf_page": 358,
+  "printed": 350,
+  "zone": "foot",
+  "chars": 2970,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 359,
+  "printed": 351,
+  "zone": "foot",
+  "chars": 2858,
+  "first": "1) Das Warenhandlungskapital (der kommerzielle Profit)"
+ },
+ {
+  "pdf_page": 360,
+  "printed": 352,
+  "zone": "foot",
+  "chars": 3118,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 361,
+  "printed": 353,
+  "zone": "foot",
+  "chars": 3641,
+  "first": "1) Das Warenhandlungskapital (der kommerzielle Profit)"
+ },
+ {
+  "pdf_page": 362,
+  "printed": 354,
+  "zone": "foot",
+  "chars": 2681,
+  "first": "Vtertes Kapttel · Verwandlung von Warenkapital und Geldkapttal .."
+ },
+ {
+  "pdf_page": 363,
+  "printed": 355,
+  "zone": "foot",
+  "chars": 2973,
+  "first": "2) Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 364,
+  "printed": 356,
+  "zone": "foot",
+  "chars": 3049,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 365,
+  "printed": 357,
+  "zone": "foot",
+  "chars": 3013,
+  "first": "2) Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 366,
+  "printed": 358,
+  "zone": "foot",
+  "chars": 2863,
+  "first": "Viertes Kap1tel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 367,
+  "printed": 359,
+  "zone": "foot",
+  "chars": 3009,
+  "first": "2) Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 368,
+  "printed": 360,
+  "zone": "foot",
+  "chars": 3027,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 369,
+  "printed": 361,
+  "zone": "foot",
+  "chars": 3077,
+  "first": "2) Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 370,
+  "printed": 362,
+  "zone": "foot",
+  "chars": 2978,
+  "first": "V1ertes Kapitel · Verwandlung von Warenkapital und Geldkapital .."
+ },
+ {
+  "pdf_page": 371,
+  "printed": 363,
+  "zone": "foot",
+  "chars": 2988,
+  "first": "2) Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 372,
+  "printed": 364,
+  "zone": "foot",
+  "chars": 3098,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 373,
+  "printed": 365,
+  "zone": "foot",
+  "chars": 2916,
+  "first": "2) Der kommerz~elle Prof1t und seme E1gentuml1chke1ten"
+ },
+ {
+  "pdf_page": 374,
+  "printed": 366,
+  "zone": "foot",
+  "chars": 2881,
+  "first": "V1ertes Kap1tel"
+ },
+ {
+  "pdf_page": 375,
+  "printed": 367,
+  "zone": "foot",
+  "chars": 2996,
+  "first": "2} Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 376,
+  "printed": 368,
+  "zone": "foot",
+  "chars": 2864,
+  "first": "V1ertes Kapitel"
+ },
+ {
+  "pdf_page": 377,
+  "printed": 369,
+  "zone": "foot",
+  "chars": 3025,
+  "first": "2) Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 378,
+  "printed": 370,
+  "zone": "foot",
+  "chars": 2927,
+  "first": "Viertes Kaprtel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 379,
+  "printed": 371,
+  "zone": "foot",
+  "chars": 2809,
+  "first": "2) Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 380,
+  "printed": 372,
+  "zone": "foot",
+  "chars": 2756,
+  "first": "V1ertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 381,
+  "printed": 373,
+  "zone": "foot",
+  "chars": 3117,
+  "first": "2) Der kommerzielle Profit und seine Eigentümlichkeiten"
+ },
+ {
+  "pdf_page": 382,
+  "printed": 374,
+  "zone": "foot",
+  "chars": 3013,
+  "first": "Vtertes Kapttel · Verwandlung von Warenkapttal und Geldkap1tal ."
+ },
+ {
+  "pdf_page": 383,
+  "printed": 375,
+  "zone": "foot",
+  "chars": 2574,
+  "first": "3) Umschlag des merkantilen Kapitals. Preise"
+ },
+ {
+  "pdf_page": 384,
+  "printed": 376,
+  "zone": "foot",
+  "chars": 2850,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 385,
+  "printed": 377,
+  "zone": "foot",
+  "chars": 2975,
+  "first": "3) Umschlag des merkantilen Kapitals. Preise"
+ },
+ {
+  "pdf_page": 386,
+  "printed": 378,
+  "zone": "foot",
+  "chars": 3012,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 387,
+  "printed": 379,
+  "zone": "foot",
+  "chars": 3275,
+  "first": "3) Umschlag des merkantilen Kapitals. Preise"
+ },
+ {
+  "pdf_page": 388,
+  "printed": 380,
+  "zone": "foot",
+  "chars": 3012,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 389,
+  "printed": 381,
+  "zone": "foot",
+  "chars": 2825,
+  "first": "3) Umschlag des merkantilen Kapitals. Preise"
+ },
+ {
+  "pdf_page": 390,
+  "printed": 382,
+  "zone": "foot",
+  "chars": 2958,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 391,
+  "printed": 383,
+  "zone": "foot",
+  "chars": 2928,
+  "first": "3) Umschlag des merkantilen Kap1tals. Preise"
+ },
+ {
+  "pdf_page": 392,
+  "printed": 384,
+  "zone": "foot",
+  "chars": 3034,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 393,
+  "printed": 385,
+  "zone": "foot",
+  "chars": 2858,
+  "first": "3) Umschlag des merkantilen Kapitals. Preise"
+ },
+ {
+  "pdf_page": 394,
+  "printed": 386,
+  "zone": "foot",
+  "chars": 3189,
+  "first": "VIertes Kap1tel . Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 395,
+  "printed": 387,
+  "zone": "foot",
+  "chars": 2727,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 396,
+  "printed": 388,
+  "zone": "foot",
+  "chars": 2985,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 397,
+  "printed": 389,
+  "zone": "foot",
+  "chars": 3679,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 398,
+  "printed": 390,
+  "zone": "foot",
+  "chars": 3138,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 399,
+  "printed": 391,
+  "zone": "foot",
+  "chars": 3761,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 400,
+  "printed": 392,
+  "zone": "foot",
+  "chars": 3038,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 401,
+  "printed": 393,
+  "zone": "foot",
+  "chars": 2747,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 402,
+  "printed": 394,
+  "zone": "foot",
+  "chars": 2895,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkap1tal ..."
+ },
+ {
+  "pdf_page": 403,
+  "printed": 395,
+  "zone": "foot",
+  "chars": 3593,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 404,
+  "printed": 396,
+  "zone": "foot",
+  "chars": 2932,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital .."
+ },
+ {
+  "pdf_page": 405,
+  "printed": 397,
+  "zone": "foot",
+  "chars": 2800,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 406,
+  "printed": 398,
+  "zone": "foot",
+  "chars": 3192,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 407,
+  "printed": null,
+  "zone": null,
+  "chars": 40,
+  "first": "Drittes Buch. Viertes Kapitel. Seite 283"
+ },
+ {
+  "pdf_page": 408,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 409,
+  "printed": 401,
+  "zone": "foot",
+  "chars": 3184,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 410,
+  "printed": 402,
+  "zone": "foot",
+  "chars": 2725,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 411,
+  "printed": 403,
+  "zone": "foot",
+  "chars": 3007,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 412,
+  "printed": 404,
+  "zone": "foot",
+  "chars": 3527,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 413,
+  "printed": 405,
+  "zone": "foot",
+  "chars": 3498,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 414,
+  "printed": 406,
+  "zone": "foot",
+  "chars": 3204,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 415,
+  "printed": 407,
+  "zone": "foot",
+  "chars": 3471,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 416,
+  "printed": 408,
+  "zone": "foot",
+  "chars": 3137,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 417,
+  "printed": 409,
+  "zone": "foot",
+  "chars": 2935,
+  "first": "4) Geldhandlungskapital"
+ },
+ {
+  "pdf_page": 418,
+  "printed": 410,
+  "zone": "foot",
+  "chars": 2517,
+  "first": "Viertes Kapitel · Verwandlung von Warenkapital und Geldkapital ..."
+ },
+ {
+  "pdf_page": 419,
+  "printed": 411,
+  "zone": "foot",
+  "chars": 1517,
+  "first": "5"
+ },
+ {
+  "pdf_page": 420,
+  "printed": 412,
+  "zone": "foot",
+  "chars": 3117,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 421,
+  "printed": 413,
+  "zone": "foot",
+  "chars": 2974,
+  "first": "1} Das zinstragende Kapital"
+ },
+ {
+  "pdf_page": 422,
+  "printed": 414,
+  "zone": "foot",
+  "chars": 2949,
+  "first": "Fünftes Kapitel · Spaltung des Prof1ts in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 423,
+  "printed": 415,
+  "zone": "foot",
+  "chars": 2923,
+  "first": "1) l;)as zinstragende Kapital"
+ },
+ {
+  "pdf_page": 424,
+  "printed": 416,
+  "zone": "foot",
+  "chars": 3049,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 425,
+  "printed": 417,
+  "zone": "foot",
+  "chars": 2874,
+  "first": "1) Das zinstragende Kapital"
+ },
+ {
+  "pdf_page": 426,
+  "printed": 418,
+  "zone": "foot",
+  "chars": 2963,
+  "first": "Funftes Kapttel · Spaltung des Proftts 1n Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 427,
+  "printed": 419,
+  "zone": "foot",
+  "chars": 3113,
+  "first": "1) Das zinstragende Kapital"
+ },
+ {
+  "pdf_page": 428,
+  "printed": 420,
+  "zone": "foot",
+  "chars": 3061,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 429,
+  "printed": 421,
+  "zone": "foot",
+  "chars": 2924,
+  "first": "1) Das zinstragende Kapital"
+ },
+ {
+  "pdf_page": 430,
+  "printed": 422,
+  "zone": "foot",
+  "chars": 2977,
+  "first": "Fünftes Kapitel · Spaltung des Prof1ts in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 431,
+  "printed": 423,
+  "zone": "foot",
+  "chars": 2843,
+  "first": "1) Das zinstragende Kapital"
+ },
+ {
+  "pdf_page": 432,
+  "printed": 424,
+  "zone": "foot",
+  "chars": 2987,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 433,
+  "printed": 425,
+  "zone": "foot",
+  "chars": 2977,
+  "first": "1) Das zinstragende Kapital"
+ },
+ {
+  "pdf_page": 434,
+  "printed": 426,
+  "zone": "foot",
+  "chars": 3867,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 435,
+  "printed": null,
+  "zone": null,
+  "chars": 40,
+  "first": "Drittes Buch. Fünftes Kapitel. Seite 294"
+ },
+ {
+  "pdf_page": 436,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 437,
+  "printed": 429,
+  "zone": "foot",
+  "chars": 2948,
+  "first": "1) Das zinstragende Kapital"
+ },
+ {
+  "pdf_page": 438,
+  "printed": 430,
+  "zone": "foot",
+  "chars": 2997,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 439,
+  "printed": 431,
+  "zone": "foot",
+  "chars": 2525,
+  "first": "2) Teilung des Profits. Zinsfuß. Die \"natural rate of interest\""
+ },
+ {
+  "pdf_page": 440,
+  "printed": 432,
+  "zone": "foot",
+  "chars": 2909,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 441,
+  "printed": 433,
+  "zone": "foot",
+  "chars": 2851,
+  "first": "2) Teilung des Profits. Zinsfuß. Die \"natural rate of interest\""
+ },
+ {
+  "pdf_page": 442,
+  "printed": 434,
+  "zone": "foot",
+  "chars": 3305,
+  "first": "Fünftes Kap1tel · Spaltung des Prof1ts in Z1ns und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 443,
+  "printed": 435,
+  "zone": "foot",
+  "chars": 3189,
+  "first": "2) Teilung des Profits. Zinsfuß. Die \"natural rate of interest\""
+ },
+ {
+  "pdf_page": 444,
+  "printed": 436,
+  "zone": "foot",
+  "chars": 3650,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 445,
+  "printed": 437,
+  "zone": "foot",
+  "chars": 3030,
+  "first": "2) Teilung des Profits. Zinsfuß. Die \"natural rate of interest\""
+ },
+ {
+  "pdf_page": 446,
+  "printed": 438,
+  "zone": "foot",
+  "chars": 3428,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 447,
+  "printed": 439,
+  "zone": "foot",
+  "chars": 3049,
+  "first": "2) Teilung des Profits. Zinsfuß. Die \"natural rate of interest\""
+ },
+ {
+  "pdf_page": 448,
+  "printed": 440,
+  "zone": "foot",
+  "chars": 3023,
+  "first": "Funftes Kapitel · Spaltung des Profits m Zms und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 449,
+  "printed": 441,
+  "zone": "foot",
+  "chars": 2749,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 450,
+  "printed": 442,
+  "zone": "foot",
+  "chars": 2893,
+  "first": "Fünftes Kapitel · Spaltung des Prof1ts in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 451,
+  "printed": 443,
+  "zone": "foot",
+  "chars": 3030,
+  "first": "3) Zms und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 452,
+  "printed": 444,
+  "zone": "foot",
+  "chars": 3092,
+  "first": "Fünftes Kapitel · Spaltung des Prof1ts m Zins und Unternehmungsgewmn"
+ },
+ {
+  "pdf_page": 453,
+  "printed": 445,
+  "zone": "foot",
+  "chars": 3101,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 454,
+  "printed": 446,
+  "zone": "foot",
+  "chars": 3126,
+  "first": "Funftes Kapitel · Spaltung des Prof1ts m Zms und Unternehmungsgewmn"
+ },
+ {
+  "pdf_page": 455,
+  "printed": 447,
+  "zone": "foot",
+  "chars": 2972,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 456,
+  "printed": 448,
+  "zone": "foot",
+  "chars": 3112,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 457,
+  "printed": 449,
+  "zone": "foot",
+  "chars": 3224,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 458,
+  "printed": 450,
+  "zone": "foot",
+  "chars": 3015,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zms und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 459,
+  "printed": 451,
+  "zone": "foot",
+  "chars": 2865,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 460,
+  "printed": 452,
+  "zone": "foot",
+  "chars": 3084,
+  "first": "Funftes Kapitel · Spaltung des Prof1ts in Zins und Unternehmungsgewmn"
+ },
+ {
+  "pdf_page": 461,
+  "printed": 453,
+  "zone": "foot",
+  "chars": 3107,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 462,
+  "printed": 454,
+  "zone": "foot",
+  "chars": 3066,
+  "first": "Funftes Kapitel · Spaltung des Profits in Zms und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 463,
+  "printed": 455,
+  "zone": "foot",
+  "chars": 3059,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 464,
+  "printed": 456,
+  "zone": "foot",
+  "chars": 2970,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 465,
+  "printed": 457,
+  "zone": "foot",
+  "chars": 3097,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 466,
+  "printed": 458,
+  "zone": "foot",
+  "chars": 3795,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 467,
+  "printed": 459,
+  "zone": "foot",
+  "chars": 3029,
+  "first": "3) Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 468,
+  "printed": 460,
+  "zone": "foot",
+  "chars": 3756,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 469,
+  "printed": 461,
+  "zone": "foot",
+  "chars": 2600,
+  "first": "4) Veräußerlichung des Mehrwerts und des Kapitalverhältnisses ..."
+ },
+ {
+  "pdf_page": 470,
+  "printed": 462,
+  "zone": "foot",
+  "chars": 3055,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 471,
+  "printed": 463,
+  "zone": "foot",
+  "chars": 3076,
+  "first": "4} Veräußerlichung des Mehrwerts und des Kapitalverhältnisses ..."
+ },
+ {
+  "pdf_page": 472,
+  "printed": 464,
+  "zone": "foot",
+  "chars": 3319,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 473,
+  "printed": 465,
+  "zone": "foot",
+  "chars": 3257,
+  "first": "4) Veräußerlichung des Mehrwerts und des Kapitalverhältnisses .. ."
+ },
+ {
+  "pdf_page": 474,
+  "printed": 466,
+  "zone": "foot",
+  "chars": 3392,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 475,
+  "printed": 467,
+  "zone": "foot",
+  "chars": 2857,
+  "first": "4) Veräußerlichung des Mehrwerts und des Kapitalverhältnisses .."
+ },
+ {
+  "pdf_page": 476,
+  "printed": 468,
+  "zone": "foot",
+  "chars": 3083,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 477,
+  "printed": 469,
+  "zone": "foot",
+  "chars": 3338,
+  "first": "5) Kredit · Fiktives Kapital"
+ },
+ {
+  "pdf_page": 478,
+  "printed": 470,
+  "zone": "foot",
+  "chars": 4614,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 479,
+  "printed": 471,
+  "zone": "foot",
+  "chars": 3467,
+  "first": "5) Kredit · Fiktives Kap1tal"
+ },
+ {
+  "pdf_page": 480,
+  "printed": 472,
+  "zone": "foot",
+  "chars": 3800,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 481,
+  "printed": 473,
+  "zone": "foot",
+  "chars": 4931,
+  "first": "5) Kred1t · Fiktives Kapital"
+ },
+ {
+  "pdf_page": 482,
+  "printed": 474,
+  "zone": "foot",
+  "chars": 4491,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 483,
+  "printed": 475,
+  "zone": "foot",
+  "chars": 4470,
+  "first": "5) Kredit · Fiktives Kapital"
+ },
+ {
+  "pdf_page": 484,
+  "printed": 476,
+  "zone": "foot",
+  "chars": 2833,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 485,
+  "printed": 477,
+  "zone": "foot",
+  "chars": 2883,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 486,
+  "printed": 478,
+  "zone": "foot",
+  "chars": 2957,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 487,
+  "printed": 479,
+  "zone": "foot",
+  "chars": 2957,
+  "first": "Zusatze"
+ },
+ {
+  "pdf_page": 488,
+  "printed": 480,
+  "zone": "foot",
+  "chars": 3135,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 489,
+  "printed": 481,
+  "zone": "foot",
+  "chars": 3093,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 490,
+  "printed": 482,
+  "zone": "foot",
+  "chars": 2999,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 491,
+  "printed": 483,
+  "zone": "foot",
+  "chars": 3095,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 492,
+  "printed": 484,
+  "zone": "foot",
+  "chars": 3024,
+  "first": "Funftes Kaprtel"
+ },
+ {
+  "pdf_page": 493,
+  "printed": 485,
+  "zone": "foot",
+  "chars": 3065,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 494,
+  "printed": 486,
+  "zone": "foot",
+  "chars": 2946,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 495,
+  "printed": 487,
+  "zone": "foot",
+  "chars": 2934,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 496,
+  "printed": 488,
+  "zone": "foot",
+  "chars": 3048,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 497,
+  "printed": 489,
+  "zone": "foot",
+  "chars": 2959,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 498,
+  "printed": 490,
+  "zone": "foot",
+  "chars": 3119,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 499,
+  "printed": 491,
+  "zone": "foot",
+  "chars": 2863,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 500,
+  "printed": 492,
+  "zone": "foot",
+  "chars": 3096,
+  "first": "Funftes Kapttel"
+ },
+ {
+  "pdf_page": 501,
+  "printed": 493,
+  "zone": "foot",
+  "chars": 2968,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 502,
+  "printed": 494,
+  "zone": "foot",
+  "chars": 2565,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 503,
+  "printed": 495,
+  "zone": "foot",
+  "chars": 2766,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 504,
+  "printed": 496,
+  "zone": "foot",
+  "chars": 1650,
+  "first": "1845"
+ },
+ {
+  "pdf_page": 505,
+  "printed": 497,
+  "zone": "foot",
+  "chars": 1293,
+  "first": "Zusatze"
+ },
+ {
+  "pdf_page": 506,
+  "printed": 496,
+  "zone": "foot",
+  "chars": 1641,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewmn"
+ },
+ {
+  "pdf_page": 507,
+  "printed": 497,
+  "zone": "foot",
+  "chars": 1303,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 508,
+  "printed": 498,
+  "zone": "foot",
+  "chars": 2057,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 509,
+  "printed": 499,
+  "zone": "foot",
+  "chars": 1239,
+  "first": "Zusätze"
+ },
+ {
+  "pdf_page": 510,
+  "printed": 500,
+  "zone": "foot",
+  "chars": 2326,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 511,
+  "printed": 501,
+  "zone": "foot",
+  "chars": 3161,
+  "first": "Die Rolle des Kredits in der kapitalistischen Produktion"
+ },
+ {
+  "pdf_page": 512,
+  "printed": 502,
+  "zone": "foot",
+  "chars": 3098,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 513,
+  "printed": 503,
+  "zone": "foot",
+  "chars": 3411,
+  "first": "Die Rolle des Kredits in der kapitalistischen Produktion"
+ },
+ {
+  "pdf_page": 514,
+  "printed": 504,
+  "zone": "foot",
+  "chars": 3050,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 515,
+  "printed": 505,
+  "zone": "foot",
+  "chars": 2625,
+  "first": "Die Rolle des Kredits in der kapitalistischen Produktion"
+ },
+ {
+  "pdf_page": 516,
+  "printed": 506,
+  "zone": "foot",
+  "chars": 2912,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 517,
+  "printed": 507,
+  "zone": "foot",
+  "chars": 2905,
+  "first": "I)"
+ },
+ {
+  "pdf_page": 518,
+  "printed": 508,
+  "zone": "foot",
+  "chars": 3012,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 519,
+  "printed": 509,
+  "zone": "foot",
+  "chars": 2951,
+  "first": "I)"
+ },
+ {
+  "pdf_page": 520,
+  "printed": 510,
+  "zone": "foot",
+  "chars": 3321,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 521,
+  "printed": 511,
+  "zone": "foot",
+  "chars": 3448,
+  "first": "I)"
+ },
+ {
+  "pdf_page": 522,
+  "printed": 512,
+  "zone": "foot",
+  "chars": 3827,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 523,
+  "printed": 513,
+  "zone": "foot",
+  "chars": 3029,
+  "first": "I)"
+ },
+ {
+  "pdf_page": 524,
+  "printed": 514,
+  "zone": "foot",
+  "chars": 3159,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 525,
+  "printed": 515,
+  "zone": "foot",
+  "chars": 2925,
+  "first": "I)"
+ },
+ {
+  "pdf_page": 526,
+  "printed": 516,
+  "zone": "foot",
+  "chars": 2922,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 527,
+  "printed": 517,
+  "zone": "foot",
+  "chars": 3054,
+  "first": "I)"
+ },
+ {
+  "pdf_page": 528,
+  "printed": 518,
+  "zone": "foot",
+  "chars": 3820,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 529,
+  "printed": 519,
+  "zone": "foot",
+  "chars": 2598,
+  "first": "II)"
+ },
+ {
+  "pdf_page": 530,
+  "printed": 520,
+  "zone": "foot",
+  "chars": 3001,
+  "first": "Funftes Kapitel · Spaltung des Profits m Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 531,
+  "printed": 521,
+  "zone": "foot",
+  "chars": 2936,
+  "first": "II)"
+ },
+ {
+  "pdf_page": 532,
+  "printed": 522,
+  "zone": "foot",
+  "chars": 3163,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 533,
+  "printed": 523,
+  "zone": "foot",
+  "chars": 3051,
+  "first": "II)"
+ },
+ {
+  "pdf_page": 534,
+  "printed": 524,
+  "zone": "foot",
+  "chars": 2979,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 535,
+  "printed": 525,
+  "zone": "foot",
+  "chars": 3209,
+  "first": "II)"
+ },
+ {
+  "pdf_page": 536,
+  "printed": 526,
+  "zone": "foot",
+  "chars": 3021,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 537,
+  "printed": 527,
+  "zone": "foot",
+  "chars": 3034,
+  "first": "II)"
+ },
+ {
+  "pdf_page": 538,
+  "printed": 528,
+  "zone": "foot",
+  "chars": 3080,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 539,
+  "printed": 529,
+  "zone": "foot",
+  "chars": 2733,
+  "first": "fit)"
+ },
+ {
+  "pdf_page": 540,
+  "printed": 530,
+  "zone": "foot",
+  "chars": 3298,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 541,
+  "printed": 531,
+  "zone": "foot",
+  "chars": 2860,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 542,
+  "printed": 532,
+  "zone": "foot",
+  "chars": 3876,
+  "first": "Fünftes Kapttel · Spaltung des Profits in Zms und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 543,
+  "printed": 533,
+  "zone": "foot",
+  "chars": 4275,
+  "first": "I II}"
+ },
+ {
+  "pdf_page": 544,
+  "printed": 534,
+  "zone": "foot",
+  "chars": 2579,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 545,
+  "printed": 535,
+  "zone": "foot",
+  "chars": 2973,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 546,
+  "printed": 536,
+  "zone": "foot",
+  "chars": 2959,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 547,
+  "printed": 537,
+  "zone": "foot",
+  "chars": 3035,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 548,
+  "printed": 538,
+  "zone": "foot",
+  "chars": 2938,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 549,
+  "printed": 539,
+  "zone": "foot",
+  "chars": 3000,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 550,
+  "printed": 540,
+  "zone": "foot",
+  "chars": 3045,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 551,
+  "printed": 541,
+  "zone": "foot",
+  "chars": 3322,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 552,
+  "printed": 542,
+  "zone": "foot",
+  "chars": 3030,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 553,
+  "printed": 543,
+  "zone": "foot",
+  "chars": 3012,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 554,
+  "printed": 544,
+  "zone": "foot",
+  "chars": 3084,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 555,
+  "printed": 545,
+  "zone": "foot",
+  "chars": 2990,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 556,
+  "printed": 546,
+  "zone": "foot",
+  "chars": 3034,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 557,
+  "printed": 547,
+  "zone": "foot",
+  "chars": 2864,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 558,
+  "printed": 548,
+  "zone": "foot",
+  "chars": 3121,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 559,
+  "printed": 549,
+  "zone": "foot",
+  "chars": 2973,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 560,
+  "printed": 550,
+  "zone": "foot",
+  "chars": 3334,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 561,
+  "printed": 551,
+  "zone": "foot",
+  "chars": 2496,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 562,
+  "printed": 552,
+  "zone": "foot",
+  "chars": 2922,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 563,
+  "printed": 553,
+  "zone": "foot",
+  "chars": 2090,
+  "first": "Receipts."
+ },
+ {
+  "pdf_page": 564,
+  "printed": 554,
+  "zone": "foot",
+  "chars": 1357,
+  "first": "Fünftes Kapitel · Spaltung des Profits m Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 565,
+  "printed": 555,
+  "zone": "foot",
+  "chars": 2227,
+  "first": "5"
+ },
+ {
+  "pdf_page": 566,
+  "printed": 556,
+  "zone": "foot",
+  "chars": 3031,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 567,
+  "printed": 557,
+  "zone": "foot",
+  "chars": 3130,
+  "first": "111)"
+ },
+ {
+  "pdf_page": 568,
+  "printed": 558,
+  "zone": "foot",
+  "chars": 3011,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 569,
+  "printed": null,
+  "zone": null,
+  "chars": 41,
+  "first": "Drittes Buch. Fünftes Kapitel. Seite 352a"
+ },
+ {
+  "pdf_page": 570,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 571,
+  "printed": 561,
+  "zone": "foot",
+  "chars": 2484,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 572,
+  "printed": 562,
+  "zone": "foot",
+  "chars": 2804,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 573,
+  "printed": 563,
+  "zone": "foot",
+  "chars": 2663,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 574,
+  "printed": 564,
+  "zone": "foot",
+  "chars": 2936,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 575,
+  "printed": 565,
+  "zone": "foot",
+  "chars": 2554,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 576,
+  "printed": 566,
+  "zone": "foot",
+  "chars": 2279,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 577,
+  "printed": 567,
+  "zone": "foot",
+  "chars": 2792,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 578,
+  "printed": 568,
+  "zone": "foot",
+  "chars": 2946,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 579,
+  "printed": 569,
+  "zone": "foot",
+  "chars": 2876,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 580,
+  "printed": 568,
+  "zone": "foot",
+  "chars": 2950,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 581,
+  "printed": 569,
+  "zone": "foot",
+  "chars": 2875,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 582,
+  "printed": 570,
+  "zone": "foot",
+  "chars": 2892,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 583,
+  "printed": 571,
+  "zone": "foot",
+  "chars": 2964,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 584,
+  "printed": 572,
+  "zone": "foot",
+  "chars": 2712,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 585,
+  "printed": 573,
+  "zone": "foot",
+  "chars": 2710,
+  "first": "Die Kontusion"
+ },
+ {
+  "pdf_page": 586,
+  "printed": 574,
+  "zone": "foot",
+  "chars": 2635,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 587,
+  "printed": 575,
+  "zone": "foot",
+  "chars": 2351,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 588,
+  "printed": 576,
+  "zone": "foot",
+  "chars": 2914,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 589,
+  "printed": 577,
+  "zone": "foot",
+  "chars": 2863,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 590,
+  "printed": 578,
+  "zone": "foot",
+  "chars": 2792,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 591,
+  "printed": 579,
+  "zone": "foot",
+  "chars": 2810,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 592,
+  "printed": 580,
+  "zone": "foot",
+  "chars": 2925,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 593,
+  "printed": 581,
+  "zone": "foot",
+  "chars": 2785,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 594,
+  "printed": 582,
+  "zone": "foot",
+  "chars": 3016,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 595,
+  "printed": 583,
+  "zone": "foot",
+  "chars": 2478,
+  "first": "Die Konfusion"
+ },
+ {
+  "pdf_page": 596,
+  "printed": 584,
+  "zone": "foot",
+  "chars": 2892,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 597,
+  "printed": 585,
+  "zone": "foot",
+  "chars": 2967,
+  "first": "111) Fortsetzung von S. 561"
+ },
+ {
+  "pdf_page": 598,
+  "printed": 586,
+  "zone": "foot",
+  "chars": 3063,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 599,
+  "printed": 587,
+  "zone": "foot",
+  "chars": 3044,
+  "first": "111) Fortsetzung von S. 561"
+ },
+ {
+  "pdf_page": 600,
+  "printed": 588,
+  "zone": "foot",
+  "chars": 3863,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 601,
+  "printed": 589,
+  "zone": "foot",
+  "chars": 3285,
+  "first": "111) Fortsetzung von S. 561"
+ },
+ {
+  "pdf_page": 602,
+  "printed": 590,
+  "zone": "foot",
+  "chars": 2951,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 603,
+  "printed": 591,
+  "zone": "foot",
+  "chars": 3109,
+  "first": "111) Fortsetzung von S. 561"
+ },
+ {
+  "pdf_page": 604,
+  "printed": 592,
+  "zone": "foot",
+  "chars": 3009,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 605,
+  "printed": 593,
+  "zone": "foot",
+  "chars": 2851,
+  "first": "111) Fortsetzung von S. 561"
+ },
+ {
+  "pdf_page": 606,
+  "printed": 594,
+  "zone": "foot",
+  "chars": 3089,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 607,
+  "printed": 595,
+  "zone": "foot",
+  "chars": 3011,
+  "first": "111) Fortsetzung von S. 561"
+ },
+ {
+  "pdf_page": 608,
+  "printed": 596,
+  "zone": "foot",
+  "chars": 2997,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 609,
+  "printed": 597,
+  "zone": "foot",
+  "chars": 2682,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 610,
+  "printed": 598,
+  "zone": "foot",
+  "chars": 2884,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 611,
+  "printed": 599,
+  "zone": "foot",
+  "chars": 2909,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 612,
+  "printed": 600,
+  "zone": "foot",
+  "chars": 3006,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 613,
+  "printed": 601,
+  "zone": "foot",
+  "chars": 2853,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 614,
+  "printed": 602,
+  "zone": "foot",
+  "chars": 2755,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 615,
+  "printed": 603,
+  "zone": "foot",
+  "chars": 2873,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 616,
+  "printed": 604,
+  "zone": "foot",
+  "chars": 2899,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 617,
+  "printed": 605,
+  "zone": "foot",
+  "chars": 2735,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 618,
+  "printed": 606,
+  "zone": "foot",
+  "chars": 2727,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 619,
+  "printed": 607,
+  "zone": "foot",
+  "chars": 1999,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 620,
+  "printed": 608,
+  "zone": "foot",
+  "chars": 2494,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 621,
+  "printed": 609,
+  "zone": "foot",
+  "chars": 2281,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 622,
+  "printed": 610,
+  "zone": "foot",
+  "chars": 2811,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 623,
+  "printed": 611,
+  "zone": "foot",
+  "chars": 2180,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 624,
+  "printed": 612,
+  "zone": "foot",
+  "chars": 1935,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 625,
+  "printed": 613,
+  "zone": "foot",
+  "chars": 2079,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 626,
+  "printed": 614,
+  "zone": "foot",
+  "chars": 2601,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 627,
+  "printed": 615,
+  "zone": "foot",
+  "chars": 2709,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 628,
+  "printed": 616,
+  "zone": "foot",
+  "chars": 2829,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 629,
+  "printed": 617,
+  "zone": "foot",
+  "chars": 2786,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 630,
+  "printed": 618,
+  "zone": "foot",
+  "chars": 2923,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 631,
+  "printed": 619,
+  "zone": "foot",
+  "chars": 2815,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 632,
+  "printed": 620,
+  "zone": "foot",
+  "chars": 2868,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 633,
+  "printed": 621,
+  "zone": "foot",
+  "chars": 2929,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 634,
+  "printed": 622,
+  "zone": "foot",
+  "chars": 3087,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 635,
+  "printed": 623,
+  "zone": "foot",
+  "chars": 2983,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 636,
+  "printed": 624,
+  "zone": "foot",
+  "chars": 3606,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 637,
+  "printed": 625,
+  "zone": "foot",
+  "chars": 3243,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 638,
+  "printed": 626,
+  "zone": "foot",
+  "chars": 3034,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 639,
+  "printed": 627,
+  "zone": "foot",
+  "chars": 2990,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 640,
+  "printed": 628,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 641,
+  "printed": 629,
+  "zone": "foot",
+  "chars": 3037,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 642,
+  "printed": 630,
+  "zone": "foot",
+  "chars": 3010,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 643,
+  "printed": 631,
+  "zone": "foot",
+  "chars": 3129,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 644,
+  "printed": 632,
+  "zone": "foot",
+  "chars": 3126,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 645,
+  "printed": 633,
+  "zone": "foot",
+  "chars": 3088,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 646,
+  "printed": 634,
+  "zone": "foot",
+  "chars": 3112,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 647,
+  "printed": 635,
+  "zone": "foot",
+  "chars": 2796,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 648,
+  "printed": 636,
+  "zone": "foot",
+  "chars": 3125,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 649,
+  "printed": 637,
+  "zone": "foot",
+  "chars": 3060,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 650,
+  "printed": 638,
+  "zone": "foot",
+  "chars": 3095,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 651,
+  "printed": 639,
+  "zone": "foot",
+  "chars": 2398,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 652,
+  "printed": 640,
+  "zone": "foot",
+  "chars": 3056,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 653,
+  "printed": 641,
+  "zone": "foot",
+  "chars": 2983,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 654,
+  "printed": 642,
+  "zone": "foot",
+  "chars": 2839,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 655,
+  "printed": 643,
+  "zone": "foot",
+  "chars": 2927,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 656,
+  "printed": 644,
+  "zone": "foot",
+  "chars": 2943,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 657,
+  "printed": 645,
+  "zone": "foot",
+  "chars": 3005,
+  "first": "Die Konfusion. Fortsetzung von S. 583"
+ },
+ {
+  "pdf_page": 658,
+  "printed": 646,
+  "zone": "foot",
+  "chars": 2655,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 659,
+  "printed": 647,
+  "zone": "foot",
+  "chars": 2829,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 660,
+  "printed": 648,
+  "zone": "foot",
+  "chars": 3141,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 661,
+  "printed": 649,
+  "zone": "foot",
+  "chars": 2856,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 662,
+  "printed": 648,
+  "zone": "foot",
+  "chars": 3138,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 663,
+  "printed": 649,
+  "zone": "foot",
+  "chars": 2857,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 664,
+  "printed": 650,
+  "zone": "foot",
+  "chars": 2858,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 665,
+  "printed": 651,
+  "zone": "foot",
+  "chars": 3017,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 666,
+  "printed": 652,
+  "zone": "foot",
+  "chars": 2923,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 667,
+  "printed": 653,
+  "zone": "foot",
+  "chars": 3277,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 668,
+  "printed": 654,
+  "zone": "foot",
+  "chars": 3292,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 669,
+  "printed": 655,
+  "zone": "foot",
+  "chars": 2931,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 670,
+  "printed": 656,
+  "zone": "foot",
+  "chars": 2873,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 671,
+  "printed": 657,
+  "zone": "foot",
+  "chars": 3042,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 672,
+  "printed": 658,
+  "zone": "foot",
+  "chars": 3099,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 673,
+  "printed": 659,
+  "zone": "foot",
+  "chars": 3035,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 674,
+  "printed": 660,
+  "zone": "foot",
+  "chars": 3872,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 675,
+  "printed": 661,
+  "zone": "foot",
+  "chars": 3490,
+  "first": "6} Vorbürgerliches"
+ },
+ {
+  "pdf_page": 676,
+  "printed": 662,
+  "zone": "foot",
+  "chars": 3760,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 677,
+  "printed": 663,
+  "zone": "foot",
+  "chars": 3256,
+  "first": "6) Vorbürgerliches"
+ },
+ {
+  "pdf_page": 678,
+  "printed": 664,
+  "zone": "foot",
+  "chars": 1397,
+  "first": "Fünftes Kapitel · Spaltung des Profits in Zins und Unternehmungsgewinn"
+ },
+ {
+  "pdf_page": 679,
+  "printed": null,
+  "zone": null,
+  "chars": 41,
+  "first": "Drittes Buch. Sechstes Kapitel. Seite 406"
+ },
+ {
+  "pdf_page": 680,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 681,
+  "printed": 667,
+  "zone": "foot",
+  "chars": 1902,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 682,
+  "printed": 668,
+  "zone": "foot",
+  "chars": 3220,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 683,
+  "printed": 669,
+  "zone": "foot",
+  "chars": 3698,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 684,
+  "printed": 670,
+  "zone": "foot",
+  "chars": 3734,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 685,
+  "printed": 671,
+  "zone": "foot",
+  "chars": 3002,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 686,
+  "printed": 672,
+  "zone": "foot",
+  "chars": 3055,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 687,
+  "printed": 673,
+  "zone": "foot",
+  "chars": 3546,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 688,
+  "printed": 674,
+  "zone": "foot",
+  "chars": 2993,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 689,
+  "printed": 675,
+  "zone": "foot",
+  "chars": 2979,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 690,
+  "printed": 676,
+  "zone": "foot",
+  "chars": 3022,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 691,
+  "printed": 677,
+  "zone": "foot",
+  "chars": 2928,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 692,
+  "printed": 678,
+  "zone": "foot",
+  "chars": 3008,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 693,
+  "printed": 679,
+  "zone": "foot",
+  "chars": 2961,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 694,
+  "printed": 680,
+  "zone": "foot",
+  "chars": 3064,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 695,
+  "printed": 681,
+  "zone": "foot",
+  "chars": 2882,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 696,
+  "printed": 682,
+  "zone": "foot",
+  "chars": 2367,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 697,
+  "printed": 683,
+  "zone": "foot",
+  "chars": 3082,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 698,
+  "printed": 684,
+  "zone": "foot",
+  "chars": 3072,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 699,
+  "printed": 685,
+  "zone": "foot",
+  "chars": 2853,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 700,
+  "printed": 686,
+  "zone": "foot",
+  "chars": 3106,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 701,
+  "printed": 687,
+  "zone": "foot",
+  "chars": 3021,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 702,
+  "printed": 688,
+  "zone": "foot",
+  "chars": 2973,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 703,
+  "printed": 689,
+  "zone": "foot",
+  "chars": 2949,
+  "first": "a) Einleitendes"
+ },
+ {
+  "pdf_page": 704,
+  "printed": 690,
+  "zone": "foot",
+  "chars": 2574,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 705,
+  "printed": 691,
+  "zone": "foot",
+  "chars": 2992,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 706,
+  "printed": 692,
+  "zone": "foot",
+  "chars": 3455,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 707,
+  "printed": 693,
+  "zone": "foot",
+  "chars": 2996,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 708,
+  "printed": 694,
+  "zone": "foot",
+  "chars": 3057,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 709,
+  "printed": 695,
+  "zone": "foot",
+  "chars": 3078,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 710,
+  "printed": 696,
+  "zone": "foot",
+  "chars": 3079,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 711,
+  "printed": 697,
+  "zone": "foot",
+  "chars": 3633,
+  "first": "c} Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 712,
+  "printed": 698,
+  "zone": "foot",
+  "chars": 2922,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 713,
+  "printed": 699,
+  "zone": "foot",
+  "chars": 2934,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 714,
+  "printed": 700,
+  "zone": "foot",
+  "chars": 2938,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 715,
+  "printed": 701,
+  "zone": "foot",
+  "chars": 2990,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 716,
+  "printed": 702,
+  "zone": "foot",
+  "chars": 2888,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 717,
+  "printed": 703,
+  "zone": "foot",
+  "chars": 3035,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 718,
+  "printed": 704,
+  "zone": "foot",
+  "chars": 3041,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 719,
+  "printed": 705,
+  "zone": "foot",
+  "chars": 2833,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 720,
+  "printed": 706,
+  "zone": "foot",
+  "chars": 2819,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 721,
+  "printed": 707,
+  "zone": "foot",
+  "chars": 2945,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 722,
+  "printed": 708,
+  "zone": "foot",
+  "chars": 2945,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 723,
+  "printed": 709,
+  "zone": "foot",
+  "chars": 3000,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 724,
+  "printed": 710,
+  "zone": "foot",
+  "chars": 3004,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 725,
+  "printed": 711,
+  "zone": "foot",
+  "chars": 2977,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 726,
+  "printed": 712,
+  "zone": "foot",
+  "chars": 3042,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 727,
+  "printed": 713,
+  "zone": "foot",
+  "chars": 3052,
+  "first": "c} Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 728,
+  "printed": 714,
+  "zone": "foot",
+  "chars": 2942,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 729,
+  "printed": 715,
+  "zone": "foot",
+  "chars": 2908,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 730,
+  "printed": 716,
+  "zone": "foot",
+  "chars": 3055,
+  "first": "Sechstes Kap1tel"
+ },
+ {
+  "pdf_page": 731,
+  "printed": 717,
+  "zone": "foot",
+  "chars": 2947,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 732,
+  "printed": 718,
+  "zone": "foot",
+  "chars": 2902,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 733,
+  "printed": 719,
+  "zone": "foot",
+  "chars": 3051,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 734,
+  "printed": 720,
+  "zone": "foot",
+  "chars": 3401,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 735,
+  "printed": 721,
+  "zone": "foot",
+  "chars": 3065,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 736,
+  "printed": 722,
+  "zone": "foot",
+  "chars": 2848,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 737,
+  "printed": 723,
+  "zone": "foot",
+  "chars": 2856,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 738,
+  "printed": 724,
+  "zone": "foot",
+  "chars": 3061,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 739,
+  "printed": 725,
+  "zone": "foot",
+  "chars": 2945,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 740,
+  "printed": 726,
+  "zone": "foot",
+  "chars": 3075,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 741,
+  "printed": 727,
+  "zone": "foot",
+  "chars": 2946,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 742,
+  "printed": 728,
+  "zone": "foot",
+  "chars": 3329,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 743,
+  "printed": 729,
+  "zone": "foot",
+  "chars": 3056,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 744,
+  "printed": 730,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 745,
+  "printed": 731,
+  "zone": "foot",
+  "chars": 3067,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 746,
+  "printed": 732,
+  "zone": "foot",
+  "chars": 3034,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 747,
+  "printed": 733,
+  "zone": "foot",
+  "chars": 3037,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 748,
+  "printed": 734,
+  "zone": "foot",
+  "chars": 3025,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 749,
+  "printed": 735,
+  "zone": "foot",
+  "chars": 3027,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 750,
+  "printed": 736,
+  "zone": "foot",
+  "chars": 3114,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 751,
+  "printed": 737,
+  "zone": "foot",
+  "chars": 3040,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 752,
+  "printed": 738,
+  "zone": "foot",
+  "chars": 3064,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 753,
+  "printed": 739,
+  "zone": "foot",
+  "chars": 2974,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 754,
+  "printed": 740,
+  "zone": "foot",
+  "chars": 3055,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 755,
+  "printed": 741,
+  "zone": "foot",
+  "chars": 2985,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 756,
+  "printed": 742,
+  "zone": "foot",
+  "chars": 2902,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 757,
+  "printed": 743,
+  "zone": "foot",
+  "chars": 2820,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 758,
+  "printed": 744,
+  "zone": "foot",
+  "chars": 2972,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 759,
+  "printed": 745,
+  "zone": "foot",
+  "chars": 2928,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 760,
+  "printed": 746,
+  "zone": "foot",
+  "chars": 3100,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 761,
+  "printed": 747,
+  "zone": "foot",
+  "chars": 2751,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 762,
+  "printed": 748,
+  "zone": "foot",
+  "chars": 3276,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 763,
+  "printed": 749,
+  "zone": "foot",
+  "chars": 3104,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 764,
+  "printed": 750,
+  "zone": "foot",
+  "chars": 2962,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 765,
+  "printed": 751,
+  "zone": "foot",
+  "chars": 2755,
+  "first": "c) Die absolute Grundrente"
+ },
+ {
+  "pdf_page": 766,
+  "printed": 752,
+  "zone": "foot",
+  "chars": 2908,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 767,
+  "printed": 753,
+  "zone": "foot",
+  "chars": 2607,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 768,
+  "printed": 754,
+  "zone": "foot",
+  "chars": 2944,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 769,
+  "printed": 755,
+  "zone": "foot",
+  "chars": 3101,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 770,
+  "printed": 756,
+  "zone": "foot",
+  "chars": 2913,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 771,
+  "printed": 757,
+  "zone": "foot",
+  "chars": 2974,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 772,
+  "printed": 758,
+  "zone": "foot",
+  "chars": 3055,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 773,
+  "printed": 759,
+  "zone": "foot",
+  "chars": 2975,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 774,
+  "printed": 760,
+  "zone": "foot",
+  "chars": 2963,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 775,
+  "printed": 761,
+  "zone": "foot",
+  "chars": 3005,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 776,
+  "printed": 762,
+  "zone": "foot",
+  "chars": 2908,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 777,
+  "printed": 763,
+  "zone": "foot",
+  "chars": 3046,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 778,
+  "printed": 764,
+  "zone": "foot",
+  "chars": 2635,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 779,
+  "printed": 765,
+  "zone": "foot",
+  "chars": 2521,
+  "first": "5"
+ },
+ {
+  "pdf_page": 780,
+  "printed": 766,
+  "zone": "foot",
+  "chars": 2909,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 781,
+  "printed": 767,
+  "zone": "foot",
+  "chars": 2571,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 782,
+  "printed": 768,
+  "zone": "foot",
+  "chars": 2399,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 783,
+  "printed": 769,
+  "zone": "foot",
+  "chars": 2953,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 784,
+  "printed": 770,
+  "zone": "foot",
+  "chars": 3086,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 785,
+  "printed": 771,
+  "zone": "foot",
+  "chars": 2755,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 786,
+  "printed": 772,
+  "zone": "foot",
+  "chars": 2693,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 787,
+  "printed": 773,
+  "zone": "foot",
+  "chars": 2137,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 788,
+  "printed": 774,
+  "zone": "foot",
+  "chars": 2787,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 789,
+  "printed": 775,
+  "zone": "foot",
+  "chars": 2883,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 790,
+  "printed": 776,
+  "zone": "foot",
+  "chars": 2971,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 791,
+  "printed": 777,
+  "zone": "foot",
+  "chars": 3066,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 792,
+  "printed": 778,
+  "zone": "foot",
+  "chars": 3060,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 793,
+  "printed": 779,
+  "zone": "foot",
+  "chars": 2855,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 794,
+  "printed": 780,
+  "zone": "foot",
+  "chars": 3078,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 795,
+  "printed": 781,
+  "zone": "foot",
+  "chars": 2848,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 796,
+  "printed": 782,
+  "zone": "foot",
+  "chars": 2901,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 797,
+  "printed": 783,
+  "zone": "foot",
+  "chars": 2679,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 798,
+  "printed": 784,
+  "zone": "foot",
+  "chars": 2428,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 799,
+  "printed": 785,
+  "zone": "foot",
+  "chars": 2930,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 800,
+  "printed": 786,
+  "zone": "foot",
+  "chars": 2941,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 801,
+  "printed": 787,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 802,
+  "printed": 788,
+  "zone": "foot",
+  "chars": 3132,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 803,
+  "printed": 789,
+  "zone": "foot",
+  "chars": 2899,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 804,
+  "printed": 790,
+  "zone": "foot",
+  "chars": 2893,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 805,
+  "printed": 791,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 806,
+  "printed": 792,
+  "zone": "foot",
+  "chars": 3039,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 807,
+  "printed": 793,
+  "zone": "foot",
+  "chars": 2588,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 808,
+  "printed": 794,
+  "zone": "foot",
+  "chars": 2677,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 809,
+  "printed": 795,
+  "zone": "foot",
+  "chars": 1687,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 810,
+  "printed": 796,
+  "zone": "foot",
+  "chars": 2960,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 811,
+  "printed": 797,
+  "zone": "foot",
+  "chars": 3086,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 812,
+  "printed": 798,
+  "zone": "foot",
+  "chars": 3042,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 813,
+  "printed": 799,
+  "zone": "foot",
+  "chars": 3016,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 814,
+  "printed": 800,
+  "zone": "foot",
+  "chars": 3071,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 815,
+  "printed": 801,
+  "zone": "foot",
+  "chars": 2704,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 816,
+  "printed": 802,
+  "zone": "foot",
+  "chars": 2803,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 817,
+  "printed": 803,
+  "zone": "foot",
+  "chars": 2426,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 818,
+  "printed": 804,
+  "zone": "foot",
+  "chars": 1726,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 819,
+  "printed": 805,
+  "zone": "foot",
+  "chars": 3005,
+  "first": "b} Die Differentialrente"
+ },
+ {
+  "pdf_page": 820,
+  "printed": 806,
+  "zone": "foot",
+  "chars": 3002,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 821,
+  "printed": 807,
+  "zone": "foot",
+  "chars": 2981,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 822,
+  "printed": 808,
+  "zone": "foot",
+  "chars": 2425,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 823,
+  "printed": 809,
+  "zone": "foot",
+  "chars": 2522,
+  "first": "5"
+ },
+ {
+  "pdf_page": 824,
+  "printed": 810,
+  "zone": "foot",
+  "chars": 2360,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 825,
+  "printed": 811,
+  "zone": "foot",
+  "chars": 3083,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 826,
+  "printed": 812,
+  "zone": "foot",
+  "chars": 3055,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 827,
+  "printed": 813,
+  "zone": "foot",
+  "chars": 2862,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 828,
+  "printed": 814,
+  "zone": "foot",
+  "chars": 2670,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 829,
+  "printed": 815,
+  "zone": "foot",
+  "chars": 2880,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 830,
+  "printed": 816,
+  "zone": "foot",
+  "chars": 3040,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 831,
+  "printed": 817,
+  "zone": "foot",
+  "chars": 3059,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 832,
+  "printed": 818,
+  "zone": "foot",
+  "chars": 3071,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 833,
+  "printed": 819,
+  "zone": "foot",
+  "chars": 2950,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 834,
+  "printed": 820,
+  "zone": "foot",
+  "chars": 2682,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 835,
+  "printed": 821,
+  "zone": "foot",
+  "chars": 2226,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 836,
+  "printed": 822,
+  "zone": "foot",
+  "chars": 2986,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 837,
+  "printed": 823,
+  "zone": "foot",
+  "chars": 2891,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 838,
+  "printed": 824,
+  "zone": "foot",
+  "chars": 2981,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 839,
+  "printed": 825,
+  "zone": "foot",
+  "chars": 2477,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 840,
+  "printed": 826,
+  "zone": "foot",
+  "chars": 2915,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 841,
+  "printed": 827,
+  "zone": "foot",
+  "chars": 2940,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 842,
+  "printed": 828,
+  "zone": "foot",
+  "chars": 2651,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 843,
+  "printed": 829,
+  "zone": "foot",
+  "chars": 2463,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 844,
+  "printed": 830,
+  "zone": "foot",
+  "chars": 2762,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 845,
+  "printed": 831,
+  "zone": "foot",
+  "chars": 3153,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 846,
+  "printed": 832,
+  "zone": "foot",
+  "chars": 2995,
+  "first": "Sechstes Kapitel · Verwandlung von Surplusprofit in Grundrente"
+ },
+ {
+  "pdf_page": 847,
+  "printed": 833,
+  "zone": "foot",
+  "chars": 2855,
+  "first": "b) Die Differentialrente"
+ },
+ {
+  "pdf_page": 848,
+  "printed": 834,
+  "zone": "foot",
+  "chars": 1617,
+  "first": "1) Die trinitarische Formel"
+ },
+ {
+  "pdf_page": 849,
+  "printed": null,
+  "zone": null,
+  "chars": 42,
+  "first": "Drittes Buch. Siebentes Kapitel. Seite 528"
+ },
+ {
+  "pdf_page": 850,
+  "printed": null,
+  "zone": null,
+  "chars": 0,
+  "first": ""
+ },
+ {
+  "pdf_page": 851,
+  "printed": 837,
+  "zone": "foot",
+  "chars": 3089,
+  "first": "1) Die trinitarische Formel"
+ },
+ {
+  "pdf_page": 852,
+  "printed": 838,
+  "zone": "foot",
+  "chars": 3095,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 853,
+  "printed": 839,
+  "zone": "foot",
+  "chars": 2966,
+  "first": "1) Die trinitarische Formel"
+ },
+ {
+  "pdf_page": 854,
+  "printed": 840,
+  "zone": "foot",
+  "chars": 3041,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 855,
+  "printed": null,
+  "zone": null,
+  "chars": 120,
+  "first": "Drittes Buch. Siebentes Kapitel. Seite 531a, paginiert von fremder Han"
+ },
+ {
+  "pdf_page": 856,
+  "printed": null,
+  "zone": null,
+  "chars": 121,
+  "first": "Drittes Buch. Siebentes Kapitel. Seite 531 b, p~giniert von fremder Ha"
+ },
+ {
+  "pdf_page": 857,
+  "printed": 843,
+  "zone": "foot",
+  "chars": 2977,
+  "first": "1) Die trinitarische Formel"
+ },
+ {
+  "pdf_page": 858,
+  "printed": 844,
+  "zone": "foot",
+  "chars": 3044,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 859,
+  "printed": 845,
+  "zone": "foot",
+  "chars": 3056,
+  "first": "1) Dte trinitarische Formel"
+ },
+ {
+  "pdf_page": 860,
+  "printed": 846,
+  "zone": "foot",
+  "chars": 3069,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen} und ihre Quellen"
+ },
+ {
+  "pdf_page": 861,
+  "printed": 847,
+  "zone": "foot",
+  "chars": 3016,
+  "first": "1) Die trinitarische Formel"
+ },
+ {
+  "pdf_page": 862,
+  "printed": 848,
+  "zone": "foot",
+  "chars": 3160,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 863,
+  "printed": 849,
+  "zone": "foot",
+  "chars": 3062,
+  "first": "1) Die trinitarische Formel"
+ },
+ {
+  "pdf_page": 864,
+  "printed": 850,
+  "zone": "foot",
+  "chars": 3080,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 865,
+  "printed": 851,
+  "zone": "foot",
+  "chars": 2981,
+  "first": "1) Die trinitarische Formel"
+ },
+ {
+  "pdf_page": 866,
+  "printed": 852,
+  "zone": "foot",
+  "chars": 3085,
+  "first": "Siebentes Kapitel · Revenuen {Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 867,
+  "printed": 853,
+  "zone": "foot",
+  "chars": 2652,
+  "first": "2} Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 868,
+  "printed": 854,
+  "zone": "foot",
+  "chars": 3099,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 869,
+  "printed": 855,
+  "zone": "foot",
+  "chars": 2926,
+  "first": "2) Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 870,
+  "printed": 856,
+  "zone": "foot",
+  "chars": 3043,
+  "first": "Siebentes Kapitel · Revenuen {Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 871,
+  "printed": 857,
+  "zone": "foot",
+  "chars": 3005,
+  "first": "2) Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 872,
+  "printed": 858,
+  "zone": "foot",
+  "chars": 3023,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 873,
+  "printed": 859,
+  "zone": "foot",
+  "chars": 2868,
+  "first": "2) Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 874,
+  "printed": 860,
+  "zone": "foot",
+  "chars": 3101,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 875,
+  "printed": 861,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "2) Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 876,
+  "printed": 862,
+  "zone": "foot",
+  "chars": 3294,
+  "first": "Siebentes Kapitel · Revenuen {Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 877,
+  "printed": 863,
+  "zone": "foot",
+  "chars": 3550,
+  "first": "2) Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 878,
+  "printed": 864,
+  "zone": "foot",
+  "chars": 3994,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 879,
+  "printed": 865,
+  "zone": "foot",
+  "chars": 3002,
+  "first": "2) Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 880,
+  "printed": 866,
+  "zone": "foot",
+  "chars": 3262,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 881,
+  "printed": 867,
+  "zone": "foot",
+  "chars": 3813,
+  "first": "2) Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 882,
+  "printed": 868,
+  "zone": "foot",
+  "chars": 3737,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 883,
+  "printed": 869,
+  "zone": "foot",
+  "chars": 2936,
+  "first": "2) Zur Analyse des Produktionsprozesses"
+ },
+ {
+  "pdf_page": 884,
+  "printed": 870,
+  "zone": "foot",
+  "chars": 3091,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 885,
+  "printed": 871,
+  "zone": "foot",
+  "chars": 2685,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 886,
+  "printed": 872,
+  "zone": "foot",
+  "chars": 3018,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 887,
+  "printed": 873,
+  "zone": "foot",
+  "chars": 2890,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 888,
+  "printed": 874,
+  "zone": "foot",
+  "chars": 2536,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 889,
+  "printed": 875,
+  "zone": "foot",
+  "chars": 2874,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 890,
+  "printed": 876,
+  "zone": "foot",
+  "chars": 2739,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 891,
+  "printed": 877,
+  "zone": "foot",
+  "chars": 3058,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 892,
+  "printed": 878,
+  "zone": "foot",
+  "chars": 3101,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 893,
+  "printed": 879,
+  "zone": "foot",
+  "chars": 2964,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 894,
+  "printed": 880,
+  "zone": "foot",
+  "chars": 3007,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 895,
+  "printed": 881,
+  "zone": "foot",
+  "chars": 3038,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 896,
+  "printed": 882,
+  "zone": "foot",
+  "chars": 2983,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 897,
+  "printed": 883,
+  "zone": "foot",
+  "chars": 2998,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 898,
+  "printed": 884,
+  "zone": "foot",
+  "chars": 2901,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 899,
+  "printed": 885,
+  "zone": "foot",
+  "chars": 2888,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 900,
+  "printed": 886,
+  "zone": "foot",
+  "chars": 3029,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 901,
+  "printed": 887,
+  "zone": "foot",
+  "chars": 3014,
+  "first": "3} Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 902,
+  "printed": 888,
+  "zone": "foot",
+  "chars": 3050,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen} und ihre Quellen"
+ },
+ {
+  "pdf_page": 903,
+  "printed": 889,
+  "zone": "foot",
+  "chars": 2955,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 904,
+  "printed": 890,
+  "zone": "foot",
+  "chars": 3033,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 905,
+  "printed": 891,
+  "zone": "foot",
+  "chars": 2986,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 906,
+  "printed": 892,
+  "zone": "foot",
+  "chars": 3030,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 907,
+  "printed": 893,
+  "zone": "foot",
+  "chars": 3004,
+  "first": "3) Schein der Konkurrenz"
+ },
+ {
+  "pdf_page": 908,
+  "printed": 894,
+  "zone": "foot",
+  "chars": 2713,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 909,
+  "printed": 895,
+  "zone": "foot",
+  "chars": 2868,
+  "first": "4} Distributions- und Produktionsverhältnisse"
+ },
+ {
+  "pdf_page": 910,
+  "printed": 896,
+  "zone": "foot",
+  "chars": 2959,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 911,
+  "printed": 897,
+  "zone": "foot",
+  "chars": 2945,
+  "first": "4) Distributions- und Produktionsverhältnisse"
+ },
+ {
+  "pdf_page": 912,
+  "printed": 898,
+  "zone": "foot",
+  "chars": 2872,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 913,
+  "printed": 899,
+  "zone": "foot",
+  "chars": 2900,
+  "first": "4) Distributions- und Produktionsverhältnisse"
+ },
+ {
+  "pdf_page": 914,
+  "printed": 900,
+  "zone": "foot",
+  "chars": 2948,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ },
+ {
+  "pdf_page": 915,
+  "printed": 901,
+  "zone": "foot",
+  "chars": 2578,
+  "first": "5) Die Klassen"
+ },
+ {
+  "pdf_page": 916,
+  "printed": 902,
+  "zone": "foot",
+  "chars": 2795,
+  "first": "Siebentes Kapitel · Revenuen (Einkommen) und ihre Quellen"
+ }
+]
